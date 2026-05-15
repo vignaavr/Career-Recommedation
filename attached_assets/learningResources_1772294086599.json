@@ -1,0 +1,32 @@
+{
+  "Programming Logic": [
+    "https://www.programiz.com/article/flowchart-programming",
+    "https://www.geeksforgeeks.org/",
+    "https://www.youtube.com/watch?v=rfscVS0vtbw"
+  ],
+  "DBMS": [
+    "https://www.javatpoint.com/dbms-tutorial",
+    "https://www.geeksforgeeks.org/dbms/",
+    "https://www.youtube.com/watch?v=6Iu45VZGQDk"
+  ],
+  "OOPS": [
+    "https://www.javatpoint.com/java-oops-concepts",
+    "https://www.geeksforgeeks.org/object-oriented-programming-oops-concept/",
+    "https://www.youtube.com/watch?v=SiBw7os-_zI"
+  ],
+  "Aptitude": [
+    "https://www.indiabix.com/aptitude/questions-and-answers/",
+    "https://www.geeksforgeeks.org/aptitude-for-placement-papers/",
+    "https://www.youtube.com/watch?v=aptitude"
+  ],
+  "Reasoning": [
+    "https://www.indiabix.com/logical-reasoning/questions-and-answers/",
+    "https://www.geeksforgeeks.org/logical-reasoning/",
+    "https://www.youtube.com/watch?v=logicalreasoning"
+  ],
+  "Computer Fundamentals": [
+    "https://www.javatpoint.com/computer-fundamentals",
+    "https://www.geeksforgeeks.org/computer-fundamentals/",
+    "https://www.youtube.com/watch?v=ZSPZob_1TOk"
+  ]
+}

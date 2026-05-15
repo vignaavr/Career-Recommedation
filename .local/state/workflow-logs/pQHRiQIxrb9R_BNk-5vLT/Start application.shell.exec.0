@@ -1,0 +1,61 @@
+
+> rest-express@1.0.0 dev
+> NODE_ENV=development tsx server/index.ts
+
+[1G[0K8:56:38 AM [express] serving on port 5000
+8:58:16 AM [express] GET /api/questions 200 in 3ms :: [{"domain":"Logical Reasoning","text":"A square plot with 27 poles on each side. Total poles?","options":["100","104","108","None of these"],"correctAnswer":1,"id":1},{"domain":"Database Systems","text":"A ………………. does not have a distinguishing attribute of its own and is dependent on another entity.","options":["Weak entity","Strong entity","Non-attribute entity","Dependent entity"],"correctAnswer":0,"id":2},{"domain":"Computer Fundamentals","text":"The two kinds of main memory are?","options":["Primary and secondary","Random and sequential","ROM and RAM","All of the above"],"correctAnswer":2,"id":3},{"domain":"Logical Reasoning","text":"Golu walks 8 km North → 6 km West. Shortest distance to home?","options":["10 km","16 km","14 km","2 km"],"correctAnswer":0,"id":4},{"domain":"Logical Reasoning","text":"Adults : Children = 2 : 3. 40% adults illiterate, 85% children literate. Percentage of total population literate?","options":["20%","25%","50%","75%"],"correctAnswer":2,"id":5},{"domain":"Computer Fundamentals","text":"Arranging data in logical sequence is called?","options":["Sorting","Classifying","Summarizing","Reproducing"],"correctAnswer":0,"id":6},{"domain":"Programming Logic","text":"What is 25 MOD 4?","options":["1","6","0","3"],"correctAnswer":0,"id":7},{"domain":"Programming Logic","text":"S = 12. IF S < 10: Print \"No\" ELSE: IF S < 20: Print \"Yes\". What will be printed?","options":["No","Yes","12","20"],"correctAnswer":1,"id":8},{"domain":"OOPS","text":"Who invented OOP?","options":["Andrea Ferro","Adele Goldberg","Alan Kay","Dennis Ritchie"],"correctAnswer":2,"id":9},{"domain":"Programming Logic","text":"B = 1. FOR i from 1 to 4: B = B + i. What is the value of B?","options":["10","11","5","4"],"correctAnswer":1,"id":10},{"domain":"Quantitative Aptitude","text":"Clock shows 8 a.m. → 2 p.m. How many degrees does the hour hand rotate?","options":["144°","150°","168°","180°"],"correctAnswer":3,"id":11},{"domain":"Programming Logic","text":"Q = 0. IF Q >= 0: IF Q == 0: Print \"Zero\" ELSE: Print \"Positive\". What will be printed?","options":["Zero","Positive","0","Negative"],"correctAnswer":0,"id":12},{"domain":"Computer Fundamentals","text":"Integrated circuit is?","options":["Complicated circuit","Integrating device","Costlier than transistor","Fabricated on silicon chip"],"correctAnswer":3,"id":13},{"domain":"Computer Fundamentals","text":"Which storage device stores maximum amount of data?","options":["Floppy disk","Hard disk","Compact disk","Magneto optic disk"],"correctAnswer":1,"id":14},{"domain":"Quantitative Aptitude","text":"In a 100 m race, A beats B by 10 m and C by 13 m. In a race of 180 m, B will beat C by:","options":["5.4 m","4.5 m","5 m","6 m"],"correctAnswer":0,"id":15},{"domain":"Database Systems","text":"……………… defines rules regarding the values allowed in columns.","options":["Column","Constraint","Index","Trigger"],"correctAnswer":1,"id":16},{"domain":"Programming Logic","text":"A = [1, 2, 3, 4]. X = A[1] + A[3]. What is X?","options":["4","6","5","7"],"correctAnswer":1,"id":17},{"domain":"OOPS","text":"Which is the function to get the character present at a particular index in the string?","options":["char charAt(index);","char charIn(StringName);","char charAt(StringName);","char charIn(index);"],"correctAnswer":0,"id":18},{"domain":"Database Systems","text":"To change column value in a table, the ……… command can be used.","options":["CREATE","INSERT","ALTER","UPDATE"],"correctAnswer":3,"id":19},{"domain":"Database Systems","text":"Which are the two ways in which entities can participate in a relationship?","options":["Passive and active","Total and partial","Simple and complex","All of the above"],"correctAnswer":1,"id":20},{"domain":"Logical Reasoning","text":"Pointing to Varman, Madhav said, \"I am the only son of one of the sons of his father.\" How is Varman related to Madhav?","options":["Nephew","Uncle","Father or Uncle","Father"],"correctAnswer":2,"id":21},{"domain":"Programming Logic","text":"A = 5, B = 10. IF A < B: IF A > 0: Print \"Pos\" ELSE: Print \"Neg\". What will be printed?","options":["Pos","Neg","5","10"],"correctAnswer":0,"id":22},{"domain":"Quantitative Aptitude","text":"Interest paid = ₹5400 for 3 years @12% simple interest. Principal?","options":["Rs. 2000","Rs. 10,000","Rs. 15,000","Rs. 20,000"],"correctAnswer":2,"id":23},{"domain":"OOPS","text":"Which operator should be used to access the members of the class using object pointer?","options":["Dot operator","Colon to the member","Scope resolution operator","Arrow operator"],"correctAnswer":3,"id":24},{"domain":"Logical Reasoning","text":"Ornithologist : Bird :: Archaeologist : ?","options":["Islands","Mediators","Archaeology","Aquatic"],"correctAnswer":2,"id":25},{"domain":"OOPS","text":"Function replace() accepts _____________ arguments.","options":["1","2","3","4"],"correctAnswer":1,"id":26},{"domain":"Quantitative Aptitude","text":"Two ships on opposite sides of a 100 m lighthouse observe angles 30° and 45°. Distance between ships?","options":["173 m","200 m","273 m","300 m"],"correctAnswer":2,"id":27},{"domain":"Database Systems","text":"In SQL, the CREATE TABLESPACE is used","options":["to create a place in the database for storage of schema objects, rollback segments, and naming the data files","to create a database trigger","to add/rename data files, to change storage","All of the above"],"correctAnswer":0,"id":28},{"domain":"Computer Fundamentals","text":"Which of the following is system software?","options":["Compiler","Text editor","Operating system","All of the above"],"correctAnswer":3,"id":29},{"domain":"OOPS","text":"What is the size of an object pointer?","options":["Equal to size of any usual pointer","Equal to size of sum of all the members of object","Equal to size of maximum sized member of object","Equal to size of void"],"correctAnswer":0,"id":30},{"domain":"OOPS","text":"Where is the memory allocated for the objects?","options":["Cache","ROM","HDD","RAM"],"correctAnswer":3,"id":31},{"domain":"Database Systems","text":"Ensuring only valid values can be assigned to each data item is known as","options":["Data Security","Domain Access","Data Control","Domain Integrity"],"correctAnswer":3,"id":32},{"domain":"Computer Fundamentals","text":"Machine language is?","options":["Machine dependent","Difficult","Error prone","All"],"correctAnswer":3,"id":33},{"domain":"OOPS","text":"Which operator can be used to free the memory allocated for an object in C++?","options":["Free()","delete","Unallocate","Collect"],"correctAnswer":1,"id":34},{"domain":"Quantitative Aptitude","text":"What was the day of the week on 28th May, 2006?","options":["Thursday","Friday","Saturday","Sunday"],"correctAnswer":3,"id":35},{"domain":"Database Systems","text":"DROP TABLE cannot be used to drop a table referenced by a …………… constraint.","options":["Local Key","Primary Key","Composite Key","Foreign Key"],"correctAnswer":3,"id":36},{"domain":"Logical Reasoning","text":"Amit started walking with his back to sun → turned left → right → left. Final direction?","options":["North or South","East or West","North or West","South or West"],"correctAnswer":0,"id":37},{"domain":"Programming Logic","text":"B = 2; IF (B == 1) OR (B == 2) THEN Print \"Found\" ELSE Print \"Lost\". What will be printed?","options":["Lost","1","2","Found"],"correctAnswer":3,"id":38},{"domain":"Quantitative Aptitude","text":"Today is Monday. After 61 days, it will be:","options":["Wednesday","Saturday","Tuesday","Thursday"],"correctAnswer":1,"id":39},{"domain":"Logical Reasoning","text":"The total of the ages of Amar, Akbar and Anthony is 80 years. What was their total age 3 years ago?","options":["71","72","74","77"],"correctAnswer":1,"id":40},{"domain":"Quantitative Aptitude","text":"Average of 20 numbers is zero. At most, how many can be greater than zero?","options":["0","1","10","19"],"correctAnswer":3,"id":41},{"domain":"Computer Fundamentals","text":"A byte consists of?","options":["One bit","Four bits","Eight bits","Sixteen bits"],"correctAnswer":2,"id":42},{"domain":"OOPS","text":"If in multiple inheritance, class C inherits class B and class B inherits class A, in which sequence are destructors called?","options":["~A() then ~B() then ~C()","~C() then ~A() then ~B()","~C() then ~B() then ~A()","~B() then ~C() then ~A()"],"correctAnswer":2,"id":43},{"domain":"Quantitative Aptitude","text":"Which one of the following is not a prime number?","options":["31","61","71","91"],"correctAnswer":3,"id":44},{"domain":"Logical Reasoning","text":"Father is 3× son now; 5 years ago he was 4× son. Son's age?","options":["12","15","18","20"],"correctAnswer":0,"id":45},{"domain":"Logical Reasoning","text":"Architect : Building :: Sculptor : ?","options":["Museum","Stone","Chisel","Statue"],"correctAnswer":3,"id":46},{"domain":"Computer Fundamentals","text":"Instructions and memory addresses are represented by?","options":["Character code","Binary codes","Binary word","Parity bit"],"correctAnswer":1,"id":47},{"domain":"Logical Reasoning","text":"Paw : Cat :: Hoof : ?","options":["Lamb","Elephant","Lion","Horse"],"correctAnswer":3,"id":48},{"domain":"Programming Logic","text":"What is 45 MOD 6?","options":["7","5","3","1"],"correctAnswer":2,"id":49},{"domain":"Quantitative Aptitude","text":"1397 × 1397 = ?","options":["1951609","1981709","18362619","2031719"],"correctAnswer":0,"id":50},{"domain":"OOPS","text":"Which keyword should be used to declare static variables?","options":["const","common","static","stat"],"correctAnswer":2,"id":51},{"domain":"Database Systems","text":"…….. data type can store unstructured data","options":["RAW","CHAR","NUMERIC","VARCHAR"],"correctAnswer":0,"id":52},{"domain":"Programming Logic","text":"IF (5 > 2) AND (10 < 20) THEN Print \"Both\" ELSE Print \"One\". What will be printed?","options":["One","Both","2","10"],"correctAnswer":1,"id":53},{"domain":"OOPS","text":"Which definition best describes an object?","options":["Instance of a class","Instance of itself","Child of a class","Overview of a class"],"correctAnswer":0,"id":54},{"domain":"Computer Fundamentals","text":"What is the full form of USB?","options":["Universal Serial Bus","Uniform System Bus","Universal System Board","Unified Serial Board"],"correctAnswer":0,"id":55},{"domain":"Quantitative Aptitude","text":"Angle between hands at 3:40?","options":["120°","125°","130°","135°"],"correctAnswer":2,"id":56},{"domain":"Computer Fundamentals","text":"Which device is used to permanently store data?","options":["RAM","Cache","Hard disk","Register"],"correctAnswer":2,"id":57},{"domain":"Programming Logic","text":"What is 17 MOD 3?","options":["1","2","5","0"],"correctAnswer":1,"id":58},{"domain":"Database Systems","text":"…………….. is used to eliminate duplicate rows from the result set.","options":["UNIQUE","LIKE","DISTINCT","NULL"],"correctAnswer":2,"id":59},{"domain":"Database Systems","text":"A table can have only one","options":["Secondary key","Alternate key","Unique key","Primary key"],"correctAnswer":3,"id":60}]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m8:59:55 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/assessment.tsx, /src/index.css[22m

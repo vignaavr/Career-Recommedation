@@ -1,0 +1,99 @@
+Build a professional "Adaptive Career Recommendation Platform with AI Integration for Personalized Professional Guidance" web app with the following exact flow and features:
+
+## 🎯 USER FLOW & PAGES
+
+### 1. Landing Page 
+- Hero section with title, professional gradient background (blue/purple), and "Start Your Career Journey" CTA button
+- Clean, modern design with icons (education, resume, assessment, career paths)
+
+### 2. User Profile Form Page (after CTA click)
+Collect these exact fields:
+- Highest Education (dropdown: High School, Diploma, Bachelor's, Master's, PhD)
+- Degree Type (text input)
+- Specialization (text input) 
+- Graduation Year (number input)
+- Core Subject Strength (slider 1-10)
+- Resume Skill Score (slider 1-10)
+- Interest Domain (multi-select: AI/ML, Web Dev, Data Science, Cloud, Cybersecurity, etc.)
+- Interest Level (rating 1-5 stars for each selected domain)
+Features: Professional form with validation, progress bar, "Next" button
+
+### 3. Resume Upload Page
+- Drag & drop PDF upload area (max 5MB)
+- Preview uploaded file
+- AI analysis button → extracts skills/keywords automatically
+- Display extracted skills list (mock for now: Python, JavaScript, SQL, etc.)
+- "Continue to Assessment" button
+
+### 4. Assessment Page (60 Questions, 40 Minutes)
+CRITICAL NAVIGATION LOGIC:
+- Timer: 40 minutes countdown (auto-submit when expired)
+- 5-min warning notification
+- Question 1: Only "NEXT" button (disabled until option selected)
+- Questions 2-59: "PREVIOUS" (always active) + "NEXT" (disabled until selection)
+- Question 60: "Submit Test" button
+
+Question Format:
+- JSON question bank with 6 domains (10 questions each):
+  1. Programming Logic
+  2. DBMS 
+  3. OOPS
+  4. Aptitude
+  5. Reasoning
+  6. Computer Fundamentals
+- Each question: 4 options (A,B,C,D), 1 correct answer
+- Progress indicator (Q1/60, Q2/60, etc.)
+- Store all answers in session
+
+### 5. Results & Recommendation Page
+PASS (≥45/60):
+🎉 CAREER RECOMMENDATIONS
+Based on: Education + Resume Analysis + Interests + Test Score
+
+Top 3 Career Paths:
+1. [Career 1] - 92% Match
+   • Required Skills: [List from resume + test]
+   • Next Steps: [Action items]
+2. [Career 2] - 87% Match  
+3. [Career 3] - 83% Match
+
+Decision Tree Model Explanation:
+"Our AI uses Decision Tree algorithm (supervised learning) that analyzes your education, skills, interests, and assessment performance using human-like IF-ELSE decision logic."
+
+FAIL (<45/60):
+📚 LEARNING RESOURCES RECOMMENDATION
+Identified Skill Gaps: [Weak domains from test]
+Score: {score}/60
+
+Personalized Learning Path:
+1. [Domain 1] → Free Course Link + Practice Tests
+2. [Domain 2] → YouTube Playlist + Projects
+3. Retake Assessment → Track Progress
+
+Encouragement: "Great start! Most successful professionals needed multiple attempts. Here's your personalized roadmap to success."
+
+## ⚙️ TECHNICAL REQUIREMENTS
+- Professional color scheme: #1E3A8A, #3B82F6, #10B981, white
+- Modern icons (Heroicons/Lucide)
+- Responsive design (mobile-first)
+- Store user session data (localStorage)
+- Timer with 5-min warning (red notification)
+- Auto-submit after 40 mins
+- Clean navigation with back buttons
+- Loading states for all async operations
+- Professional typography (Inter font)
+
+## 📁 DATA HANDLING
+- Support JSON question bank upload
+- Mock PDF parsing (display sample extracted skills)
+- Session storage for form data + test answers
+- Decision tree logic (if education=CS AND test≥45 AND interest=AI → "AI/ML Engineer")
+
+## 🚀 FINAL FEATURES
+- Professional loading screens
+- Success/error modals
+- Print/download recommendation report
+- "Retake Assessment" button
+- Share results (WhatsApp/LinkedIn)
+
+Make it pixel-perfect, professional, and ready to demo. Use the most modern UI components and smooth animations.

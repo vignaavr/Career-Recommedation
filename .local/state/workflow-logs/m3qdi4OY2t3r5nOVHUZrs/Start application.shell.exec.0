@@ -1,0 +1,61 @@
+[1G[0K⠙[1G[0K
+> rest-express@1.0.0 dev
+> NODE_ENV=development tsx server/index.ts
+
+[1G[0K⠙[1G[0K8:45:48 AM [express] serving on port 5000
+8:51:28 AM [express] GET /api/questions 200 in 2ms :: [{"domain":"Database Systems","text":"Which of the following are the properties of entities?","options":["Groups","Table","Attributes","Switchboards"],"correctAnswer":2,"id":1},{"domain":"Programming Logic","text":"If P = 15 and Q = 3, and R = (P − Q) × 2, what is the value of R?","options":["24","12","30","18"],"correctAnswer":0,"id":2},{"domain":"Computer Fundamentals","text":"Which generation of computers used Integrated Circuits?","options":["First generation","Second generation","Third generation","Fourth generation"],"correctAnswer":2,"id":3},{"domain":"Database Systems","text":"An outstanding functionality of SQL is its support for automatic ………… to the target data.","options":["programming","functioning","navigation","notification"],"correctAnswer":2,"id":4},{"domain":"Quantitative Aptitude","text":"A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?","options":["120 m","240 m","300 m","None of these"],"correctAnswer":1,"id":5},{"domain":"Programming Logic","text":"A = 7; IF (A > 5) AND (A MOD 2 != 0) THEN Print \"Match\" ELSE Print \"Miss\". What will be printed?","options":["Match","Miss","7","1"],"correctAnswer":0,"id":6},{"domain":"Quantitative Aptitude","text":"A boat can travel with a speed of 13 km/hr in still water. If the speed of the stream is 4 km/hr, find the time taken by the boat to go 68 km downstream.","options":["2 hours","3 hours","4 hours","5 hours"],"correctAnswer":2,"id":7},{"domain":"Computer Fundamentals","text":"Software is used to?","options":["Enhance hardware capability","Increase speed of CPU","Control hardware","All of the above"],"correctAnswer":3,"id":8},{"domain":"OOPS","text":"Which of the following function can be used for dynamic memory allocation of objects?","options":["malloc()","calloc()","create()","both malloc() and calloc()"],"correctAnswer":3,"id":9},{"domain":"Database Systems","text":"The relational model feature is that there","options":["is no need for primary key data","is much more data independence than other models","are explicit relationships among records","are tables with many dimensions"],"correctAnswer":1,"id":10},{"domain":"Programming Logic","text":"Sum = 0. FOR i from 1 to 2: FOR j from 1 to 2: Sum = Sum + (i * j). What is the final value of Sum?","options":["4","6","9","10"],"correctAnswer":2,"id":11},{"domain":"Database Systems","text":"The language that allows users to specify what data to retrieve, not how, is","options":["Procedural DML","Non-Procedural DML","Procedural DDL","Non-Procedural DDL"],"correctAnswer":1,"id":12},{"domain":"Quantitative Aptitude","text":"Difference between CI (yearly and half-yearly) on ₹5000 for 1 year at 4%?","options":["Rs. 2.04","Rs. 3.06","Rs. 4.80","Rs. 8.30"],"correctAnswer":0,"id":13},{"domain":"Programming Logic","text":"C = 2. WHILE C < 10: C = C + 5. What is the final value of C?","options":["7","12","10","2"],"correctAnswer":1,"id":14},{"domain":"Programming Logic","text":"Arr = [1, 5, 10]. Sum = Arr[0] + Arr[1] + Arr[2]. What is Sum?","options":["16","15","6","11"],"correctAnswer":0,"id":15},{"domain":"Quantitative Aptitude","text":"Angle between hour and minute hands at 4:20?","options":["0°","10°","5°","20°"],"correctAnswer":1,"id":16},{"domain":"OOPS","text":"Which among the following keyword can be used to free the allocated memory for an object?","options":["delete","free","either delete or free","only delete"],"correctAnswer":2,"id":17},{"domain":"Logical Reasoning","text":"Choose the word which is different from the rest.","options":["Dagger","Hammer","Knife","Sword"],"correctAnswer":1,"id":18},{"domain":"Logical Reasoning","text":"1, 1, 4, 8, 9, 27, 16, ?","options":["32","64","81","256"],"correctAnswer":1,"id":19},{"domain":"Logical Reasoning","text":"Conference : Chairman :: Newspaper : ?","options":["Reporter","Distributor","Printer","Editor"],"correctAnswer":3,"id":20},{"domain":"OOPS","text":"The feature by which one object can interact with another object is _____________","options":["Message reading","Message Passing","Data transfer","Data Binding"],"correctAnswer":1,"id":21},{"domain":"Computer Fundamentals","text":"Operating systems were developed in which generation?","options":["First","Second","Third","Fourth"],"correctAnswer":2,"id":22},{"domain":"OOPS","text":"How are members of an object accessed?","options":["Using dot operator / period symbol","Using scope resolution operator","Using member names directly","Using pointer only"],"correctAnswer":0,"id":23},{"domain":"Logical Reasoning","text":"Introducing Sonia, Aamir says, \"She is the wife of only nephew of only brother of my mother.\" How Sonia is related to Aamir?","options":["Wife","Sister","Sister-in-law","Data is inadequate"],"correctAnswer":2,"id":24},{"domain":"Database Systems","text":"SELECT SUBSTR('123456789', INSTR('abcabcabc','b'), 4) prints","options":["6789","2345","1234","456789"],"correctAnswer":1,"id":25},{"domain":"Computer Fundamentals","text":"Algorithm and flowchart help to?","options":["Know memory capacity","Identify base of number","Direct output","Specify problem clearly"],"correctAnswer":3,"id":26},{"domain":"Logical Reasoning","text":"The total of the ages of Amar, Akbar and Anthony is 80 years. What was their total age 3 years ago?","options":["71","72","74","77"],"correctAnswer":1,"id":27},{"domain":"Logical Reasoning","text":"In the series 2, 6, 18, 54, ...... what will be the 8th term ?","options":["4370","4374","7443","7434"],"correctAnswer":1,"id":28},{"domain":"Computer Fundamentals","text":"Which of the following is a peripheral device?","options":["CPU","ALU","Monitor","Control Unit"],"correctAnswer":2,"id":29},{"domain":"OOPS","text":"Which type of inheritance results in the diamond problem?","options":["Single level","Hybrid","Hierarchical","Multilevel"],"correctAnswer":1,"id":30},{"domain":"Logical Reasoning","text":"Choose the word which is different from the rest.","options":["Chicken","Snake","Swan","Crocodile"],"correctAnswer":1,"id":31},{"domain":"Quantitative Aptitude","text":"Farmer travels 61 km in 9 hours, part @ 4 km/hr (walk), part @ 9 km/hr (cycle). Distance on foot?","options":["14 km","15 km","16 km","17 km"],"correctAnswer":2,"id":32},{"domain":"Database Systems","text":"DCL stands for","options":["Data Control Language","Data Console Language","Data Console Level","Data Control Level"],"correctAnswer":0,"id":33},{"domain":"Computer Fundamentals","text":"Which protocol is used for web browsing?","options":["FTP","SMTP","HTTP","POP3"],"correctAnswer":2,"id":34},{"domain":"Logical Reasoning","text":"Boys = 3× girls. Which cannot be total strength?","options":["48","44","42","40"],"correctAnswer":1,"id":35},{"domain":"Programming Logic","text":"IF 10 > 5 THEN Print \"Yes\" ELSE Print \"No\". What will be printed?","options":["Yes","No","10","Error"],"correctAnswer":0,"id":36},{"domain":"OOPS","text":"Can a class have more than one function with all the default arguments?","options":["Yes, always","Yes, if argument list is different","No, because constructors overloading doesn’t depend on argument list","No, never"],"correctAnswer":3,"id":37},{"domain":"Quantitative Aptitude","text":"Angle between hands at 3:40?","options":["120°","125°","130°","135°"],"correctAnswer":2,"id":38},{"domain":"Computer Fundamentals","text":"Storage capacity of magnetic disk depends on?","options":["Tracks per inch of surface","Bits per inch of tracks","Disk pack in disk surface","All of the above"],"correctAnswer":3,"id":39},{"domain":"OOPS","text":"When is the memory allocated for an object?","options":["At declaration of object","At compile time","When object constructor is called","When object is initialized to another object"],"correctAnswer":2,"id":40},{"domain":"Programming Logic","text":"Function IsEven(n): IF n MOD 2 == 0 THEN Return True ELSE Return False. What is IsEven(7)?","options":["True","False","0","1"],"correctAnswer":1,"id":41},{"domain":"OOPS","text":"Which among the following doesn’t come under OOP concept?","options":["Data hiding","Message passing","Platform independent","Data binding"],"correctAnswer":2,"id":42},{"domain":"Programming Logic","text":"Y = 10. FOR i from 1 to 2: FOR j from 1 to 2: Y = Y - 1. What is the final value of Y?","options":["8","6","9","7"],"correctAnswer":1,"id":43},{"domain":"Logical Reasoning","text":"If A + B means A is the brother of B; A x B means A is the son of B; and A % B means B is the daughter of A then which of the following means M is the maternal uncle of N?","options":["M + O x N","M % O x N + P","M + O % N","None of these"],"correctAnswer":0,"id":44},{"domain":"Database Systems","text":"Which of the following are DDL statements?","options":["Create","Drop","Alter","All of the above"],"correctAnswer":3,"id":45},{"domain":"Programming Logic","text":"R = 8. IF R > 5: IF R * 2 == 16: Print \"Match\". What will be printed?","options":["8","16","Match","No Output"],"correctAnswer":2,"id":46},{"domain":"OOPS","text":"Where is the memory allocated for the objects?","options":["Cache","ROM","HDD","RAM"],"correctAnswer":3,"id":47},{"domain":"Quantitative Aptitude","text":"In a 500 m race, the ratio of the speeds of two contestants A and B is 3 : 4. A has a start of 140 m. Then A wins by:","options":["60 m","40 m","20 m","10 m"],"correctAnswer":3,"id":48},{"domain":"Logical Reasoning","text":"Manick is 12 and 3× Rahul. When will he be twice Rahul?","options":["14","16","18","20"],"correctAnswer":2,"id":49},{"domain":"Quantitative Aptitude","text":"39 persons can repair a road in 12 days, working 5 hours a day. In how many days will 30 persons, working 6 hours a day, complete the work?","options":["10","13","14","15"],"correctAnswer":1,"id":50},{"domain":"OOPS","text":"Which among the following is NOT a necessary condition for constructors?","options":["Its name must be same as that of the class","It must not have any return type","It must contain a definition body","It can contain arguments"],"correctAnswer":2,"id":51},{"domain":"Computer Fundamentals","text":"What is the smallest unit of data?","options":["Bit","Byte","Word","Nibble"],"correctAnswer":0,"id":52},{"domain":"Computer Fundamentals","text":"World’s first laptop was introduced in?","options":["1980","1981","1982","1985"],"correctAnswer":1,"id":53},{"domain":"Programming Logic","text":"E = 50; IF E / 2 > 30 THEN Print \"A\" ELSE Print \"B\". What will be printed?","options":["A","B","25","50"],"correctAnswer":1,"id":54},{"domain":"Database Systems","text":"………………… is the preferred method for enforcing data integrity.","options":["Constraints","Stored Procedure","Triggers","Cursors"],"correctAnswer":0,"id":55},{"domain":"Quantitative Aptitude","text":"In a 100 m race, A beats B by 10 m and C by 13 m. In a race of 180 m, B will beat C by:","options":["5.4 m","4.5 m","5 m","6 m"],"correctAnswer":0,"id":56},{"domain":"Database Systems","text":"Centralizing integrity checking under DBMS ………….. duplication.","options":["Increases","Skips","Does not reduce","Reduces"],"correctAnswer":3,"id":57},{"domain":"Computer Fundamentals","text":"Which of the following is an example of application software?","options":["MS Word","Linux","Windows","Compiler"],"correctAnswer":0,"id":58},{"domain":"Database Systems","text":"The ………………… is used to search for patterns in a string.","options":["LIKE predicate","NULL predicate","IN predicate","OUT predicate"],"correctAnswer":0,"id":59},{"domain":"Quantitative Aptitude","text":"Profit = 320% of cost. If cost increases by 25% and SP remains constant, approx. what % of SP is profit?","options":["30%","70%","100%","250%"],"correctAnswer":1,"id":60}]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m8:51:43 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/resume-upload.tsx, /src/index.css[22m

@@ -1,0 +1,201 @@
+user_id,highest_education,degree_type,specialization,graduation_year,core_subject_strength,resume_skill_score,interest_domain,interest_level,assessment_score,recommended_career
+,,,,,,,,,,
+1,BTech,Engineering,AIML,2024,8,9,Data Science,5,48,Data Scientist
+2,BTech,Engineering,CSE,2023,7,8,Software Development,4,46,Software Engineer
+3,BTech,Engineering,IT,2024,6,7,Web Development,4,42,Web Developer
+4,BSc,Science,Computer Science,2022,5,6,Data Analysis,3,40,Data Analyst
+5,BTech,Engineering,ECE,2023,6,5,Embedded Systems,4,44,Embedded Engineer
+6,BTech,Engineering,AIML,2024,9,8,Machine Learning,5,50,ML Engineer
+7,BTech,Engineering,CSE,2023,7,6,Cyber Security,4,47,Cyber Security Analyst
+8,BCA,Applications,Computer Applications,2022,5,6,Software Testing,3,38,QA Engineer
+9,BTech,Engineering,IT,2024,6,7,Cloud Computing,4,45,Cloud Engineer
+10,BTech,Engineering,CSE,2023,8,9,Backend Development,5,49,Backend Developer
+11,MTech,Engineering,AI,2022,9,8,Artificial Intelligence,5,50,AI Engineer
+12,MBA,Management,HR,2023,6,5,Human Resources,4,41,HR Analyst
+13,MBA,Management,Marketing,2022,7,6,Digital Marketing,4,43,Digital Marketer
+14,BCom,Commerce,Finance,2021,6,7,Finance,4,44,Financial Analyst
+15,MSc,Science,Data Science,2023,8,8,Data Science,5,48,Data Scientist
+16,BTech,Engineering,Mechanical,2022,5,4,Design Engineering,3,39,Design Engineer
+17,BTech,Engineering,Civil,2021,5,4,Construction Planning,3,38,Site Engineer
+18,BTech,Engineering,CSE,2024,7,8,Mobile App Development,4,46,App Developer
+19,BCA,Applications,IT,2023,6,6,System Administration,3,41,System Administrator
+20,BTech,Engineering,AIML,2024,8,9,Deep Learning,5,49,ML Engineer
+21,MTech,Engineering,Data Engineering,2022,8,7,Big Data,4,45,Data Engineer
+22,MBA,Management,Business Analytics,2023,7,6,Business Intelligence,4,44,Business Analyst
+23,BSc,Science,Statistics,2021,6,7,Data Analysis,4,42,Data Analyst
+24,BTech,Engineering,EEE,2022,6,5,Power Systems,3,40,Electrical Engineer
+25,BTech,Engineering,CSE,2024,7,8,DevOps,4,46,DevOps Engineer
+26,MSc,Science,Cyber Security,2023,7,6,Cyber Security,4,45,Cyber Security Analyst
+27,BTech,Engineering,IT,2022,6,7,Networking,3,41,Network Engineer
+28,BBA,Management,Business Administration,2021,6,5,Operations,3,39,Operations Analyst
+29,MTech,Engineering,Robotics,2022,8,7,Robotics,4,47,Robotics Engineer
+30,BTech,Engineering,AIML,2023,8,9,NLP,5,48,NLP Engineer
+31,BTech,Engineering,CSE,2021,6,6,Software Testing,3,40,QA Engineer
+32,MBA,Management,Finance,2022,7,6,Investment Analysis,4,44,Investment Analyst
+33,BSc,Science,Mathematics,2021,6,6,Research,3,41,Research Assistant
+34,BTech,Engineering,CSE,2024,8,8,Full Stack Development,5,49,Full Stack Developer
+35,BTech,Engineering,IT,2023,7,7,Database Management,4,45,Database Administrator
+36,MSc,Science,AI,2022,8,7,AI Research,4,46,AI Researcher
+37,BTech,Engineering,CSE,2021,6,6,UI UX Design,3,42,UI UX Designer
+38,BTech,Engineering,ECE,2023,6,5,IoT,3,41,IoT Engineer
+39,BTech,Engineering,Mechanical,2022,6,5,Manufacturing,3,40,Manufacturing Engineer
+40,BTech,Engineering,Civil,2023,6,5,Structural Design,3,42,Structural Engineer
+41,MTech,Engineering,Cloud Computing,2022,8,7,Cloud Architecture,4,47,Cloud Architect
+42,BCA,Applications,Computer Applications,2023,6,6,Tech Support,3,39,Support Engineer
+43,BTech,Engineering,IT,2024,7,8,AI Ops,4,46,AIOps Engineer
+44,MBA,Management,Product Management,2022,7,6,Product Strategy,4,45,Product Manager
+45,BSc,Science,Physics,2021,6,5,Scientific Computing,3,40,Scientific Analyst
+46,BTech,Engineering,CSE,2023,8,8,Game Development,4,47,Game Developer
+47,MTech,Engineering,ML,2022,9,8,ML Research,5,50,ML Researcher
+48,BTech,Engineering,AIML,2024,8,9,Computer Vision,5,49,Computer Vision Engineer
+49,MBA,Management,Operations,2023,6,5,Supply Chain,3,41,Supply Chain Analyst
+50,BTech,Engineering,IT,2024,7,8,Blockchain,4,46,Blockchain Developer
+52,BTech,Engineering,IT,2023,6,6,IT Support,3,40,IT Support Engineer
+53,MBA,Management,Marketing,2024,7,6,Brand Management,4,44,Brand Manager
+54,MSc,Science,Statistics,2022,8,7,Data Modeling,4,46,Data Scientist
+55,BTech,Engineering,ECE,2021,6,5,Telecommunications,3,41,Telecom Engineer
+56,BTech,Engineering,AIML,2024,9,9,AI Research,5,50,AI Research Scientist
+57,BCA,Applications,Computer Applications,2023,6,6,Web Development,4,42,Web Developer
+58,BTech,Engineering,Mechanical,2022,6,5,CAD Design,3,40,CAD Engineer
+59,MTech,Engineering,Power Electronics,2022,8,7,Power Systems,4,47,Power Engineer
+60,BTech,Engineering,CSE,2024,7,8,API Development,4,46,Backend Developer
+61,MBA,Management,Finance,2023,7,6,Risk Analysis,4,44,Risk Analyst
+62,BSc,Science,Data Science,2024,8,7,Data Visualization,4,46,Data Analyst
+63,BTech,Engineering,IT,2021,6,6,Network Security,3,41,Security Engineer
+64,BTech,Engineering,CSE,2022,7,7,Automation Testing,4,45,Automation Tester
+65,MSc,Science,AI,2023,8,7,AI Ethics,4,44,AI Policy Analyst
+66,BTech,Engineering,Civil,2021,6,5,Urban Planning,3,40,Urban Planner
+67,MBA,Management,Business Analytics,2024,7,7,Market Analysis,4,45,Business Analyst
+68,BTech,Engineering,ECE,2023,6,6,VLSI Design,4,44,VLSI Engineer
+69,BTech,Engineering,AIML,2024,8,9,Recommendation Systems,5,49,ML Engineer
+70,BSc,Science,Computer Science,2022,6,6,Academic Research,3,41,Research Associate
+71,BTech,Engineering,CSE,2021,7,6,System Programming,3,42,System Software Engineer
+72,MTech,Engineering,Cloud Computing,2023,8,7,Cloud Security,4,47,Cloud Security Engineer
+73,BBA,Management,Entrepreneurship,2022,6,5,Startup Strategy,3,40,Startup Consultant
+74,BTech,Engineering,IT,2024,7,8,Data Engineering,4,46,Data Engineer
+75,MSc,Science,Mathematics,2023,7,6,Quantitative Analysis,4,45,Quant Analyst
+76,BTech,Engineering,Mechanical,2021,6,5,Production Planning,3,41,Production Engineer
+77,MBA,Management,Operations,2024,7,6,Process Optimization,4,44,Operations Manager
+78,BTech,Engineering,CSE,2023,8,8,Game AI,5,48,Game AI Developer
+79,BTech,Engineering,AIML,2024,9,8,Autonomous Systems,5,50,Autonomous Systems Engineer
+80,BCA,Applications,IT,2022,6,6,Technical Documentation,3,40,Technical Writer
+81,MTech,Engineering,Robotics,2023,8,7,Industrial Automation,4,47,Automation Engineer
+82,BTech,Engineering,ECE,2021,6,5,Signal Processing,3,41,Signal Processing Engineer
+83,MSc,Science,Physics,2022,6,5,Simulation Modeling,3,40,Simulation Analyst
+84,BTech,Engineering,CSE,2024,8,8,Software Security,4,46,Security Software Engineer
+85,MBA,Management,HR,2023,6,5,Talent Analytics,3,41,HR Analyst
+86,BTech,Engineering,IT,2022,7,6,ERP Systems,4,44,ERP Consultant
+87,MSc,Science,Data Analytics,2024,8,7,Predictive Analytics,4,46,Data Analyst
+88,BTech,Engineering,CSE,2021,7,6,Legacy Systems,3,42,Maintenance Engineer
+89,MTech,Engineering,AI,2023,9,8,Explainable AI,5,49,AI Specialist
+90,BTech,Engineering,AIML,2024,8,9,Speech Recognition,5,48,Speech AI Engineer
+91,BBA,Management,Logistics,2022,6,5,Logistics Planning,3,40,Logistics Analyst
+92,BTech,Engineering,CSE,2023,7,7,Distributed Systems,4,45,Distributed Systems Engineer
+93,MSc,Science,Computer Science,2024,7,6,Algorithm Design,4,44,Algorithm Engineer
+94,BTech,Engineering,IT,2021,6,6,IT Governance,3,41,IT Governance Analyst
+95,MBA,Management,Strategy,2023,7,6,Corporate Strategy,4,45,Strategy Consultant
+96,BTech,Engineering,ECE,2022,6,5,Embedded AI,4,44,Embedded AI Engineer
+97,MTech,Engineering,Data Science,2023,8,7,Data Engineering,4,47,Senior Data Engineer
+98,BTech,Engineering,CSE,2024,8,8,AR VR Development,4,46,AR VR Developer
+99,MSc,Science,Statistics,2022,7,6,Statistical Modeling,4,45,Statistician
+100,BTech,Engineering,IT,2024,7,8,FinTech Development,4,46,FinTech Engineer
+101,BTech,Engineering,CSE,2022,7,7,Full Stack Development,4,45,Full Stack Developer
+102,BTech,Engineering,IT,2023,6,6,System Administration,3,41,System Administrator
+103,MBA,Management,Finance,2024,8,7,Investment Analysis,4,47,Investment Analyst
+104,MSc,Science,Data Science,2022,8,7,Big Data Analytics,4,46,Big Data Analyst
+105,BTech,Engineering,ECE,2021,6,5,IoT Systems,3,40,IoT Engineer
+106,BTech,Engineering,AIML,2024,9,9,Deep Learning,5,50,Deep Learning Engineer
+107,BCA,Applications,Computer Applications,2023,6,6,UI Development,4,42,UI Developer
+108,BTech,Engineering,Mechanical,2022,6,5,Manufacturing Design,3,41,Manufacturing Engineer
+109,MTech,Engineering,Structural Engineering,2022,8,7,Structural Analysis,4,47,Structural Engineer
+110,BTech,Engineering,CSE,2024,7,8,Microservices,4,46,Software Engineer
+111,MBA,Management,HR,2023,6,6,HR Analytics,3,42,HR Analyst
+112,BSc,Science,Computer Science,2024,7,7,Programming Fundamentals,4,44,Junior Software Developer
+113,BTech,Engineering,IT,2021,6,6,IT Compliance,3,41,Compliance Analyst
+114,BTech,Engineering,CSE,2022,7,7,DevOps Tools,4,45,DevOps Engineer
+115,MSc,Science,AI,2023,8,7,AI Evaluation,4,44,AI Analyst
+116,BTech,Engineering,Civil,2021,6,5,Construction Planning,3,40,Construction Planner
+117,MBA,Management,Operations,2024,7,7,Supply Chain Optimization,4,45,Supply Chain Analyst
+118,BTech,Engineering,ECE,2023,6,6,Chip Design,4,44,Chip Design Engineer
+119,BTech,Engineering,AIML,2024,8,9,Natural Language Processing,5,49,NLP Engineer
+120,BSc,Science,Mathematics,2022,7,6,Applied Mathematics,4,44,Math Analyst
+121,BTech,Engineering,CSE,2021,7,6,Low Level Programming,3,42,System Programmer
+122,MTech,Engineering,AI,2023,9,8,AI Optimization,5,49,AI Engineer
+123,BBA,Management,Marketing,2022,6,5,Digital Marketing,3,40,Digital Marketer
+124,BTech,Engineering,IT,2024,7,8,Data Pipelines,4,46,Data Engineer
+125,MSc,Science,Statistics,2023,7,6,Forecasting Models,4,45,Forecast Analyst
+126,BTech,Engineering,Mechanical,2021,6,5,Thermal Engineering,3,41,Thermal Engineer
+127,MBA,Management,Business Analytics,2024,7,6,Decision Analytics,4,44,Business Analyst
+128,BTech,Engineering,CSE,2023,8,8,Game Development,5,48,Game Developer
+129,BTech,Engineering,AIML,2024,9,8,Computer Vision,5,50,Computer Vision Engineer
+130,BCA,Applications,IT,2022,6,6,Tech Support,3,40,Technical Support Engineer
+131,MTech,Engineering,Robotics,2023,8,7,Robot Control Systems,4,47,Robotics Engineer
+132,BTech,Engineering,ECE,2021,6,5,Wireless Communication,3,41,Wireless Engineer
+133,MSc,Science,Physics,2022,6,5,Computational Physics,3,40,Simulation Engineer
+134,BTech,Engineering,CSE,2024,8,8,Secure Coding,4,46,Secure Software Engineer
+135,MBA,Management,Finance,2023,7,6,Corporate Finance,4,45,Finance Executive
+136,BTech,Engineering,IT,2022,7,6,CRM Systems,4,44,CRM Consultant
+137,MSc,Science,Data Analytics,2024,8,7,Business Intelligence,4,46,BI Analyst
+138,BTech,Engineering,CSE,2021,7,6,Code Maintenance,3,42,Maintenance Developer
+139,MTech,Engineering,Data Science,2023,8,7,Advanced Analytics,4,47,Senior Data Analyst
+140,BTech,Engineering,AIML,2024,8,9,AI Deployment,5,48,AI Deployment Engineer
+141,BBA,Management,Operations,2022,6,5,Process Documentation,3,40,Operations Executive
+142,BTech,Engineering,CSE,2023,7,7,Software Testing Automation,4,45,Automation Engineer
+143,MSc,Science,Computer Science,2024,7,6,Problem Solving,4,44,Junior Algorithm Engineer
+144,BTech,Engineering,IT,2021,6,6,IT Asset Management,3,41,IT Asset Manager
+145,MBA,Management,Strategy,2023,7,6,Business Strategy,4,45,Strategy Analyst
+146,BTech,Engineering,ECE,2022,6,5,Embedded Firmware,4,44,Firmware Engineer
+147,MTech,Engineering,AI,2023,9,8,AI System Design,5,49,AI Architect
+148,BTech,Engineering,CSE,2024,8,8,XR Development,4,46,XR Developer
+149,MSc,Science,Statistics,2022,7,6,Biostatistics,4,45,Biostatistician
+150,BTech,Engineering,IT,2024,7,8,Blockchain Development,4,46,Blockchain Developer
+151,BTech,Engineering,CSE,2022,7,6,Mobile App Development,4,44,Mobile App Developer
+152,BTech,Engineering,IT,2023,6,6,Database Administration,3,41,Database Administrator
+153,MBA,Management,Marketing,2024,7,7,Brand Management,4,45,Brand Manager
+154,MSc,Science,Data Science,2022,8,7,Statistical Modeling,4,46,Data Scientist
+155,BTech,Engineering,EEE,2021,6,5,Power Systems,3,40,Power Engineer
+156,BTech,Engineering,AIML,2024,9,9,Reinforcement Learning,5,50,RL Engineer
+157,BCA,Applications,Computer Applications,2023,6,6,Front-End Development,4,42,Front-End Developer
+158,BTech,Engineering,Mechanical,2022,6,5,CAD Modeling,3,41,CAD Engineer
+159,MTech,Engineering,Transportation,2022,8,7,Traffic Analysis,4,47,Transportation Engineer
+160,BTech,Engineering,CSE,2024,7,8,API Development,4,46,Backend Developer
+161,MBA,Management,HR,2023,6,6,Talent Acquisition,3,42,Recruitment Specialist
+162,BSc,Science,Computer Science,2024,7,7,Data Structures,4,44,Junior Software Engineer
+163,BTech,Engineering,IT,2021,6,6,IT Support Services,3,41,IT Support Engineer
+164,BTech,Engineering,CSE,2022,7,7,Cloud Deployment,4,45,Cloud Engineer
+165,MSc,Science,AI,2023,8,7,Model Evaluation,4,44,AI Research Assistant
+166,BTech,Engineering,Civil,2021,6,5,Urban Planning,3,40,Urban Planner
+167,MBA,Management,Operations,2024,7,7,Process Optimization,4,45,Operations Analyst
+168,BTech,Engineering,ECE,2023,6,6,Signal Processing,4,44,Signal Processing Engineer
+169,BTech,Engineering,AIML,2024,8,9,Speech Recognition,5,49,Speech AI Engineer
+170,BSc,Science,Mathematics,2022,7,6,Data Modeling,4,44,Data Modeler
+171,BTech,Engineering,CSE,2021,7,6,Kernel Programming,3,42,System Software Engineer
+172,MTech,Engineering,AI,2023,9,8,AI Infrastructure,5,49,AI Infrastructure Engineer
+173,BBA,Management,Finance,2022,6,5,Accounting Systems,3,40,Accounts Executive
+174,BTech,Engineering,IT,2024,7,8,ETL Development,4,46,ETL Developer
+175,MSc,Science,Statistics,2023,7,6,Risk Analysis,4,45,Risk Analyst
+176,BTech,Engineering,Mechanical,2021,6,5,Automobile Design,3,41,Automobile Engineer
+177,MBA,Management,Business Analytics,2024,7,6,Dashboard Analytics,4,44,Analytics Consultant
+178,BTech,Engineering,CSE,2023,8,8,AR Application Development,5,48,AR Developer
+179,BTech,Engineering,AIML,2024,9,8,Explainable AI,5,50,XAI Engineer
+180,BCA,Applications,IT,2022,6,6,Helpdesk Support,3,40,Helpdesk Engineer
+181,MTech,Engineering,Robotics,2023,8,7,Autonomous Navigation,4,47,Autonomous Systems Engineer
+182,BTech,Engineering,ECE,2021,6,5,Optical Communication,3,41,Optical Engineer
+183,MSc,Science,Physics,2022,6,5,Scientific Computing,3,40,Scientific Programmer
+184,BTech,Engineering,CSE,2024,8,8,Software Architecture,4,46,Software Architect
+185,MBA,Management,Finance,2023,7,6,Financial Planning,4,45,Financial Planner
+186,BTech,Engineering,IT,2022,7,6,ERP Systems,4,44,ERP Consultant
+187,MSc,Science,Data Analytics,2024,8,7,Customer Analytics,4,46,Customer Data Analyst
+188,BTech,Engineering,CSE,2021,7,6,Legacy System Migration,3,42,Migration Engineer
+189,MTech,Engineering,Data Science,2023,8,7,Predictive Analytics,4,47,Predictive Analyst
+190,BTech,Engineering,AIML,2024,8,9,AI Model Monitoring,5,48,ML Ops Engineer
+191,BBA,Management,Operations,2022,6,5,Inventory Management,3,40,Inventory Manager
+192,BTech,Engineering,CSE,2023,7,7,Test Automation Frameworks,4,45,Test Automation Engineer
+193,MSc,Science,Computer Science,2024,7,6,Algorithm Optimization,4,44,Algorithm Engineer
+194,BTech,Engineering,IT,2021,6,6,Network Monitoring,3,41,Network Engineer
+195,MBA,Management,Strategy,2023,7,6,Market Research,4,45,Market Analyst
+196,BTech,Engineering,ECE,2022,6,5,Control Systems,4,44,Control Systems Engineer
+197,MTech,Engineering,AI,2023,9,8,AI Governance,5,49,AI Governance Specialist
+198,BTech,Engineering,CSE,2024,8,8,Metaverse Development,4,46,Metaverse Developer
+199,MSc,Science,Statistics,2022,7,6,Actuarial Analysis,4,45,Actuarial Analyst
+200,BTech,Engineering,IT,2024,7,8,Web3 Development,4,46,Web3 Developer

@@ -1,0 +1,6593 @@
+{
+  "project": "Adaptive Career Recommendation Platform",
+  "assessment_rules": {
+    "domains": 6,
+    "questions_per_domain": 10,
+    "total_questions": 60,
+    "threshold_score": 45
+  },
+  "domains": [
+    {
+      "domain_id": 1,
+      "domain_name": "Programming Logic",
+      "questions": [
+        {
+          "id": 1,
+          "question": "If A = 5 and B = 10, and C = A + B × 2, what is the value of C?",
+          "options": [
+            "30",
+            "25",
+            "20",
+            "15"
+          ],
+          "answer": "25"
+        },
+        {
+          "id": 2,
+          "question": "If X = 20 and Y = 4, and Z = X ÷ Y + 5, what is the value of Z?",
+          "options": [
+            "5",
+            "15",
+            "10",
+            "9"
+          ],
+          "answer": "10"
+        },
+        {
+          "id": 3,
+          "question": "If P = 15 and Q = 3, and R = (P − Q) × 2, what is the value of R?",
+          "options": [
+            "24",
+            "12",
+            "30",
+            "18"
+          ],
+          "answer": "24"
+        },
+        {
+          "id": 4,
+          "question": "If M = 7 and N = 2, and O = M × N + 10, what is the value of O?",
+          "options": [
+            "24",
+            "28",
+            "19",
+            "30"
+          ],
+          "answer": "24"
+        },
+        {
+          "id": 5,
+          "question": "If G = 50 and H = 25, and I = G − H − 5, what is the value of I?",
+          "options": [
+            "30",
+            "20",
+            "25",
+            "15"
+          ],
+          "answer": "20"
+        },
+        {
+          "id": 6,
+          "question": "If D = 12 and E = 3, and F = D × (E + 2), what is the value of F?",
+          "options": [
+            "60",
+            "38",
+            "48",
+            "72"
+          ],
+          "answer": "60"
+        },
+        {
+          "id": 7,
+          "question": "If S = 100 and T = 2, and U = S ÷ (T × 5), what is the value of U?",
+          "options": [
+            "250",
+            "50",
+            "10",
+            "5"
+          ],
+          "answer": "10"
+        },
+        {
+          "id": 8,
+          "question": "If K = 9 and L = 9, and M = K + L − 8, what is the value of M?",
+          "options": [
+            "10",
+            "18",
+            "1",
+            "26"
+          ],
+          "answer": "10"
+        },
+        {
+          "id": 9,
+          "question": "If V = 8 and W = 2, and X = V × V ÷ W, what is the value of X?",
+          "options": [
+            "8",
+            "32",
+            "16",
+            "64"
+          ],
+          "answer": "32"
+        },
+        {
+          "id": 10,
+          "question": "If Y = 30 and Z = 10, and A = Y + Z ÷ 2, what is the value of A?",
+          "options": [
+            "20",
+            "35",
+            "40",
+            "25"
+          ],
+          "answer": "35"
+        },
+        {
+          "id": 11,
+          "question": "What is 17 MOD 3?",
+          "options": [
+            "1",
+            "2",
+            "5",
+            "0"
+          ],
+          "answer": "2"
+        },
+        {
+          "id": 12,
+          "question": "What is 25 MOD 4?",
+          "options": [
+            "1",
+            "6",
+            "0",
+            "3"
+          ],
+          "answer": "1"
+        },
+        {
+          "id": 13,
+          "question": "What is 10 MOD 10?",
+          "options": [
+            "10",
+            "1",
+            "0",
+            "5"
+          ],
+          "answer": "0"
+        },
+        {
+          "id": 14,
+          "question": "What is 53 MOD 5?",
+          "options": [
+            "5",
+            "3",
+            "10",
+            "1"
+          ],
+          "answer": "3"
+        },
+        {
+          "id": 15,
+          "question": "What is 100 MOD 7?",
+          "options": [
+            "2",
+            "1",
+            "4",
+            "14"
+          ],
+          "answer": "2"
+        },
+        {
+          "id": 16,
+          "question": "If X = 14, what is X MOD 2?",
+          "options": [
+            "7",
+            "1",
+            "0",
+            "14"
+          ],
+          "answer": "0"
+        },
+        {
+          "id": 17,
+          "question": "If Y = 21, what is Y MOD 4?",
+          "options": [
+            "1",
+            "5",
+            "4",
+            "0"
+          ],
+          "answer": "1"
+        },
+        {
+          "id": 18,
+          "question": "If Z = 9, what is (Z + 1) MOD 3?",
+          "options": [
+            "3",
+            "0",
+            "1",
+            "2"
+          ],
+          "answer": "1"
+        },
+        {
+          "id": 19,
+          "question": "What is 81 MOD 9?",
+          "options": [
+            "9",
+            "1",
+            "0",
+            "8"
+          ],
+          "answer": "0"
+        },
+        {
+          "id": 20,
+          "question": "What is 45 MOD 6?",
+          "options": [
+            "7",
+            "5",
+            "3",
+            "1"
+          ],
+          "answer": "3"
+        },
+        {
+          "id": 21,
+          "question": "IF 10 > 5 THEN Print \"Yes\" ELSE Print \"No\". What will be printed?",
+          "options": [
+            "Yes",
+            "No",
+            "10",
+            "Error"
+          ],
+          "answer": "Yes"
+        },
+        {
+          "id": 22,
+          "question": "X = 8; IF X < 5 THEN Print \"Low\" ELSE Print \"High\". What will be printed?",
+          "options": [
+            "Low",
+            "8",
+            "High",
+            "Error"
+          ],
+          "answer": "High"
+        },
+        {
+          "id": 23,
+          "question": "A = 15; IF A MOD 2 == 0 THEN Print \"Even\" ELSE Print \"Odd\". What will be printed?",
+          "options": [
+            "Even",
+            "Odd",
+            "15",
+            "0"
+          ],
+          "answer": "Odd"
+        },
+        {
+          "id": 24,
+          "question": "B = 20; IF B >= 20 THEN Print \"Pass\" ELSE Print \"Fail\". What will be printed?",
+          "options": [
+            "Fail",
+            "Pass",
+            "20",
+            "Error"
+          ],
+          "answer": "Pass"
+        },
+        {
+          "id": 25,
+          "question": "C = 0; IF C > 0 THEN Print \"+\" ELSE Print \"0\". What will be printed?",
+          "options": [
+            "+",
+            "0",
+            "Positive",
+            "Negative"
+          ],
+          "answer": "0"
+        },
+        {
+          "id": 26,
+          "question": "D = 7; IF D * 2 == 14 THEN Print \"True\" ELSE Print \"False\". What will be printed?",
+          "options": [
+            "False",
+            "14",
+            "True",
+            "7"
+          ],
+          "answer": "True"
+        },
+        {
+          "id": 27,
+          "question": "E = 50; IF E / 2 > 30 THEN Print \"A\" ELSE Print \"B\". What will be printed?",
+          "options": [
+            "A",
+            "B",
+            "25",
+            "50"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 28,
+          "question": "F = 11; IF F < 10 THEN Print \"Small\" ELSE Print \"Big\". What will be printed?",
+          "options": [
+            "Big",
+            "Small",
+            "11",
+            "10"
+          ],
+          "answer": "Big"
+        },
+        {
+          "id": 29,
+          "question": "G = 4; IF G * G == 16 THEN Print \"Square\" ELSE Print \"None\". What will be printed?",
+          "options": [
+            "4",
+            "None",
+            "16",
+            "Square"
+          ],
+          "answer": "Square"
+        },
+        {
+          "id": 30,
+          "question": "H = 100; IF H != 100 THEN Print \"Diff\" ELSE Print \"Same\". What will be printed?",
+          "options": [
+            "Same",
+            "Diff",
+            "100",
+            "Error"
+          ],
+          "answer": "Same"
+        },
+        {
+          "id": 31,
+          "question": "IF (5 > 2) AND (10 < 20) THEN Print \"Both\" ELSE Print \"One\". What will be printed?",
+          "options": [
+            "One",
+            "Both",
+            "2",
+            "10"
+          ],
+          "answer": "Both"
+        },
+        {
+          "id": 32,
+          "question": "IF (3 == 3) OR (1 > 10) THEN Print \"True\" ELSE Print \"False\". What will be printed?",
+          "options": [
+            "False",
+            "3",
+            "True",
+            "Error"
+          ],
+          "answer": "True"
+        },
+        {
+          "id": 33,
+          "question": "X = 5; IF (X > 0) AND (X < 10) THEN Print \"In\" ELSE Print \"Out\". What will be printed?",
+          "options": [
+            "Out",
+            "5",
+            "In",
+            "Both"
+          ],
+          "answer": "In"
+        },
+        {
+          "id": 34,
+          "question": "Y = 12; IF (Y < 10) OR (Y > 15) THEN Print \"Yes\" ELSE Print \"No\". What will be printed?",
+          "options": [
+            "Yes",
+            "No",
+            "12",
+            "Error"
+          ],
+          "answer": "No"
+        },
+        {
+          "id": 35,
+          "question": "IF NOT (5 == 5) THEN Print \"A\" ELSE Print \"B\". What will be printed?",
+          "options": [
+            "A",
+            "B",
+            "True",
+            "False"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 36,
+          "question": "A = 7; IF (A > 5) AND (A MOD 2 != 0) THEN Print \"Match\" ELSE Print \"Miss\". What will be printed?",
+          "options": [
+            "Match",
+            "Miss",
+            "7",
+            "1"
+          ],
+          "answer": "Match"
+        },
+        {
+          "id": 37,
+          "question": "B = 2; IF (B == 1) OR (B == 2) THEN Print \"Found\" ELSE Print \"Lost\". What will be printed?",
+          "options": [
+            "Lost",
+            "1",
+            "2",
+            "Found"
+          ],
+          "answer": "Found"
+        },
+        {
+          "id": 38,
+          "question": "IF (10 / 2 == 5) AND (5 * 2 == 10) THEN Print \"Correct\" ELSE Print \"Wrong\". What will be printed?",
+          "options": [
+            "Wrong",
+            "Correct",
+            "5",
+            "10"
+          ],
+          "answer": "Correct"
+        },
+        {
+          "id": 39,
+          "question": "X = 0; IF (X > -1) AND (X < 1) THEN Print \"Zero\" ELSE Print \"Not\". What will be printed?",
+          "options": [
+            "Not",
+            "0",
+            "Zero",
+            "Error"
+          ],
+          "answer": "Zero"
+        },
+        {
+          "id": 40,
+          "question": "IF (100 > 50) OR (50 > 100) THEN Print \"Ok\" ELSE Print \"Error\". What will be printed?",
+          "options": [
+            "Error",
+            "50",
+            "100",
+            "Ok"
+          ],
+          "answer": "Ok"
+        },
+        {
+          "id": 41,
+          "question": "Sum = 0. FOR i from 1 to 3: Sum = Sum + i. What is the value of Sum?",
+          "options": [
+            "3",
+            "6",
+            "5",
+            "1"
+          ],
+          "answer": "6"
+        },
+        {
+          "id": 42,
+          "question": "X = 1. FOR i from 1 to 4: X = X * 2. What is the value of X?",
+          "options": [
+            "8",
+            "4",
+            "16",
+            "32"
+          ],
+          "answer": "16"
+        },
+        {
+          "id": 43,
+          "question": "Count = 0. FOR i from 1 to 5: Count = Count + 1. What is the value of Count?",
+          "options": [
+            "1",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": "5"
+        },
+        {
+          "id": 44,
+          "question": "A = 10. FOR i from 1 to 3: A = A - 2. What is the value of A?",
+          "options": [
+            "8",
+            "4",
+            "6",
+            "7"
+          ],
+          "answer": "6"
+        },
+        {
+          "id": 45,
+          "question": "Sum = 0. FOR i from 2 to 4: Sum = Sum + i. What is the value of Sum?",
+          "options": [
+            "9",
+            "6",
+            "10",
+            "7"
+          ],
+          "answer": "9"
+        },
+        {
+          "id": 46,
+          "question": "Y = 0. FOR i from 1 to 5: IF i MOD 2 == 0 THEN Y = Y + 1. What is the value of Y?",
+          "options": [
+            "5",
+            "2",
+            "3",
+            "0"
+          ],
+          "answer": "2"
+        },
+        {
+          "id": 47,
+          "question": "Z = 5. FOR i from 1 to 2: Z = Z * Z. What is the value of Z?",
+          "options": [
+            "25",
+            "625",
+            "10",
+            "125"
+          ],
+          "answer": "625"
+        },
+        {
+          "id": 48,
+          "question": "Total = 0. FOR i from 1 to 3: Total = Total + (i * 10). What is the value of Total?",
+          "options": [
+            "30",
+            "40",
+            "60",
+            "10"
+          ],
+          "answer": "60"
+        },
+        {
+          "id": 49,
+          "question": "B = 1. FOR i from 1 to 4: B = B + i. What is the value of B?",
+          "options": [
+            "10",
+            "11",
+            "5",
+            "4"
+          ],
+          "answer": "11"
+        },
+        {
+          "id": 50,
+          "question": "S = \"\". FOR i from 1 to 3: S = S + \"A\". What is the value of S?",
+          "options": [
+            "A",
+            "AA",
+            "AAA",
+            "3"
+          ],
+          "answer": "AAA"
+        },
+        {
+          "id": 51,
+          "question": "X = 5. WHILE X > 0: X = X - 1. What is the final value of X?",
+          "options": [
+            "5",
+            "1",
+            "0",
+            "-1"
+          ],
+          "answer": "0"
+        },
+        {
+          "id": 52,
+          "question": "Y = 1. WHILE Y < 10: Y = Y * 3. What is the final value of Y?",
+          "options": [
+            "3",
+            "9",
+            "10",
+            "27"
+          ],
+          "answer": "27"
+        },
+        {
+          "id": 53,
+          "question": "A = 10, B = 0. WHILE A > 8: A = A - 1, B = B + 1. What is the value of B?",
+          "options": [
+            "2",
+            "10",
+            "8",
+            "0"
+          ],
+          "answer": "2"
+        },
+        {
+          "id": 54,
+          "question": "C = 2. WHILE C < 10: C = C + 5. What is the final value of C?",
+          "options": [
+            "7",
+            "12",
+            "10",
+            "2"
+          ],
+          "answer": "12"
+        },
+        {
+          "id": 55,
+          "question": "D = 20. WHILE D > 5: D = D / 2. What is the final value of D?",
+          "options": [
+            "5",
+            "10",
+            "2.5",
+            "4"
+          ],
+          "answer": "5"
+        },
+        {
+          "id": 56,
+          "question": "E = 0. WHILE E < 3: E = E + 1. How many iterations will the loop run?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "0"
+          ],
+          "answer": "3"
+        },
+        {
+          "id": 57,
+          "question": "F = 1. WHILE F < 5: F = F + F. What is the final value of F?",
+          "options": [
+            "4",
+            "5",
+            "8",
+            "6"
+          ],
+          "answer": "8"
+        },
+        {
+          "id": 58,
+          "question": "G = 10. WHILE G != 8: G = G - 1. What is the final value of G?",
+          "options": [
+            "8",
+            "7",
+            "10",
+            "0"
+          ],
+          "answer": "8"
+        },
+        {
+          "id": 59,
+          "question": "H = 1. WHILE H * H < 10: H = H + 1. What is the final value of H?",
+          "options": [
+            "3",
+            "4",
+            "9",
+            "10"
+          ],
+          "answer": "4"
+        },
+        {
+          "id": 60,
+          "question": "I = 15. WHILE I > 0: I = I - 6. What is the final value of I?",
+          "options": [
+            "0",
+            "-3",
+            "3",
+            "6"
+          ],
+          "answer": "-3"
+        },
+        {
+          "id": 61,
+          "question": "X = 10. IF X > 5: IF X < 15: Print \"Mid\" ELSE: Print \"High\" ELSE: Print \"Low\". What will be printed?",
+          "options": [
+            "Low",
+            "High",
+            "Mid",
+            "10"
+          ],
+          "answer": "Mid"
+        },
+        {
+          "id": 62,
+          "question": "A = 5, B = 10. IF A < B: IF A > 0: Print \"Pos\" ELSE: Print \"Neg\". What will be printed?",
+          "options": [
+            "Pos",
+            "Neg",
+            "5",
+            "10"
+          ],
+          "answer": "Pos"
+        },
+        {
+          "id": 63,
+          "question": "M = 20. IF M MOD 2 == 0: IF M MOD 5 == 0: Print \"Both\" ELSE: Print \"Two\". What will be printed?",
+          "options": [
+            "Two",
+            "Both",
+            "20",
+            "0"
+          ],
+          "answer": "Both"
+        },
+        {
+          "id": 64,
+          "question": "N = 4. IF N > 1: IF N > 5: Print \"A\" ELSE: Print \"B\". What will be printed?",
+          "options": [
+            "A",
+            "B",
+            "4",
+            "Error"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 65,
+          "question": "X = 7. IF X < 10: IF X == 7: Print \"Seven\" ELSE: Print \"Other\". What will be printed?",
+          "options": [
+            "Seven",
+            "Other",
+            "7",
+            "10"
+          ],
+          "answer": "Seven"
+        },
+        {
+          "id": 66,
+          "question": "P = 50. IF P > 40: IF P < 45: Print \"Small\" ELSE: Print \"Large\". What will be printed?",
+          "options": [
+            "Small",
+            "Large",
+            "50",
+            "40"
+          ],
+          "answer": "Large"
+        },
+        {
+          "id": 67,
+          "question": "Q = 0. IF Q >= 0: IF Q == 0: Print \"Zero\" ELSE: Print \"Positive\". What will be printed?",
+          "options": [
+            "Zero",
+            "Positive",
+            "0",
+            "Negative"
+          ],
+          "answer": "Zero"
+        },
+        {
+          "id": 68,
+          "question": "R = 8. IF R > 5: IF R * 2 == 16: Print \"Match\". What will be printed?",
+          "options": [
+            "8",
+            "16",
+            "Match",
+            "No Output"
+          ],
+          "answer": "Match"
+        },
+        {
+          "id": 69,
+          "question": "S = 12. IF S < 10: Print \"No\" ELSE: IF S < 20: Print \"Yes\". What will be printed?",
+          "options": [
+            "No",
+            "Yes",
+            "12",
+            "20"
+          ],
+          "answer": "Yes"
+        },
+        {
+          "id": 70,
+          "question": "T = 10. IF T != 5: IF T == 10: Print \"Ten\". What will be printed?",
+          "options": [
+            "Ten",
+            "10",
+            "5",
+            "No Output"
+          ],
+          "answer": "Ten"
+        },
+        {
+          "id": 71,
+          "question": "Arr = [10, 20, 30]. What is printed by Print Arr[1]?",
+          "options": [
+            "10",
+            "20",
+            "30",
+            "1"
+          ],
+          "answer": "20"
+        },
+        {
+          "id": 72,
+          "question": "List = [5, 2, 9]. List[0] = List[2]. What is printed by Print List[0]?",
+          "options": [
+            "5",
+            "2",
+            "9",
+            "0"
+          ],
+          "answer": "9"
+        },
+        {
+          "id": 73,
+          "question": "A = [1, 2, 3, 4]. X = A[1] + A[3]. What is X?",
+          "options": [
+            "4",
+            "6",
+            "5",
+            "7"
+          ],
+          "answer": "6"
+        },
+        {
+          "id": 74,
+          "question": "B = [10, 10, 10]. B[1] = 5. What is printed by Print B[0] + B[1]?",
+          "options": [
+            "20",
+            "15",
+            "10",
+            "5"
+          ],
+          "answer": "15"
+        },
+        {
+          "id": 75,
+          "question": "C = [0, 0, 0]. FOR i from 0 to 2: C[i] = i * 2. What is C[2]?",
+          "options": [
+            "0",
+            "2",
+            "4",
+            "6"
+          ],
+          "answer": "4"
+        },
+        {
+          "id": 76,
+          "question": "D = [8, 4, 2]. D[2] = D[2] * 10. What is printed by Print D[2]?",
+          "options": [
+            "2",
+            "20",
+            "80",
+            "40"
+          ],
+          "answer": "20"
+        },
+        {
+          "id": 77,
+          "question": "E = [7, 3]. Temp = E[0]. E[0] = E[1]. E[1] = Temp. What is E[0]?",
+          "options": [
+            "7",
+            "3",
+            "0",
+            "10"
+          ],
+          "answer": "3"
+        },
+        {
+          "id": 78,
+          "question": "Arr = [1, 5, 10]. Sum = Arr[0] + Arr[1] + Arr[2]. What is Sum?",
+          "options": [
+            "16",
+            "15",
+            "6",
+            "11"
+          ],
+          "answer": "16"
+        },
+        {
+          "id": 79,
+          "question": "G = [1, 2, 3, 4, 5]. What is printed by Print G[4] - G[0]?",
+          "options": [
+            "5",
+            "1",
+            "4",
+            "3"
+          ],
+          "answer": "4"
+        },
+        {
+          "id": 80,
+          "question": "H = [100, 200]. H[1] = H[0] / 2. What is printed by Print H[1]?",
+          "options": [
+            "100",
+            "200",
+            "50",
+            "0"
+          ],
+          "answer": "50"
+        },
+        {
+          "id": 81,
+          "question": "Count = 0. FOR i from 1 to 2: FOR j from 1 to 2: Count = Count + 1. What is the final value of Count?",
+          "options": [
+            "2",
+            "4",
+            "3",
+            "1"
+          ],
+          "answer": "4"
+        },
+        {
+          "id": 82,
+          "question": "X = 0. FOR i from 1 to 3: FOR j from 1 to i: X = X + 1. What is the final value of X?",
+          "options": [
+            "3",
+            "6",
+            "9",
+            "4"
+          ],
+          "answer": "6"
+        },
+        {
+          "id": 83,
+          "question": "FOR i from 1 to 2: FOR j from 1 to 3: Print \"\". How many \"\" will be printed?",
+          "options": [
+            "5",
+            "6",
+            "3",
+            "2"
+          ],
+          "answer": "6"
+        },
+        {
+          "id": 84,
+          "question": "Sum = 0. FOR i from 1 to 2: FOR j from 1 to 2: Sum = Sum + (i * j). What is the final value of Sum?",
+          "options": [
+            "4",
+            "6",
+            "9",
+            "10"
+          ],
+          "answer": "9"
+        },
+        {
+          "id": 85,
+          "question": "A = 0. FOR i from 0 to 2: FOR j from 0 to 2: IF i == j THEN A = A + 1. What is the final value of A?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "9"
+          ],
+          "answer": "3"
+        },
+        {
+          "id": 86,
+          "question": "FOR i from 1 to 3: FOR j from 1 to 2: Print i. What is the last number printed?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "6"
+          ],
+          "answer": "3"
+        },
+        {
+          "id": 87,
+          "question": "B = 1. FOR i from 1 to 2: FOR j from 1 to 3: B = B + 1. What is the final value of B?",
+          "options": [
+            "7",
+            "6",
+            "5",
+            "8"
+          ],
+          "answer": "7"
+        },
+        {
+          "id": 88,
+          "question": "X = 0. FOR i from 1 to 2: FOR j from 5 to 6: X = X + j. What is the final value of X?",
+          "options": [
+            "11",
+            "22",
+            "10",
+            "12"
+          ],
+          "answer": "22"
+        },
+        {
+          "id": 89,
+          "question": "Count = 0. FOR i from 1 to 3: FOR j from 1 to 3: IF j > i THEN Count = Count + 1. What is the final value of Count?",
+          "options": [
+            "3",
+            "6",
+            "9",
+            "0"
+          ],
+          "answer": "3"
+        },
+        {
+          "id": 90,
+          "question": "Y = 10. FOR i from 1 to 2: FOR j from 1 to 2: Y = Y - 1. What is the final value of Y?",
+          "options": [
+            "8",
+            "6",
+            "9",
+            "7"
+          ],
+          "answer": "6"
+        },
+        {
+          "id": 91,
+          "question": "Function Calc(n): Return n * 2. What is Calc(5)?",
+          "options": [
+            "5",
+            "7",
+            "10",
+            "25"
+          ],
+          "answer": "10"
+        },
+        {
+          "id": 92,
+          "question": "Function Add(a, b): Return a + b. What is Add(Calc(2), 3)?",
+          "options": [
+            "5",
+            "7",
+            "8",
+            "4"
+          ],
+          "answer": "7"
+        },
+        {
+          "id": 93,
+          "question": "Function Check(x): IF x > 10 THEN Return 1 ELSE Return 0. What is Check(15)?",
+          "options": [
+            "15",
+            "0",
+            "1",
+            "10"
+          ],
+          "answer": "1"
+        },
+        {
+          "id": 94,
+          "question": "Function Rec(n): IF n == 1 THEN Return 1 ELSE Return n + Rec(n-1). What is Rec(3)?",
+          "options": [
+            "3",
+            "6",
+            "4",
+            "5"
+          ],
+          "answer": "6"
+        },
+        {
+          "id": 95,
+          "question": "Function Double(n): Return n + n. What is Double(Double(2))?",
+          "options": [
+            "4",
+            "6",
+            "8",
+            "2"
+          ],
+          "answer": "8"
+        },
+        {
+          "id": 96,
+          "question": "Function Power(n): Return n * n. What is Power(Power(2))?",
+          "options": [
+            "4",
+            "8",
+            "16",
+            "32"
+          ],
+          "answer": "16"
+        },
+        {
+          "id": 97,
+          "question": "Function Mystery(x, y): IF x > y THEN Return x ELSE Return y. What is Mystery(10, 20)?",
+          "options": [
+            "10",
+            "20",
+            "30",
+            "0"
+          ],
+          "answer": "20"
+        },
+        {
+          "id": 98,
+          "question": "Function Fact(n): IF n == 0 THEN Return 1 ELSE Return n * Fact(n-1). What is Fact(3)?",
+          "options": [
+            "3",
+            "6",
+            "9",
+            "1"
+          ],
+          "answer": "6"
+        },
+        {
+          "id": 99,
+          "question": "Function IsEven(n): IF n MOD 2 == 0 THEN Return True ELSE Return False. What is IsEven(7)?",
+          "options": [
+            "True",
+            "False",
+            "0",
+            "1"
+          ],
+          "answer": "False"
+        },
+        {
+          "id": 100,
+          "question": "Function Final(a): Return a + 10. What is Final(Final(0))?",
+          "options": [
+            "10",
+            "0",
+            "20",
+            "100"
+          ],
+          "answer": "20"
+        }
+      ]
+    },
+    {
+      "domain_id": 2,
+      "domain_name": "Database Systems",
+      "questions": [
+        {
+          "id": 101,
+          "question": "In SQL, which command is used to issue multiple CREATE TABLE, CREATE VIEW and GRANT statements in a single transaction?",
+          "options": [
+            "CREATE PACKAGE",
+            "CREATE SCHEMA",
+            "CREATE CLUSTER",
+            "All of the above"
+          ],
+          "answer": "CREATE SCHEMA"
+        },
+        {
+          "id": 102,
+          "question": "In SQL, the CREATE TABLESPACE is used",
+          "options": [
+            "to create a place in the database for storage of schema objects, rollback segments, and naming the data files",
+            "to create a database trigger",
+            "to add/rename data files, to change storage",
+            "All of the above"
+          ],
+          "answer": "to create a place in the database for storage of schema objects, rollback segments, and naming the data files"
+        },
+        {
+          "id": 103,
+          "question": "Which character function can be used to return a specified portion of a character string?",
+          "options": [
+            "INSTR",
+            "SUBSTRING",
+            "SUBSTR",
+            "POS"
+          ],
+          "answer": "SUBSTR"
+        },
+        {
+          "id": 104,
+          "question": "Which of the following is TRUE for the System Variable $date$?",
+          "options": [
+            "Can be assigned to a global variable",
+            "Can be assigned to any field only during design time",
+            "Can be assigned to any variable or field during run time",
+            "Can be assigned to a local variable"
+          ],
+          "answer": "Can be assigned to any variable or field during run time"
+        },
+        {
+          "id": 105,
+          "question": "What are the different events in Triggers?",
+          "options": [
+            "Define, Create",
+            "Drop, Comment",
+            "Insert, Update, Delete",
+            "Select, Commit"
+          ],
+          "answer": "Insert, Update, Delete"
+        },
+        {
+          "id": 106,
+          "question": "Which is the subset of SQL commands used to manipulate Oracle Database Structures, including tables?",
+          "options": [
+            "Data Definition Language",
+            "Data Manipulation Language",
+            "Data Described Language",
+            "Data Retrieval Language"
+          ],
+          "answer": "Data Definition Language"
+        },
+        {
+          "id": 107,
+          "question": "SELECT SUBSTR('123456789', INSTR('abcabcabc','b'), 4) prints",
+          "options": [
+            "6789",
+            "2345",
+            "1234",
+            "456789"
+          ],
+          "answer": "2345"
+        },
+        {
+          "id": 108,
+          "question": "Which SQL command can be used to modify existing data in a database table?",
+          "options": [
+            "MODIFY",
+            "UPDATE",
+            "CHANGE",
+            "NEW"
+          ],
+          "answer": "UPDATE"
+        },
+        {
+          "id": 109,
+          "question": "When SQL statements are embedded inside a 3GL, we call such a program",
+          "options": [
+            "nested query",
+            "nested programming",
+            "distinct query",
+            "embedded SQL"
+          ],
+          "answer": "embedded SQL"
+        },
+        {
+          "id": 110,
+          "question": "……………. provides option for entering SQL queries at execution time.",
+          "options": [
+            "PL/SQL",
+            "SQL*Plus",
+            "SQL",
+            "Dynamic SQL"
+          ],
+          "answer": "Dynamic SQL"
+        },
+        {
+          "id": 111,
+          "question": "The RDBMS terminology for a row is",
+          "options": [
+            "tuple",
+            "relation",
+            "attribute",
+            "degree"
+          ],
+          "answer": "tuple"
+        },
+        {
+          "id": 112,
+          "question": "To change column value in a table, the ……… command can be used.",
+          "options": [
+            "CREATE",
+            "INSERT",
+            "ALTER",
+            "UPDATE"
+          ],
+          "answer": "UPDATE"
+        },
+        {
+          "id": 113,
+          "question": "The full form of DDL in DBMS is",
+          "options": [
+            "Dynamic Data Language",
+            "Detailed Data Language",
+            "Data Definition Language",
+            "Data Derivation Language"
+          ],
+          "answer": "Data Definition Language"
+        },
+        {
+          "id": 114,
+          "question": "To pass on granted privileges to another user, the …… clause is used.",
+          "options": [
+            "create option",
+            "grant option",
+            "update option",
+            "select option"
+          ],
+          "answer": "grant option"
+        },
+        {
+          "id": 115,
+          "question": "A set of possible data values is called",
+          "options": [
+            "attribute",
+            "degree",
+            "tuple",
+            "domain"
+          ],
+          "answer": "domain"
+        },
+        {
+          "id": 116,
+          "question": "……… is critical in formulating database design.",
+          "options": [
+            "row column order",
+            "number of tables",
+            "functional dependency",
+            "normalizing"
+          ],
+          "answer": "functional dependency"
+        },
+        {
+          "id": 117,
+          "question": "A primary key combined with a foreign key creates",
+          "options": [
+            "Parent-Child relationship",
+            "Many-to-many relationship",
+            "Network model",
+            "None of the above"
+          ],
+          "answer": "Parent-Child relationship"
+        },
+        {
+          "id": 118,
+          "question": "A …………. represents the number of entities to which another entity can be associated.",
+          "options": [
+            "mapping cardinality",
+            "table",
+            "schema",
+            "information"
+          ],
+          "answer": "mapping cardinality"
+        },
+        {
+          "id": 119,
+          "question": "Which two files are used during operation of the DBMS?",
+          "options": [
+            "Query languages and utilities",
+            "DML and query language",
+            "Data dictionary and transaction log",
+            "Data dictionary and query language"
+          ],
+          "answer": "Data dictionary and transaction log"
+        },
+        {
+          "id": 120,
+          "question": "A ……….. is a set of columns that identifies every row in a table.",
+          "options": [
+            "composite key",
+            "candidate key",
+            "foreign key",
+            "super key"
+          ],
+          "answer": "super key"
+        },
+        {
+          "id": 121,
+          "question": "DBMS is a collection of ………….. that enables users to create and maintain a database.",
+          "options": [
+            "Keys",
+            "Translators",
+            "Programs",
+            "Language Activity"
+          ],
+          "answer": "Programs"
+        },
+        {
+          "id": 122,
+          "question": "In a relational schema, each tuple is divided into fields called",
+          "options": [
+            "Relations",
+            "Domains",
+            "Attributes",
+            "Queries"
+          ],
+          "answer": "Attributes"
+        },
+        {
+          "id": 123,
+          "question": "In an ER model, ……………. is described in the database by storing its data.",
+          "options": [
+            "Entity",
+            "Attribute",
+            "Relationship",
+            "Notation"
+          ],
+          "answer": "Entity"
+        },
+        {
+          "id": 124,
+          "question": "DFD stands for",
+          "options": [
+            "Data Flow Document",
+            "Data File Diagram",
+            "Data Flow Diagram",
+            "None of the above"
+          ],
+          "answer": "Data Flow Diagram"
+        },
+        {
+          "id": 125,
+          "question": "A top-to-bottom relationship among the items in a database is established by a",
+          "options": [
+            "Hierarchical schema",
+            "Network schema",
+            "Relational Schema",
+            "All of the above"
+          ],
+          "answer": "Hierarchical schema"
+        },
+        {
+          "id": 126,
+          "question": "……………… table store information about the database or about the system.",
+          "options": [
+            "SQL",
+            "Nested",
+            "System",
+            "None of these"
+          ],
+          "answer": "System"
+        },
+        {
+          "id": 127,
+          "question": "……….. defines the structure of a relation that consists of a fixed set of attribute-domain pairs.",
+          "options": [
+            "Instance",
+            "Schema",
+            "Program",
+            "Super Key"
+          ],
+          "answer": "Schema"
+        },
+        {
+          "id": 128,
+          "question": "……………… clause is an additional filter that is applied to the result.",
+          "options": [
+            "SELECT",
+            "GROUP BY",
+            "HAVING",
+            "ORDER BY"
+          ],
+          "answer": "HAVING"
+        },
+        {
+          "id": 129,
+          "question": "A logical schema",
+          "options": [
+            "is the entire database",
+            "is a standard way of organizing information into accessible parts",
+            "describes how data is actually stored on disk",
+            "All of the above"
+          ],
+          "answer": "is a standard way of organizing information into accessible parts"
+        },
+        {
+          "id": 130,
+          "question": "………………… is a full form of SQL.",
+          "options": [
+            "Standard Query Language",
+            "Sequential Query Language",
+            "Structured Query Language",
+            "Server-side Query Language"
+          ],
+          "answer": "Structured Query Language"
+        },
+        {
+          "id": 131,
+          "question": "A relational database developer refers to a record as",
+          "options": [
+            "criteria",
+            "relation",
+            "tuple",
+            "attribute"
+          ],
+          "answer": "tuple"
+        },
+        {
+          "id": 132,
+          "question": "………. keyword is used to find the number of values in a column.",
+          "options": [
+            "TOTAL",
+            "COUNT",
+            "ADD",
+            "SUM"
+          ],
+          "answer": "COUNT"
+        },
+        {
+          "id": 133,
+          "question": "An advantage of the database management approach is",
+          "options": [
+            "data is dependent on programs",
+            "data redundancy increases",
+            "data is integrated and can be accessed by multiple programs",
+            "none of the above"
+          ],
+          "answer": "data is integrated and can be accessed by multiple programs"
+        },
+        {
+          "id": 134,
+          "question": "The collection of information stored in a database at a particular moment is called",
+          "options": [
+            "schema",
+            "instance of the database",
+            "data domain",
+            "independence"
+          ],
+          "answer": "instance of the database"
+        },
+        {
+          "id": 135,
+          "question": "Data independence means",
+          "options": [
+            "data is defined separately and not included in programs",
+            "programs are not dependent on the physical attributes of data",
+            "programs are not dependent on the logical attributes of data",
+            "both B and C"
+          ],
+          "answer": "both B and C"
+        },
+        {
+          "id": 136,
+          "question": "A ……… is used to define the overall design of the database",
+          "options": [
+            "schema",
+            "application program",
+            "data definition language",
+            "code"
+          ],
+          "answer": "schema"
+        },
+        {
+          "id": 137,
+          "question": "Key to represent the relationship between tables is called",
+          "options": [
+            "primary key",
+            "secondary key",
+            "foreign key",
+            "none of the above"
+          ],
+          "answer": "foreign key"
+        },
+        {
+          "id": 138,
+          "question": "Grant and revoke are ……. statements.",
+          "options": [
+            "DDL",
+            "TCL",
+            "DCL",
+            "DML"
+          ],
+          "answer": "DCL"
+        },
+        {
+          "id": 139,
+          "question": "DBMS helps achieve",
+          "options": [
+            "Data independence",
+            "Centralized control of data",
+            "Neither A nor B",
+            "Both A and B"
+          ],
+          "answer": "Both A and B"
+        },
+        {
+          "id": 140,
+          "question": "………. command can be used to modify a column in a table",
+          "options": [
+            "ALTER",
+            "UPDATE",
+            "SET",
+            "CREATE"
+          ],
+          "answer": "ALTER"
+        },
+        {
+          "id": 141,
+          "question": "The candidate key that you choose to identify each row uniquely is called",
+          "options": [
+            "Alternate Key",
+            "Primary Key",
+            "Foreign Key",
+            "None of the above"
+          ],
+          "answer": "Primary Key"
+        },
+        {
+          "id": 142,
+          "question": "…………….. is used to eliminate duplicate rows from the result set.",
+          "options": [
+            "UNIQUE",
+            "LIKE",
+            "DISTINCT",
+            "NULL"
+          ],
+          "answer": "DISTINCT"
+        },
+        {
+          "id": 143,
+          "question": "To eliminate duplicate rows ……………… is used",
+          "options": [
+            "NODUPLICATE",
+            "ELIMINATE",
+            "DISTINCT",
+            "None of these"
+          ],
+          "answer": "DISTINCT"
+        },
+        {
+          "id": 144,
+          "question": "State true or false: i) A candidate key is a minimal super key. ii) A candidate key can also refer to a surrogate key.",
+          "options": [
+            "i-true, ii-false",
+            "i-false, ii-true",
+            "i-true, ii-true",
+            "i-false, ii-false"
+          ],
+          "answer": "i-true, ii-false"
+        },
+        {
+          "id": 145,
+          "question": "DCL stands for",
+          "options": [
+            "Data Control Language",
+            "Data Console Language",
+            "Data Console Level",
+            "Data Control Level"
+          ],
+          "answer": "Data Control Language"
+        },
+        {
+          "id": 146,
+          "question": "……………… is the process of organizing data into related tables.",
+          "options": [
+            "Normalization",
+            "Generalization",
+            "Specialization",
+            "None of the above"
+          ],
+          "answer": "Normalization"
+        },
+        {
+          "id": 147,
+          "question": "A ………………. does not have a distinguishing attribute of its own and is dependent on another entity.",
+          "options": [
+            "Weak entity",
+            "Strong entity",
+            "Non-attribute entity",
+            "Dependent entity"
+          ],
+          "answer": "Weak entity"
+        },
+        {
+          "id": 148,
+          "question": "…………….. is the complex search criteria in the WHERE clause.",
+          "options": [
+            "Substring",
+            "Drop Table",
+            "Predict",
+            "Predicate"
+          ],
+          "answer": "Predicate"
+        },
+        {
+          "id": 149,
+          "question": "………………… is the preferred method for enforcing data integrity.",
+          "options": [
+            "Constraints",
+            "Stored Procedure",
+            "Triggers",
+            "Cursors"
+          ],
+          "answer": "Constraints"
+        },
+        {
+          "id": 150,
+          "question": "The number of tuples in a relation is called its …………. while the number of attributes is called its ………………..",
+          "options": [
+            "Degree, Cardinality",
+            "Cardinality, Degree",
+            "Rows, Columns",
+            "Columns, Rows"
+          ],
+          "answer": "Cardinality, Degree"
+        },
+        {
+          "id": 151,
+          "question": "The language that allows users to specify what data to retrieve, not how, is",
+          "options": [
+            "Procedural DML",
+            "Non-Procedural DML",
+            "Procedural DDL",
+            "Non-Procedural DDL"
+          ],
+          "answer": "Non-Procedural DML"
+        },
+        {
+          "id": 152,
+          "question": "Which two files are used during the operation of the DBMS?",
+          "options": [
+            "Query languages and utilities",
+            "DML and query language",
+            "Data dictionary and transaction log",
+            "Data dictionary and query language"
+          ],
+          "answer": "Data dictionary and transaction log"
+        },
+        {
+          "id": 153,
+          "question": "The database schema is written in",
+          "options": [
+            "HLL",
+            "DML",
+            "DDL",
+            "DCL"
+          ],
+          "answer": "DDL"
+        },
+        {
+          "id": 154,
+          "question": "The way a particular application views the data is called a",
+          "options": [
+            "module",
+            "relational model",
+            "schema",
+            "subschema"
+          ],
+          "answer": "subschema"
+        },
+        {
+          "id": 155,
+          "question": "The relational model feature is that there",
+          "options": [
+            "is no need for primary key data",
+            "is much more data independence than other models",
+            "are explicit relationships among records",
+            "are tables with many dimensions"
+          ],
+          "answer": "is much more data independence than other models"
+        },
+        {
+          "id": 156,
+          "question": "Which statement is false?",
+          "options": [
+            "The data dictionary is maintained by the DBA",
+            "Data elements can be modified by changing the data dictionary",
+            "The data dictionary contains names & descriptions of data elements",
+            "A data dictionary is used by the DBA"
+          ],
+          "answer": "The data dictionary is maintained by the DBA"
+        },
+        {
+          "id": 157,
+          "question": "Which of the following are the properties of entities?",
+          "options": [
+            "Groups",
+            "Table",
+            "Attributes",
+            "Switchboards"
+          ],
+          "answer": "Attributes"
+        },
+        {
+          "id": 158,
+          "question": "Which database level is closest to the users?",
+          "options": [
+            "External",
+            "Internal",
+            "Physical",
+            "Conceptual"
+          ],
+          "answer": "External"
+        },
+        {
+          "id": 159,
+          "question": "Which are the two ways in which entities can participate in a relationship?",
+          "options": [
+            "Passive and active",
+            "Total and partial",
+            "Simple and complex",
+            "All of the above"
+          ],
+          "answer": "Total and partial"
+        },
+        {
+          "id": 160,
+          "question": "…….. data type can store unstructured data",
+          "options": [
+            "RAW",
+            "CHAR",
+            "NUMERIC",
+            "VARCHAR"
+          ],
+          "answer": "RAW"
+        },
+        {
+          "id": 161,
+          "question": "State true or false: i) The select operator is not a unary operator. ii) The project operator chooses a subset of attributes of a relation.",
+          "options": [
+            "i-True, ii-False",
+            "i-True, ii-True",
+            "i-False, ii-True",
+            "i-False, ii-False"
+          ],
+          "answer": "i-False, ii-True"
+        },
+        {
+          "id": 162,
+          "question": "…………… database is used as a template for all databases created.",
+          "options": [
+            "Master",
+            "Model",
+            "Tempdb",
+            "None of the above"
+          ],
+          "answer": "Model"
+        },
+        {
+          "id": 163,
+          "question": "Ensuring only valid values can be assigned to each data item is known as",
+          "options": [
+            "Data Security",
+            "Domain Access",
+            "Data Control",
+            "Domain Integrity"
+          ],
+          "answer": "Domain Integrity"
+        },
+        {
+          "id": 164,
+          "question": "………………….. operator is a join followed by projection on the attributes of the first relation.",
+          "options": [
+            "Join",
+            "Semi-Join",
+            "Full Join",
+            "Inner Join"
+          ],
+          "answer": "Semi-Join"
+        },
+        {
+          "id": 165,
+          "question": "Which of the following is NOT a binary operator in relational algebra?",
+          "options": [
+            "Join",
+            "Semi-Join",
+            "Assignment",
+            "Project"
+          ],
+          "answer": "Project"
+        },
+        {
+          "id": 166,
+          "question": "Centralizing integrity checking under DBMS ………….. duplication.",
+          "options": [
+            "Increases",
+            "Skips",
+            "Does not reduce",
+            "Reduces"
+          ],
+          "answer": "Reduces"
+        },
+        {
+          "id": 167,
+          "question": "Which of the following are DDL statements?",
+          "options": [
+            "Create",
+            "Drop",
+            "Alter",
+            "All of the above"
+          ],
+          "answer": "All of the above"
+        },
+        {
+          "id": 168,
+          "question": "In snapshots, the …………………. clause tells Oracle how long to wait between refreshes.",
+          "options": [
+            "Complete",
+            "Force",
+            "Next",
+            "Refresh"
+          ],
+          "answer": "Next"
+        },
+        {
+          "id": 169,
+          "question": "……………… defines rules regarding the values allowed in columns.",
+          "options": [
+            "Column",
+            "Constraint",
+            "Index",
+            "Trigger"
+          ],
+          "answer": "Constraint"
+        },
+        {
+          "id": 170,
+          "question": "For LIKE predicate, which is true? i) % matches zero or more characters ii) _ matches exactly one character",
+          "options": [
+            "i-only",
+            "ii-only",
+            "Both of them",
+            "None of them"
+          ],
+          "answer": "Both of them"
+        },
+        {
+          "id": 171,
+          "question": "The relational model is based on the concept that data is stored in two-dimensional tables called",
+          "options": [
+            "Fields",
+            "Records",
+            "Relations",
+            "Keys"
+          ],
+          "answer": "Relations"
+        },
+        {
+          "id": 172,
+          "question": "……………….. contains information that defines valid values stored in a column or data type.",
+          "options": [
+            "View",
+            "Constraint",
+            "Index",
+            "Default"
+          ],
+          "answer": "Constraint"
+        },
+        {
+          "id": 173,
+          "question": "Which of the syntax is correct for insert statement? i) INSERT INTO table_name VALUES (…) ii) INSERT INTO table_name (column list) VALUES (…) ",
+          "options": [
+            "i-only",
+            "ii-only",
+            "Both of them",
+            "None of them"
+          ],
+          "answer": "Both of them"
+        },
+        {
+          "id": 174,
+          "question": "………………. first proposed the process of normalization in DBMS.",
+          "options": [
+            "Edgar W",
+            "Edgar F. Codd",
+            "Edward Stephen",
+            "Edward Codd"
+          ],
+          "answer": "Edgar F. Codd"
+        },
+        {
+          "id": 175,
+          "question": "For using a specific database …………… command is used.",
+          "options": [
+            "USE database",
+            "database name USE",
+            "Both A & B",
+            "None of them"
+          ],
+          "answer": "USE database"
+        },
+        {
+          "id": 176,
+          "question": "Which of the following is NOT a comparison operator?",
+          "options": [
+            "<>",
+            "<",
+            "=<",
+            ">="
+          ],
+          "answer": "=<"
+        },
+        {
+          "id": 177,
+          "question": "An outstanding functionality of SQL is its support for automatic ………… to the target data.",
+          "options": [
+            "programming",
+            "functioning",
+            "navigation",
+            "notification"
+          ],
+          "answer": "navigation"
+        },
+        {
+          "id": 178,
+          "question": "………………… is a special type of integrity constraint that relates two relations.",
+          "options": [
+            "Entity Integrity",
+            "Referential Integrity",
+            "Domain Integrity",
+            "Key Constraint"
+          ],
+          "answer": "Referential Integrity"
+        },
+        {
+          "id": 179,
+          "question": "…………….. specifies a search condition for a group or aggregate.",
+          "options": [
+            "GROUP BY",
+            "HAVING",
+            "FROM",
+            "WHERE"
+          ],
+          "answer": "HAVING"
+        },
+        {
+          "id": 180,
+          "question": "DROP TABLE cannot be used to drop a table referenced by a …………… constraint.",
+          "options": [
+            "Local Key",
+            "Primary Key",
+            "Composite Key",
+            "Foreign Key"
+          ],
+          "answer": "Foreign Key"
+        },
+        {
+          "id": 181,
+          "question": "…………… joins are SQL Server default",
+          "options": [
+            "Outer",
+            "Inner",
+            "Equi",
+            "None"
+          ],
+          "answer": "Inner"
+        },
+        {
+          "id": 182,
+          "question": "The ………………… is used to search for patterns in a string.",
+          "options": [
+            "LIKE predicate",
+            "NULL predicate",
+            "IN predicate",
+            "OUT predicate"
+          ],
+          "answer": "LIKE predicate"
+        },
+        {
+          "id": 183,
+          "question": "Which of the following are Database server functions? i) Data management ii) Transaction management iii) Compile queries iv) Query optimization",
+          "options": [
+            "i, ii, iv",
+            "i, ii, iii",
+            "ii, iii, iv",
+            "All of the above"
+          ],
+          "answer": "All of the above"
+        },
+        {
+          "id": 184,
+          "question": "To delete a database ………………. command is used",
+          "options": [
+            "delete database database_name",
+            "delete database_name",
+            "drop database database_name",
+            "drop database_name"
+          ],
+          "answer": "drop database database_name"
+        },
+        {
+          "id": 185,
+          "question": "……….. is a combination of two or more attributes used as a primary key",
+          "options": [
+            "Composite Key",
+            "Alternate Key",
+            "Candidate Key",
+            "Foreign Key"
+          ],
+          "answer": "Composite Key"
+        },
+        {
+          "id": 186,
+          "question": "Which of the following is NOT a function of the client?",
+          "options": [
+            "Compile queries",
+            "Query optimization",
+            "Receive queries",
+            "Result formatting"
+          ],
+          "answer": "Query optimization"
+        },
+        {
+          "id": 187,
+          "question": "………. is a special type of stored procedure automatically invoked on data modification.",
+          "options": [
+            "Procedure",
+            "Trigger",
+            "Cursor",
+            "None"
+          ],
+          "answer": "Trigger"
+        },
+        {
+          "id": 188,
+          "question": "…………….. requires that data should be made available only to authorized users.",
+          "options": [
+            "Data integrity",
+            "Privacy",
+            "Security",
+            "None"
+          ],
+          "answer": "Security"
+        },
+        {
+          "id": 189,
+          "question": "Reflexivity property says X → Y is true if Y is",
+          "options": [
+            "Subset of X",
+            "Null set",
+            "Superset",
+            "Subset of Y"
+          ],
+          "answer": "Subset of X"
+        },
+        {
+          "id": 190,
+          "question": "Anything that affects the database schema is part of",
+          "options": [
+            "DML",
+            "DCL",
+            "DDL",
+            "All"
+          ],
+          "answer": "DDL"
+        },
+        {
+          "id": 191,
+          "question": "Which is NOT a characteristic of relational database model?",
+          "options": [
+            "Table",
+            "Tree structure",
+            "Logical relationship",
+            "Records"
+          ],
+          "answer": "Tree structure"
+        },
+        {
+          "id": 192,
+          "question": "Field is otherwise called as ……… of the record",
+          "options": [
+            "Data item",
+            "Data type",
+            "Value",
+            "Variable"
+          ],
+          "answer": "Data item"
+        },
+        {
+          "id": 193,
+          "question": "A table can have only one",
+          "options": [
+            "Secondary key",
+            "Alternate key",
+            "Unique key",
+            "Primary key"
+          ],
+          "answer": "Primary key"
+        },
+        {
+          "id": 194,
+          "question": "A field in relation context is called",
+          "options": [
+            "Random file",
+            "Direct file",
+            "Attribute",
+            "Tuple"
+          ],
+          "answer": "Attribute"
+        },
+        {
+          "id": 195,
+          "question": "In relational model, cardinality means",
+          "options": [
+            "Number of tuples",
+            "Number of attributes",
+            "Number of tables",
+            "Number of constraints"
+          ],
+          "answer": "Number of tuples"
+        },
+        {
+          "id": 196,
+          "question": "The …….. is used for creating and destroying tables and structures.",
+          "options": [
+            "DML",
+            "DCL",
+            "TCL",
+            "DDL"
+          ],
+          "answer": "DDL"
+        },
+        {
+          "id": 197,
+          "question": "The view of total database content is",
+          "options": [
+            "Conceptual view",
+            "Internal view",
+            "External view",
+            "Physical view"
+          ],
+          "answer": "Conceptual view"
+        },
+        {
+          "id": 198,
+          "question": "The ………… refers to how data is organized and accessed.",
+          "options": [
+            "Database hierarchy",
+            "Data organization",
+            "Data sharing",
+            "Data model"
+          ],
+          "answer": "Data model"
+        },
+        {
+          "id": 199,
+          "question": "Database architecture consists of",
+          "options": [
+            "Two levels",
+            "Four levels",
+            "Three levels",
+            "One level"
+          ],
+          "answer": "Three levels"
+        },
+        {
+          "id": 200,
+          "question": "…….. introduced the relational database rules.",
+          "options": [
+            "Atul Kahate",
+            "James Gosling",
+            "E. F. Codd",
+            "Dennis Ritchie"
+          ],
+          "answer": "E. F. Codd"
+        }
+      ]
+    },
+    {
+      "domain_id": 3,
+      "domain_name": "OOPS",
+      "questions": [
+        {
+          "id": 201,
+          "question": "Who invented OOP?",
+          "options": [
+            "Andrea Ferro",
+            "Adele Goldberg",
+            "Alan Kay",
+            "Dennis Ritchie"
+          ],
+          "answer": "Alan Kay"
+        },
+        {
+          "id": 202,
+          "question": "Which is not a feature of OOP in general definitions?",
+          "options": [
+            "Efficient Code",
+            "Code reusability",
+            "Modularity",
+            "Duplicate/Redundant data"
+          ],
+          "answer": "Duplicate/Redundant data"
+        },
+        {
+          "id": 203,
+          "question": "Which was the first purely object oriented programming language developed?",
+          "options": [
+            "Kotlin",
+            "SmallTalk",
+            "Java",
+            "C++"
+          ],
+          "answer": "SmallTalk"
+        },
+        {
+          "id": 204,
+          "question": "When OOP concept did first came into picture?",
+          "options": [
+            "1980’s",
+            "1995",
+            "1970’s",
+            "1993"
+          ],
+          "answer": "1970’s"
+        },
+        {
+          "id": 205,
+          "question": "Which feature of OOP indicates code reusability?",
+          "options": [
+            "Abstraction",
+            "Polymorphism",
+            "Encapsulation",
+            "Inheritance"
+          ],
+          "answer": "Inheritance"
+        },
+        {
+          "id": 206,
+          "question": "Which header file is required in C++ to use OOP?",
+          "options": [
+            "OOP can be used without using any header file",
+            "stdlib.h",
+            "iostream.h",
+            "stdio.h"
+          ],
+          "answer": "OOP can be used without using any header file"
+        },
+        {
+          "id": 207,
+          "question": "Why Java is Partially OOP language?",
+          "options": [
+            "It allows code to be written outside classes",
+            "It supports usual declaration of primitive data types",
+            "It does not support pointers",
+            "It doesn’t support all types of inheritance"
+          ],
+          "answer": "It supports usual declaration of primitive data types"
+        },
+        {
+          "id": 208,
+          "question": "Which among the following doesn’t come under OOP concept?",
+          "options": [
+            "Data hiding",
+            "Message passing",
+            "Platform independent",
+            "Data binding"
+          ],
+          "answer": "Platform independent"
+        },
+        {
+          "id": 209,
+          "question": "Which is the correct syntax of inheritance?",
+          "options": [
+            "class base_classname :access derived_classname { }",
+            "class derived_classname : access base_classname { }",
+            "class derived_classname : base_classname { }",
+            "class base_classname : derived_classname { }"
+          ],
+          "answer": "class derived_classname : access base_classname { }"
+        },
+        {
+          "id": 210,
+          "question": "The feature by which one object can interact with another object is _____________",
+          "options": [
+            "Message reading",
+            "Message Passing",
+            "Data transfer",
+            "Data Binding"
+          ],
+          "answer": "Message Passing"
+        },
+        {
+          "id": 211,
+          "question": "Which among the following, for a pure OOP language, is true?",
+          "options": [
+            "The language should follow at least 1 feature of OOP",
+            "The language must follow only 3 features of OOP",
+            "The language must follow all the rules of OOP",
+            "The language should follow 3 or more features of OOP"
+          ],
+          "answer": "The language must follow all the rules of OOP"
+        },
+        {
+          "id": 212,
+          "question": "How many types of access specifiers are provided in OOP (C++)?",
+          "options": [
+            "4",
+            "3",
+            "2",
+            "1"
+          ],
+          "answer": "3"
+        },
+        {
+          "id": 213,
+          "question": "In multilevel inheritance, which is the most significant feature of OOP used?",
+          "options": [
+            "Code efficiency",
+            "Code readability",
+            "Flexibility",
+            "Code reusability"
+          ],
+          "answer": "Code reusability"
+        },
+        {
+          "id": 214,
+          "question": "What is encapsulation in OOP?",
+          "options": [
+            "It is a way of combining various data members and member functions that operate on those data members into a single unit",
+            "It is a way of combining various data members and member functions into a single unit which can operate on any data",
+            "It is a way of combining various data members into a single unit",
+            "It is a way of combining various member functions into a single unit"
+          ],
+          "answer": "It is a way of combining various data members and member functions that operate on those data members into a single unit"
+        },
+        {
+          "id": 215,
+          "question": "Which of the following is not true about polymorphism?",
+          "options": [
+            "Helps in redefining the same functionality",
+            "Increases overhead of function definition always",
+            "It is feature of OOP",
+            "Ease in readability of program"
+          ],
+          "answer": "Increases overhead of function definition always"
+        },
+        {
+          "id": 216,
+          "question": "What is an abstraction in object-oriented programming?",
+          "options": [
+            "Hiding the implementation and showing only the features",
+            "Hiding the important data",
+            "Hiding the implementation",
+            "Showing the important data"
+          ],
+          "answer": "Hiding the implementation and showing only the features"
+        },
+        {
+          "id": 217,
+          "question": "Which among the following can show polymorphism?",
+          "options": [
+            "Overloading &&",
+            "Overloading <<",
+            "Overloading ||",
+            "Overloading +="
+          ],
+          "answer": "Overloading <<"
+        },
+        {
+          "id": 218,
+          "question": "In which access should a constructor be defined, so that object of the class can be created in any function?",
+          "options": [
+            "Any access specifier will work",
+            "Private",
+            "Public",
+            "Protected"
+          ],
+          "answer": "Public"
+        },
+        {
+          "id": 219,
+          "question": "The copy constructors can be used to ________",
+          "options": [
+            "Copy an object so that it can be passed to another primitive type variable",
+            "Copy an object for type casting",
+            "Copy an object so that it can be passed to a function",
+            "Copy an object so that it can be passed to a class"
+          ],
+          "answer": "Copy an object so that it can be passed to a function"
+        },
+        {
+          "id": 220,
+          "question": "Which among the following represents correct constructor?",
+          "options": [
+            "–classname()",
+            "classname()",
+            "()classname",
+            "~classname()"
+          ],
+          "answer": "classname()"
+        },
+        {
+          "id": 221,
+          "question": "What happens when an object is passed by reference?",
+          "options": [
+            "Destructor is called at end of function",
+            "Destructor is called when called explicitly",
+            "Destructor is not called",
+            "Destructor is called when function is out of scope"
+          ],
+          "answer": "Destructor is not called"
+        },
+        {
+          "id": 222,
+          "question": "Which access specifier is usually used for data members of a class?",
+          "options": [
+            "Protected",
+            "Private",
+            "Public",
+            "Default"
+          ],
+          "answer": "Private"
+        },
+        {
+          "id": 223,
+          "question": "How to access data members of a class?",
+          "options": [
+            "Dot, arrow or direct call",
+            "Dot operator",
+            "Arrow operator",
+            "Dot or arrow as required"
+          ],
+          "answer": "Dot or arrow as required"
+        },
+        {
+          "id": 224,
+          "question": "Which feature of OOP reduces the use of nested classes?",
+          "options": [
+            "Inheritance",
+            "Binding",
+            "Abstraction",
+            "Encapsulation"
+          ],
+          "answer": "Inheritance"
+        },
+        {
+          "id": 225,
+          "question": "Which keyword among the following can be used to declare an array of objects in Java?",
+          "options": [
+            "allocate",
+            "arr",
+            "new",
+            "create"
+          ],
+          "answer": "new"
+        },
+        {
+          "id": 226,
+          "question": "Which operator can be used to free the memory allocated for an object in C++?",
+          "options": [
+            "Unallocate",
+            "Free()",
+            "Collect",
+            "delete"
+          ],
+          "answer": "delete"
+        },
+        {
+          "id": 227,
+          "question": "Which of the following is not a property of an object?",
+          "options": [
+            "Properties",
+            "Names",
+            "Identity",
+            "Attributes"
+          ],
+          "answer": "Names"
+        },
+        {
+          "id": 228,
+          "question": "Which type of members can’t be accessed in derived classes of a base class?",
+          "options": [
+            "All can be accessed",
+            "Protected",
+            "Private",
+            "Public"
+          ],
+          "answer": "Private"
+        },
+        {
+          "id": 229,
+          "question": "Which among the following best describes the Inheritance?",
+          "options": [
+            "Using the data and functions into derived segment",
+            "Using already defined functions in a programming language",
+            "Using the code already written once",
+            "Copying the code already written"
+          ],
+          "answer": "Using the data and functions into derived segment"
+        },
+        {
+          "id": 230,
+          "question": "Single level inheritance supports _____________ inheritance.",
+          "options": [
+            "Language independency",
+            "Multiple inheritance",
+            "Compile time",
+            "Runtime"
+          ],
+          "answer": "Runtime"
+        },
+        {
+          "id": 231,
+          "question": "How to overcome diamond problem?",
+          "options": [
+            "Using seperate derived class",
+            "Using virtual keyword with same name function",
+            "Can’t be done",
+            "Using alias name"
+          ],
+          "answer": "Using virtual keyword with same name function"
+        },
+        {
+          "id": 232,
+          "question": "Which keyword is used to declare virtual functions?",
+          "options": [
+            "virt",
+            "virtually",
+            "virtual",
+            "anonymous"
+          ],
+          "answer": "virtual"
+        },
+        {
+          "id": 233,
+          "question": "What happens if non-static members are used in static member function?",
+          "options": [
+            "Executes fine",
+            "Compile time error",
+            "Executes if that member function is not used",
+            "Runtime error"
+          ],
+          "answer": "Compile time error"
+        },
+        {
+          "id": 234,
+          "question": "What is friend member functions in C++?",
+          "options": [
+            "Non-member functions which have access to all the members (including private) of a class",
+            "Member function which doesn’t have access to private members",
+            "Member function which can modify any data of a class",
+            "Member function which can access all the members of a class"
+          ],
+          "answer": "Non-member functions which have access to all the members (including private) of a class"
+        },
+        {
+          "id": 235,
+          "question": "Where is the memory allocated for the objects?",
+          "options": [
+            "Cache",
+            "ROM",
+            "HDD",
+            "RAM"
+          ],
+          "answer": "RAM"
+        },
+        {
+          "id": 236,
+          "question": "Which of the following best describes member function overriding?",
+          "options": [
+            "Member functions having the same name in derived class only",
+            "Member functions having the same name and different signature inside main function",
+            "Member functions having the same name in base and derived classes",
+            "Member functions having the same name in base class only"
+          ],
+          "answer": "Member functions having the same name in base and derived classes"
+        },
+        {
+          "id": 237,
+          "question": "Encapsulation and abstraction differ as ____________.",
+          "options": [
+            "Data hiding and implementation hiding respectively",
+            "Binding and hiding respectively",
+            "Hiding and binding respectively",
+            "No difference exists"
+          ],
+          "answer": "Data hiding and implementation hiding respectively"
+        },
+        {
+          "id": 238,
+          "question": "Which feature of OOP is exhibited by function overriding?",
+          "options": [
+            "Polymorphism",
+            "Encapsulation",
+            "Abstraction",
+            "Inheritance"
+          ],
+          "answer": "Polymorphism"
+        },
+        {
+          "id": 239,
+          "question": "How can a private member function of a class be accessed?",
+          "options": [
+            "Using an object of the class",
+            "Using a pointer to the object",
+            "Using a public member function or a friend function",
+            "Using the address of the member function"
+          ],
+          "answer": "Using a public member function or a friend function"
+        },
+        {
+          "id": 240,
+          "question": "Which keyword should be used to declare static variables?",
+          "options": [
+            "const",
+            "common",
+            "static",
+            "stat"
+          ],
+          "answer": "static"
+        },
+        {
+          "id": 241,
+          "question": "Which is the correct syntax for declaring a pointer to an object?",
+          "options": [
+            "className objectName;",
+            "className* objectName;",
+            "className objectName();",
+            "className& objectName;"
+          ],
+          "answer": "className* objectName;"
+        },
+        {
+          "id": 242,
+          "question": "Which among the following is NOT a necessary condition for constructors?",
+          "options": [
+            "Its name must be same as that of the class",
+            "It must not have any return type",
+            "It must contain a definition body",
+            "It can contain arguments"
+          ],
+          "answer": "It must contain a definition body"
+        },
+        {
+          "id": 243,
+          "question": "Object being passed to a copy constructor ___________.",
+          "options": [
+            "Must not be mentioned in parameter list",
+            "Must be passed with integer type",
+            "Must be passed by value",
+            "Must be passed by reference"
+          ],
+          "answer": "Must be passed by reference"
+        },
+        {
+          "id": 244,
+          "question": "If in multiple inheritance, class C inherits class B and class B inherits class A, in which sequence are destructors called?",
+          "options": [
+            "~A() then ~B() then ~C()",
+            "~C() then ~A() then ~B()",
+            "~C() then ~B() then ~A()",
+            "~B() then ~C() then ~A()"
+          ],
+          "answer": "~C() then ~B() then ~A()"
+        },
+        {
+          "id": 245,
+          "question": "Instance of which type of class cannot be created?",
+          "options": [
+            "Parent class",
+            "Abstract class",
+            "Anonymous class",
+            "Nested class"
+          ],
+          "answer": "Abstract class"
+        },
+        {
+          "id": 246,
+          "question": "___________ underlines the feature of polymorphism in a class.",
+          "options": [
+            "Virtual function",
+            "Inline function",
+            "Enclosing class",
+            "Nested class"
+          ],
+          "answer": "Virtual function"
+        },
+        {
+          "id": 247,
+          "question": "Which feature of OOP is used to allocate additional functions to a predefined operator?",
+          "options": [
+            "Function overloading",
+            "Function overriding",
+            "Operator overloading",
+            "Operator overriding"
+          ],
+          "answer": "Operator overloading"
+        },
+        {
+          "id": 248,
+          "question": "Which feature can be implemented using encapsulation?",
+          "options": [
+            "Polymorphism",
+            "Overloading",
+            "Inheritance",
+            "Abstraction"
+          ],
+          "answer": "Abstraction"
+        },
+        {
+          "id": 249,
+          "question": "Which definition best describes an object?",
+          "options": [
+            "Instance of a class",
+            "Instance of itself",
+            "Child of a class",
+            "Overview of a class"
+          ],
+          "answer": "Instance of a class"
+        },
+        {
+          "id": 250,
+          "question": "How many objects can be declared of a specific class in a single program?",
+          "options": [
+            "32768",
+            "127",
+            "1",
+            "As many as you want"
+          ],
+          "answer": "As many as you want"
+        },
+        {
+          "id": 251,
+          "question": "Which among the following is false?",
+          "options": [
+            "Object must be created before using members of a class",
+            "Memory for an object is allocated only after its constructor is called",
+            "Objects can’t be passed by reference",
+            "Object size depends on its class data members"
+          ],
+          "answer": "Objects can’t be passed by reference"
+        },
+        {
+          "id": 252,
+          "question": "Which of the following is incorrect?",
+          "options": [
+            "class student { } s;",
+            "class student { }; student s;",
+            "class student { } s[];",
+            "class student { }; student s[5];"
+          ],
+          "answer": "class student { } s[];"
+        },
+        {
+          "id": 253,
+          "question": "How are members of an object accessed?",
+          "options": [
+            "Using dot operator / period symbol",
+            "Using scope resolution operator",
+            "Using member names directly",
+            "Using pointer only"
+          ],
+          "answer": "Using dot operator / period symbol"
+        },
+        {
+          "id": 254,
+          "question": "If a local class is defined inside a function, which of the following is true for an object of that class?",
+          "options": [
+            "Object is accessible outside the function",
+            "Object can be declared inside any other function",
+            "Object can be used to call other class members globally",
+            "Object can be used / accessed / declared locally in that function"
+          ],
+          "answer": "Object can be used / accessed / declared locally in that function"
+        },
+        {
+          "id": 255,
+          "question": "Which among the following is wrong?",
+          "options": [
+            "class student { }; student s;",
+            "abstract class student { }; student s;",
+            "abstract class student { } s[50000000];",
+            "abstract class student { }; class toppers : public student { }; toppers t;"
+          ],
+          "answer": "abstract class student { }; student s;"
+        },
+        {
+          "id": 256,
+          "question": "Object declared in main() function _____________",
+          "options": [
+            "Can be used by any other function",
+            "Can be used by main() function of any other program",
+            "Can’t be used by any other function",
+            "Can be accessed using scope resolution operator"
+          ],
+          "answer": "Can’t be used by any other function"
+        },
+        {
+          "id": 257,
+          "question": "Which is a true statement for object of String class?",
+          "options": [
+            "Object are immutable",
+            "Object are mutable",
+            "Object are created only once",
+            "Object can’t be created"
+          ],
+          "answer": "Object are immutable"
+        },
+        {
+          "id": 258,
+          "question": "How to declare an object of class String?",
+          "options": [
+            "String object_Name = value;",
+            "String object_name = new;",
+            "String object_name= new value;",
+            "String object_name= value new;"
+          ],
+          "answer": "String object_Name = value;"
+        },
+        {
+          "id": 259,
+          "question": "What does function length do in String class?",
+          "options": [
+            "Returns length of string including null character",
+            "Returns length of string excluding null character",
+            "Returns length of substring",
+            "Returns size of string in bytes"
+          ],
+          "answer": "Returns length of string excluding null character"
+        },
+        {
+          "id": 260,
+          "question": "Which is the function to get the character present at a particular index in the string?",
+          "options": [
+            "char charAt(index);",
+            "char charIn(StringName);",
+            "char charAt(StringName);",
+            "char charIn(index);"
+          ],
+          "answer": "char charAt(index);"
+        },
+        {
+          "id": 261,
+          "question": "The compareTo() function is used to ________________",
+          "options": [
+            "Compare strings value to string object",
+            "Compare string value to string value",
+            "Compare string object to another string object",
+            "Compare string object to another string value"
+          ],
+          "answer": "Compare string object to another string object"
+        },
+        {
+          "id": 262,
+          "question": "String trim() function is used to _______________________",
+          "options": [
+            "Remove all the white spaces from the string",
+            "Remove white space from start of string",
+            "Remove white space at end of string",
+            "Remove white space from both the ends of string"
+          ],
+          "answer": "Remove white space from both the ends of string"
+        },
+        {
+          "id": 263,
+          "question": "Function replace() accepts _____________ arguments.",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "2"
+        },
+        {
+          "id": 264,
+          "question": "Which among the following is true for constructors overloading?",
+          "options": [
+            "Constructors can’t be overloaded",
+            "Constructors can be overloaded using different signatures",
+            "Constructors can be overloaded with same signatures",
+            "Constructors can be overloaded with different return types"
+          ],
+          "answer": "Constructors can be overloaded using different signatures"
+        },
+        {
+          "id": 265,
+          "question": "Can a class have more than one function with all the default arguments?",
+          "options": [
+            "Yes, always",
+            "Yes, if argument list is different",
+            "No, because constructors overloading doesn’t depend on argument list",
+            "No, never"
+          ],
+          "answer": "No, never"
+        },
+        {
+          "id": 266,
+          "question": "Which is the correct syntax for using default arguments with the constructor?",
+          "options": [
+            "default constructorName(default int x=0)",
+            "constructorName(default int x=0)",
+            "constructorName(int x=0)",
+            "constructorName()"
+          ],
+          "answer": "constructorName(int x=0)"
+        },
+        {
+          "id": 267,
+          "question": "How many parameters must be passed if only the following prototype is given to a constructor? Prototype: className(int x, int y, int z=0);",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "Compile time error"
+          ],
+          "answer": "2"
+        },
+        {
+          "id": 268,
+          "question": "Which constructor definition will produce a compile time error?",
+          "options": [
+            "className(int x=0);",
+            "className(char c);",
+            "className(int x=0,char c);",
+            "className(char c,int x=0);"
+          ],
+          "answer": "className(int x=0,char c);"
+        },
+        {
+          "id": 269,
+          "question": "Which is the correct statement for default constructors?",
+          "options": [
+            "The constructors with all the default arguments",
+            "The constructors with all the null and zero values",
+            "The constructors which can’t be defined by programmer",
+            "The constructors with zero arguments"
+          ],
+          "answer": "The constructors with zero arguments"
+        },
+        {
+          "id": 270,
+          "question": "Which language among the following doesn’t allow pointers?",
+          "options": [
+            "C++",
+            "Java",
+            "Pascal",
+            "C"
+          ],
+          "answer": "Java"
+        },
+        {
+          "id": 271,
+          "question": "Which is correct syntax for declaring pointer to object?",
+          "options": [
+            "className* objectName;",
+            "className objectName;",
+            "*className objectName;",
+            "className objectName();"
+          ],
+          "answer": "className* objectName;"
+        },
+        {
+          "id": 272,
+          "question": "Which operator should be used to access the members of the class using object pointer?",
+          "options": [
+            "Dot operator",
+            "Colon to the member",
+            "Scope resolution operator",
+            "Arrow operator"
+          ],
+          "answer": "Arrow operator"
+        },
+        {
+          "id": 273,
+          "question": "How does compiler decide the intended object to be used, if more than one object are used?",
+          "options": [
+            "Using object name",
+            "Using an integer pointer",
+            "Using this pointer",
+            "Using void pointer"
+          ],
+          "answer": "Using this pointer"
+        },
+        {
+          "id": 274,
+          "question": "If pointer to an object is declared __________",
+          "options": [
+            "It can store any type of address",
+            "It can store only void addresses",
+            "It can only store address of integer type",
+            "It can only store object address of class type specified"
+          ],
+          "answer": "It can only store object address of class type specified"
+        },
+        {
+          "id": 275,
+          "question": "What is the size of an object pointer?",
+          "options": [
+            "Equal to size of any usual pointer",
+            "Equal to size of sum of all the members of object",
+            "Equal to size of maximum sized member of object",
+            "Equal to size of void"
+          ],
+          "answer": "Equal to size of any usual pointer"
+        },
+        {
+          "id": 276,
+          "question": "A pointer _________________",
+          "options": [
+            "Can point to only one object at a time",
+            "Can point to more than one objects at a time",
+            "Can point to only 2 objects at a time",
+            "Can point to whole class objects at a time"
+          ],
+          "answer": "Can point to only one object at a time"
+        },
+        {
+          "id": 277,
+          "question": "Can pointers to object access the private members of the class?",
+          "options": [
+            "Yes, always",
+            "Yes, only if it is only pointer to object",
+            "No, because objects can be referenced from another objects too",
+            "No, never"
+          ],
+          "answer": "No, never"
+        },
+        {
+          "id": 278,
+          "question": "Is name of an array of objects is also a pointer to object?",
+          "options": [
+            "Yes, always",
+            "Yes, in few cases",
+            "No, because it represents more than one object",
+            "No, never"
+          ],
+          "answer": "Yes, always"
+        },
+        {
+          "id": 279,
+          "question": "Which among the following is true?",
+          "options": [
+            "The pointer to object can hold address only",
+            "The pointer can hold value of any type",
+            "The pointer can hold only void reference",
+            "The pointer can’t hold any value"
+          ],
+          "answer": "The pointer to object can hold address only"
+        },
+        {
+          "id": 280,
+          "question": "Which is the correct syntax to call a member function using pointer?",
+          "options": [
+            "pointer->function()",
+            "pointer.function()",
+            "pointer::function()",
+            "pointer:function()"
+          ],
+          "answer": "pointer->function()"
+        },
+        {
+          "id": 281,
+          "question": "If a pointer to an object is created and the object gets deleted without using the pointer then __________",
+          "options": [
+            "It becomes void pointer",
+            "It becomes dangling pointer",
+            "It becomes null pointer",
+            "It becomes zero pointer"
+          ],
+          "answer": "It becomes dangling pointer"
+        },
+        {
+          "id": 282,
+          "question": "How can the address stored in the pointer be retrieved?",
+          "options": [
+            "Using * symbol",
+            "Using $ symbol",
+            "Using & symbol",
+            "Using @ symbol"
+          ],
+          "answer": "Using & symbol"
+        },
+        {
+          "id": 283,
+          "question": "Where is the memory allocated for the objects?",
+          "options": [
+            "HDD",
+            "Cache",
+            "RAM",
+            "ROM"
+          ],
+          "answer": "RAM"
+        },
+        {
+          "id": 284,
+          "question": "When is the memory allocated for an object?",
+          "options": [
+            "At declaration of object",
+            "At compile time",
+            "When object constructor is called",
+            "When object is initialized to another object"
+          ],
+          "answer": "When object constructor is called"
+        },
+        {
+          "id": 285,
+          "question": "Using new is type safe as _______________________",
+          "options": [
+            "It require to be specified with type of data",
+            "It doesn’t require to be specified with type of data",
+            "It requires the name of data",
+            "It allocated memory for the data"
+          ],
+          "answer": "It doesn’t require to be specified with type of data"
+        },
+        {
+          "id": 286,
+          "question": "Which of the following function can be used for dynamic memory allocation of objects?",
+          "options": [
+            "malloc()",
+            "calloc()",
+            "create()",
+            "both malloc() and calloc()"
+          ],
+          "answer": "both malloc() and calloc()"
+        },
+        {
+          "id": 287,
+          "question": "Which keyword among the following can be used to declare an array of objects in java?",
+          "options": [
+            "new",
+            "create",
+            "allocate",
+            "arr"
+          ],
+          "answer": "new"
+        },
+        {
+          "id": 288,
+          "question": "When is the memory allocated for an object gets free?",
+          "options": [
+            "At termination of program",
+            "When object goes out of scope",
+            "When main function ends",
+            "When system restarts"
+          ],
+          "answer": "When object goes out of scope"
+        },
+        {
+          "id": 289,
+          "question": "Which among the following keyword can be used to free the allocated memory for an object?",
+          "options": [
+            "delete",
+            "free",
+            "either delete or free",
+            "only delete"
+          ],
+          "answer": "either delete or free"
+        },
+        {
+          "id": 290,
+          "question": "Which function is called whenever an object goes out of scope?",
+          "options": [
+            "Destructor function",
+            "Constructor function",
+            "Delete function",
+            "Free function"
+          ],
+          "answer": "Destructor function"
+        },
+        {
+          "id": 291,
+          "question": "Which operator can be used to check the size of an object?",
+          "options": [
+            "sizeof(objectName)",
+            "size(objectName)",
+            "sizeofobject(objectName)",
+            "sizedobject(objectName)"
+          ],
+          "answer": "sizeof(objectName)"
+        },
+        {
+          "id": 292,
+          "question": "The memory allocated for an object ____________________",
+          "options": [
+            "Can be only dynamic",
+            "Can be only static",
+            "Can be static or dynamic",
+            "Can’t be done using dynamic functions"
+          ],
+          "answer": "Can be static or dynamic"
+        },
+        {
+          "id": 293,
+          "question": "In java ______________ takes care of managing memory for objects dynamically.",
+          "options": [
+            "Free collector",
+            "Dust collector",
+            "Memory manager",
+            "Garbage collector"
+          ],
+          "answer": "Garbage collector"
+        },
+        {
+          "id": 294,
+          "question": "Which operator can be used to free the memory allocated for an object in C++?",
+          "options": [
+            "Free()",
+            "delete",
+            "Unallocate",
+            "Collect"
+          ],
+          "answer": "delete"
+        },
+        {
+          "id": 295,
+          "question": "Which among the following is true?",
+          "options": [
+            "Java supports all types of inheritance",
+            "Java supports multiple inheritance",
+            "Java doesn’t support multiple inheritance",
+            "Java doesn’t support inheritance"
+          ],
+          "answer": "Java doesn’t support multiple inheritance"
+        },
+        {
+          "id": 296,
+          "question": "Which among the following best describes multiple inheritance?",
+          "options": [
+            "Two classes being parent of any other classes",
+            "Three classes being parent of other classes",
+            "More than one class being parent of other child classes",
+            "More than one class being parent of single child"
+          ],
+          "answer": "More than one class being parent of single child"
+        },
+        {
+          "id": 297,
+          "question": "How many types of inheritance can be used at a time in a single program?",
+          "options": [
+            "Any two types",
+            "Any three types",
+            "Any 4 types",
+            "Any type, any number of times"
+          ],
+          "answer": "Any type, any number of times"
+        },
+        {
+          "id": 298,
+          "question": "Which type of inheritance results in the diamond problem?",
+          "options": [
+            "Single level",
+            "Hybrid",
+            "Hierarchical",
+            "Multilevel"
+          ],
+          "answer": "Hybrid"
+        },
+        {
+          "id": 299,
+          "question": "If 6 classes uses single level inheritance with pair classes (3 pairs), which inheritance will this be called?",
+          "options": [
+            "Single",
+            "Multiple",
+            "Hierarchical",
+            "Multilevel"
+          ],
+          "answer": "Single"
+        },
+        {
+          "id": 300,
+          "question": "Which type of inheritance cannot involve private inheritance?",
+          "options": [
+            "Single level",
+            "Multiple",
+            "Hybrid",
+            "All types can have private inheritance"
+          ],
+          "answer": "All types can have private inheritance"
+        }
+      ]
+    },
+    {
+      "domain_id": 4,
+      "domain_name": "Quantitative Aptitude",
+      "questions": [
+        {
+          "id": 301,
+          "question": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+          "options": [
+            "120 metres",
+            "180 metres",
+            "324 metres",
+            "150 metres"
+          ],
+          "answer": "150 metres"
+        },
+        {
+          "id": 302,
+          "question": "A train 125 m long passes a man running at 5 km/hr in the same direction in 10 seconds. The speed of the train is:",
+          "options": [
+            "45 km/hr",
+            "50 km/hr",
+            "54 km/hr",
+            "55 km/hr"
+          ],
+          "answer": "50 km/hr"
+        },
+        {
+          "id": 303,
+          "question": "The length of the bridge, which a train 130 metres long and travelling at 45 km/hr can cross in 30 seconds, is:",
+          "options": [
+            "200 m",
+            "225 m",
+            "245 m",
+            "250 m"
+          ],
+          "answer": "245 m"
+        },
+        {
+          "id": 304,
+          "question": "Two trains running in opposite directions cross a man in 27 sec and 17 sec respectively and they cross each other in 23 sec. The ratio of their speeds is:",
+          "options": [
+            "1 : 3",
+            "3 : 2",
+            "3 : 4",
+            "None of these"
+          ],
+          "answer": "3 : 2"
+        },
+        {
+          "id": 305,
+          "question": "A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?",
+          "options": [
+            "120 m",
+            "240 m",
+            "300 m",
+            "None of these"
+          ],
+          "answer": "240 m"
+        },
+        {
+          "id": 306,
+          "question": "A alone can do a piece of work in 6 days and B alone in 8 days. With help of C, they finish it in 3 days. Payment = Rs. 3200. How much is to be paid to C?",
+          "options": [
+            "Rs. 375",
+            "Rs. 400",
+            "Rs. 600",
+            "Rs. 800"
+          ],
+          "answer": "Rs. 400"
+        },
+        {
+          "id": 307,
+          "question": "If 6 men and 8 boys do a work in 10 days and 26 men and 48 boys do it in 2 days, the time taken by 15 men and 20 boys is:",
+          "options": [
+            "4 days",
+            "5 days",
+            "6 days",
+            "7 days"
+          ],
+          "answer": "6 days"
+        },
+        {
+          "id": 308,
+          "question": "A can do a work in 4 hours; B and C together in 3 hours; A and C together in 2 hours. How long will B alone take?",
+          "options": [
+            "8 hours",
+            "10 hours",
+            "12 hours",
+            "24 hours"
+          ],
+          "answer": "12 hours"
+        },
+        {
+          "id": 309,
+          "question": "A can do a work in the same time as B and C together. A and B together do it in 10 days, and C alone in 50 days. B alone can do it in:",
+          "options": [
+            "15 days",
+            "20 days",
+            "25 days",
+            "30 days"
+          ],
+          "answer": "30 days"
+        },
+        {
+          "id": 310,
+          "question": "A does 80% of a work in 20 days. A & B finish remaining 20% in 3 days. How long B alone would take?",
+          "options": [
+            "23 days",
+            "37 days",
+            "37½ days",
+            "40 days"
+          ],
+          "answer": "37½ days"
+        },
+        {
+          "id": 311,
+          "question": "The cost price of 20 articles = selling price of x articles. Profit = 25%. Find x.",
+          "options": [
+            "15",
+            "16",
+            "18",
+            "25"
+          ],
+          "answer": "16"
+        },
+        {
+          "id": 312,
+          "question": "Profit = 320% of cost. If cost increases by 25% and SP remains constant, approx. what % of SP is profit?",
+          "options": [
+            "30%",
+            "70%",
+            "100%",
+            "250%"
+          ],
+          "answer": "70%"
+        },
+        {
+          "id": 313,
+          "question": "A vendor buys toffees at 6 for ₹1. How many for ₹1 must he sell to gain 20%?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": "5"
+        },
+        {
+          "id": 314,
+          "question": "A shopkeeper expects a gain of 22.5% on CP. If his weekly sale is ₹392, what is his profit?",
+          "options": [
+            "Rs. 18.20",
+            "Rs. 70",
+            "Rs. 72",
+            "Rs. 88.25"
+          ],
+          "answer": "Rs. 72"
+        },
+        {
+          "id": 315,
+          "question": "A man buys a cycle for ₹1400 and sells it at a loss of 15%. What is the SP?",
+          "options": [
+            "Rs. 1090",
+            "Rs. 1160",
+            "Rs. 1190",
+            "Rs. 1202"
+          ],
+          "answer": "Rs. 1190"
+        },
+        {
+          "id": 316,
+          "question": "The sum of ages of 5 children (each born 3 years apart) is 50 years. Find the age of the youngest.",
+          "options": [
+            "4 years",
+            "8 years",
+            "10 years",
+            "None of these"
+          ],
+          "answer": "4 years"
+        },
+        {
+          "id": 317,
+          "question": "Father said: “I was as old as you are now at the time of your birth.” Father is 38 now. Son’s age five years back?",
+          "options": [
+            "14 years",
+            "19 years",
+            "33 years",
+            "38 years"
+          ],
+          "answer": "14 years"
+        },
+        {
+          "id": 318,
+          "question": "A man is 24 years older than his son. In 2 years, he will be twice his son's age. Son’s present age?",
+          "options": [
+            "14 years",
+            "18 years",
+            "20 years",
+            "22 years"
+          ],
+          "answer": "22 years"
+        },
+        {
+          "id": 319,
+          "question": "Sum of ages of father & son = 60. Six years ago, father was 5× son’s age. Son’s age after 6 years?",
+          "options": [
+            "12 years",
+            "14 years",
+            "18 years",
+            "20 years"
+          ],
+          "answer": "20 years"
+        },
+        {
+          "id": 320,
+          "question": "Arun : Deepak = 4 : 3 at present. After 6 years, Arun will be 26. Deepak’s present age?",
+          "options": [
+            "12 years",
+            "15 years",
+            "19 and half",
+            "21 years"
+          ],
+          "answer": "15 years"
+        },
+        {
+          "id": 321,
+          "question": "In first 10 overs run rate = 3.2. Target = 282. Required run rate in remaining 40 overs?",
+          "options": [
+            "6.25",
+            "6.5",
+            "6.75",
+            "7"
+          ],
+          "answer": "6.5"
+        },
+        {
+          "id": 322,
+          "question": "Average of 20 numbers is zero. At most, how many can be greater than zero?",
+          "options": [
+            "0",
+            "1",
+            "10",
+            "19"
+          ],
+          "answer": "19"
+        },
+        {
+          "id": 323,
+          "question": "Average income: (P+Q)/2 = 5050, (Q+R)/2 = 6250, (P+R)/2 = 5200. Find P.",
+          "options": [
+            "3500",
+            "4000",
+            "4050",
+            "5000"
+          ],
+          "answer": "4000"
+        },
+        {
+          "id": 324,
+          "question": "Avg(A,B,C)=45, Avg(A,B)=40, Avg(B,C)=43. Find B.",
+          "options": [
+            "17 kg",
+            "20 kg",
+            "26 kg",
+            "31 kg"
+          ],
+          "answer": "26 kg"
+        },
+        {
+          "id": 325,
+          "question": "Batches: 55 students avg 50, 60 students avg 55, 45 students avg 60. Overall average = ?",
+          "options": [
+            "53.33",
+            "54.68",
+            "55",
+            "None of these"
+          ],
+          "answer": "54.68"
+        },
+        {
+          "id": 326,
+          "question": "A person crosses a 600 m street in 5 minutes. Speed in km/hr?",
+          "options": [
+            "3.6",
+            "7.2",
+            "8.4",
+            "10"
+          ],
+          "answer": "7.2"
+        },
+        {
+          "id": 327,
+          "question": "Walking at 14 km/hr instead of 10 km/hr, he walks 20 km more. Actual distance traveled?",
+          "options": [
+            "50 km",
+            "56 km",
+            "70 km",
+            "80 km"
+          ],
+          "answer": "50 km"
+        },
+        {
+          "id": 328,
+          "question": "Speed ratio of two trains = 7 : 8. Second train runs 400 km in 4 hrs. Speed of first train?",
+          "options": [
+            "70 km/hr",
+            "75 km/hr",
+            "84 km/hr",
+            "87.5 km/hr"
+          ],
+          "answer": "70 km/hr"
+        },
+        {
+          "id": 329,
+          "question": "Farmer travels 61 km in 9 hours, part @ 4 km/hr (walk), part @ 9 km/hr (cycle). Distance on foot?",
+          "options": [
+            "14 km",
+            "15 km",
+            "16 km",
+            "17 km"
+          ],
+          "answer": "16 km"
+        },
+        {
+          "id": 330,
+          "question": "Abhay covers 30 km, takes 2 hours more than Sameer. If Abhay doubles speed, he takes 1 hour less. Abhay’s speed?",
+          "options": [
+            "5 kmph",
+            "6 kmph",
+            "6.25 kmph",
+            "7.5 kmph"
+          ],
+          "answer": "5 kmph"
+        },
+        {
+          "id": 331,
+          "question": "A sum amounts to ₹815 in 3 years and ₹854 in 4 years (simple interest). The sum is:",
+          "options": [
+            "Rs. 650",
+            "Rs. 690",
+            "Rs. 698",
+            "Rs. 700"
+          ],
+          "answer": "Rs. 698"
+        },
+        {
+          "id": 332,
+          "question": "Time for ₹450 to yield ₹81 as interest at 4.5% simple interest?",
+          "options": [
+            "3.5 years",
+            "4 years",
+            "4.5 years",
+            "5 years"
+          ],
+          "answer": "4 years"
+        },
+        {
+          "id": 333,
+          "question": "Interest paid = ₹5400 for 3 years @12% simple interest. Principal?",
+          "options": [
+            "Rs. 2000",
+            "Rs. 10,000",
+            "Rs. 15,000",
+            "Rs. 20,000"
+          ],
+          "answer": "Rs. 15,000"
+        },
+        {
+          "id": 334,
+          "question": "A sum becomes ₹9800 in 5 years and ₹12005 in 8 years. Rate of interest?",
+          "options": [
+            "5%",
+            "8%",
+            "12%",
+            "15%"
+          ],
+          "answer": "5%"
+        },
+        {
+          "id": 335,
+          "question": "A person borrows ₹5000 @ 4% p.a. and lends it @ 6% p.a. for 2 years. Gain per year is:",
+          "options": [
+            "Rs. 100",
+            "Rs. 112.50",
+            "Rs. 125",
+            "Rs. 167.50"
+          ],
+          "answer": "Rs. 100"
+        },
+        {
+          "id": 336,
+          "question": "It was Sunday on Jan 1, 2006. What was the day on Jan 1, 2010?",
+          "options": [
+            "Sunday",
+            "Saturday",
+            "Friday",
+            "Wednesday"
+          ],
+          "answer": "Friday"
+        },
+        {
+          "id": 337,
+          "question": "What was the day of the week on 28th May, 2006?",
+          "options": [
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "answer": "Sunday"
+        },
+        {
+          "id": 338,
+          "question": "What was the day of the week on 17th June, 1998?",
+          "options": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ],
+          "answer": "Wednesday"
+        },
+        {
+          "id": 339,
+          "question": "What will be the day of the week on 15th August, 2010?",
+          "options": [
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Friday"
+          ],
+          "answer": "Sunday"
+        },
+        {
+          "id": 340,
+          "question": "Today is Monday. After 61 days, it will be:",
+          "options": [
+            "Wednesday",
+            "Saturday",
+            "Tuesday",
+            "Thursday"
+          ],
+          "answer": "Saturday"
+        },
+        {
+          "id": 341,
+          "question": "Two ships on opposite sides of a 100 m lighthouse observe angles 30° and 45°. Distance between ships?",
+          "options": [
+            "173 m",
+            "200 m",
+            "273 m",
+            "300 m"
+          ],
+          "answer": "273 m"
+        },
+        {
+          "id": 342,
+          "question": "Ladder makes 60° angle, foot is 4.6 m from wall. Length of ladder?",
+          "options": [
+            "2.3 m",
+            "4.6 m",
+            "7.8 m",
+            "9.2 m"
+          ],
+          "answer": "7.8 m"
+        },
+        {
+          "id": 343,
+          "question": "Observer (1.6 m tall) stands 20 m from tower, angle of elevation = 30°. Height of tower?",
+          "options": [
+            "21.6 m",
+            "23.2 m",
+            "24.72 m",
+            "None of these"
+          ],
+          "answer": "23.2 m"
+        },
+        {
+          "id": 344,
+          "question": "Angle of elevation = 30°, tower height = 100 m. Distance from point P?",
+          "options": [
+            "149 m",
+            "156 m",
+            "173 m",
+            "200 m"
+          ],
+          "answer": "173 m"
+        },
+        {
+          "id": 345,
+          "question": "Shadow length is 3 times the height of the tree. Angle of elevation of sun?",
+          "options": [
+            "30°",
+            "45°",
+            "60°",
+            "90°"
+          ],
+          "answer": "30°"
+        },
+        {
+          "id": 346,
+          "question": "Bank offers 5% CI half-yearly. Deposits: ₹1600 on Jan 1 and ₹1600 on July 1. Interest earned in 1 year?",
+          "options": [
+            "Rs. 120",
+            "Rs. 121",
+            "Rs. 122",
+            "Rs. 123"
+          ],
+          "answer": "Rs. 121"
+        },
+        {
+          "id": 347,
+          "question": "Difference between SI and CI (2 years, 4%) is ₹1. Find the sum.",
+          "options": [
+            "625",
+            "630",
+            "640",
+            "650"
+          ],
+          "answer": "625"
+        },
+        {
+          "id": 348,
+          "question": "Difference between CI (yearly and half-yearly) on ₹5000 for 1 year at 4%?",
+          "options": [
+            "Rs. 2.04",
+            "Rs. 3.06",
+            "Rs. 4.80",
+            "Rs. 8.30"
+          ],
+          "answer": "Rs. 2.04"
+        },
+        {
+          "id": 349,
+          "question": "At what CI rate will ₹1200 become ₹1348.32 in 2 years?",
+          "options": [
+            "6%",
+            "6.5%",
+            "7%",
+            "7.5%"
+          ],
+          "answer": "6%"
+        },
+        {
+          "id": 350,
+          "question": "Effective annual rate for nominal 6% p.a., compounded half-yearly?",
+          "options": [
+            "6.06%",
+            "6.07%",
+            "6.08%",
+            "6.09%"
+          ],
+          "answer": "6.09%"
+        },
+        {
+          "id": 351,
+          "question": "Clock shows 8 a.m. → 2 p.m. How many degrees does the hour hand rotate?",
+          "options": [
+            "144°",
+            "150°",
+            "168°",
+            "180°"
+          ],
+          "answer": "180°"
+        },
+        {
+          "id": 352,
+          "question": "A clock starts at noon. By 5:10, through how many degrees has the hour hand moved?",
+          "options": [
+            "145°",
+            "150°",
+            "155°",
+            "160°"
+          ],
+          "answer": "155°"
+        },
+        {
+          "id": 353,
+          "question": "Angle between hour and minute hands at 4:20?",
+          "options": [
+            "0°",
+            "10°",
+            "5°",
+            "20°"
+          ],
+          "answer": "10°"
+        },
+        {
+          "id": 354,
+          "question": "Angle between hands at 3:40?",
+          "options": [
+            "120°",
+            "125°",
+            "130°",
+            "135°"
+          ],
+          "answer": "130°"
+        },
+        {
+          "id": 355,
+          "question": "How many times are the hands of a clock at right angles in a day?",
+          "options": [
+            "22",
+            "24",
+            "44",
+            "48"
+          ],
+          "answer": "44"
+        },
+        {
+          "id": 356,
+          "question": "Which one of the following is not a prime number?",
+          "options": [
+            "31",
+            "61",
+            "71",
+            "91"
+          ],
+          "answer": "91"
+        },
+        {
+          "id": 357,
+          "question": "(112 × 54) = ?",
+          "options": [
+            "67000",
+            "70000",
+            "76500",
+            "77200"
+          ],
+          "answer": "6048"
+        },
+        {
+          "id": 358,
+          "question": "What least number must be added to 1056, so that the sum is completely divisible by 23?",
+          "options": [
+            "2",
+            "3",
+            "18",
+            "21"
+          ],
+          "answer": "2"
+        },
+        {
+          "id": 359,
+          "question": "1397 × 1397 = ?",
+          "options": [
+            "1951609",
+            "1981709",
+            "18362619",
+            "2031719"
+          ],
+          "answer": "1951609"
+        },
+        {
+          "id": 360,
+          "question": "Which of the following is a prime number?",
+          "options": [
+            "33",
+            "81",
+            "93",
+            "97"
+          ],
+          "answer": "97"
+        },
+        {
+          "id": 361,
+          "question": "What is the unit digit in {(6374)^1793 × (625)^317 × (341491)}?",
+          "options": [
+            "0",
+            "2",
+            "3",
+            "5",
+            "7"
+          ],
+          "answer": "0"
+        },
+        {
+          "id": 362,
+          "question": "The sum of first five prime numbers is:",
+          "options": [
+            "11",
+            "18",
+            "26",
+            "28"
+          ],
+          "answer": "28"
+        },
+        {
+          "id": 363,
+          "question": "The smallest 3-digit prime number is:",
+          "options": [
+            "101",
+            "103",
+            "109",
+            "113"
+          ],
+          "answer": "101"
+        },
+        {
+          "id": 364,
+          "question": "Which one of the following numbers is exactly divisible by 11?",
+          "options": [
+            "235641",
+            "245642",
+            "315624",
+            "415624"
+          ],
+          "answer": "245642"
+        },
+        {
+          "id": 365,
+          "question": "The sum of first 45 natural numbers is:",
+          "options": [
+            "1035",
+            "1280",
+            "2070",
+            "2140"
+          ],
+          "answer": "1035"
+        },
+        {
+          "id": 366,
+          "question": "Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case.",
+          "options": [
+            "4",
+            "7",
+            "9",
+            "13"
+          ],
+          "answer": "4"
+        },
+        {
+          "id": 367,
+          "question": "The H.C.F. of two numbers is 23 and the other two factors of their L.C.M. are 13 and 14. The larger of the two numbers is:",
+          "options": [
+            "276",
+            "299",
+            "322",
+            "345"
+          ],
+          "answer": "322"
+        },
+        {
+          "id": 368,
+          "question": "Six bells commence tolling together and toll at intervals of 2, 4, 6, 8, 10 and 12 seconds respectively. In 30 minutes, how many times do they toll together?",
+          "options": [
+            "4",
+            "10",
+            "15",
+            "16"
+          ],
+          "answer": "16"
+        },
+        {
+          "id": 369,
+          "question": "Let N be the greatest number that will divide 1305, 4665 and 6905, leaving the same remainder in each case. Then sum of the digits in N is:",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "8"
+          ],
+          "answer": "4"
+        },
+        {
+          "id": 370,
+          "question": "The greatest number of four digits which is divisible by 15, 25, 40 and 75 is:",
+          "options": [
+            "9000",
+            "9400",
+            "9600",
+            "9800"
+          ],
+          "answer": "9600"
+        },
+        {
+          "id": 371,
+          "question": "Two numbers are respectively 20% and 50% more than a third number. The ratio of the two numbers is:",
+          "options": [
+            "2 : 5",
+            "3 : 5",
+            "4 : 5",
+            "6 : 7"
+          ],
+          "answer": "4 : 5"
+        },
+        {
+          "id": 372,
+          "question": "A sum of money is to be distributed among A, B, C, D in the proportion of 5 : 2 : 4 : 3. If C gets Rs. 1000 more than D, what is B's share?",
+          "options": [
+            "Rs. 500",
+            "Rs. 1500",
+            "Rs. 2000",
+            "None of these"
+          ],
+          "answer": "Rs. 1500"
+        },
+        {
+          "id": 373,
+          "question": "In a mixture 60 litres, the ratio of milk and water is 2 : 1. If this ratio is to be 1 : 2, then the quantity of water to be further added is:",
+          "options": [
+            "20 litres",
+            "30 litres",
+            "40 litres",
+            "60 litres"
+          ],
+          "answer": "60 litres"
+        },
+        {
+          "id": 374,
+          "question": "If 0.75 : x :: 5 : 8, then x is equal to:",
+          "options": [
+            "1.12",
+            "1.2",
+            "1.25",
+            "1.30"
+          ],
+          "answer": "1.2"
+        },
+        {
+          "id": 375,
+          "question": "The sum of three numbers is 98. If the ratio of the first to second is 2 : 3 and that of the second to the third is 5 : 8, then the second number is:",
+          "options": [
+            "20",
+            "30",
+            "48",
+            "58"
+          ],
+          "answer": "30"
+        },
+        {
+          "id": 376,
+          "question": "3 pumps, working 8 hours a day, can empty a tank in 2 days. How many hours a day must 4 pumps work to empty the tank in 1 day?",
+          "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+          ],
+          "answer": "12"
+        },
+        {
+          "id": 377,
+          "question": "Running at the same constant rate, 6 identical machines can produce 270 bottles per minute. At this rate, how many bottles could 10 such machines produce in 4 minutes?",
+          "options": [
+            "648",
+            "1800",
+            "2700",
+            "10800"
+          ],
+          "answer": "10800"
+        },
+        {
+          "id": 378,
+          "question": "39 persons can repair a road in 12 days, working 5 hours a day. In how many days will 30 persons, working 6 hours a day, complete the work?",
+          "options": [
+            "10",
+            "13",
+            "14",
+            "15"
+          ],
+          "answer": "13"
+        },
+        {
+          "id": 379,
+          "question": "If a quarter kg of potato costs 60 paise, how many paise will 200 gm cost?",
+          "options": [
+            "48 paise",
+            "54 paise",
+            "56 paise",
+            "72 paise"
+          ],
+          "answer": "48 paise"
+        },
+        {
+          "id": 380,
+          "question": "A wheel that has 6 cogs is meshed with a larger wheel of 14 cogs. When the smaller wheel has made 21 revolutions, the number of revolutions made by the larger wheel is:",
+          "options": [
+            "4",
+            "9",
+            "12",
+            "49"
+          ],
+          "answer": "9"
+        },
+        {
+          "id": 381,
+          "question": "A boat can travel with a speed of 13 km/hr in still water. If the speed of the stream is 4 km/hr, find the time taken by the boat to go 68 km downstream.",
+          "options": [
+            "2 hours",
+            "3 hours",
+            "4 hours",
+            "5 hours"
+          ],
+          "answer": "4 hours"
+        },
+        {
+          "id": 382,
+          "question": "A man's speed with the current is 15 km/hr and the speed of the current is 2.5 km/hr. The man's speed against the current is:",
+          "options": [
+            "8.5 km/hr",
+            "9 km/hr",
+            "10 km/hr",
+            "12.5 km/hr"
+          ],
+          "answer": "10 km/hr"
+        },
+        {
+          "id": 383,
+          "question": "A motorboat, whose speed is 15 km/hr in still water, goes 30 km downstream and comes back in a total of 4 hours 30 minutes. The speed of the stream (in km/hr) is:",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "10"
+          ],
+          "answer": "5"
+        },
+        {
+          "id": 384,
+          "question": "In one hour, a boat goes 11 km along the stream and 5 km against the stream. The speed of the boat in still water is:",
+          "options": [
+            "3 km/hr",
+            "5 km/hr",
+            "8 km/hr",
+            "9 km/hr"
+          ],
+          "answer": "8 km/hr"
+        },
+        {
+          "id": 385,
+          "question": "The speed of a boat in still water is 15 km/hr and the rate of current is 3 km/hr. The distance travelled downstream in 12 minutes is:",
+          "options": [
+            "1.2 km",
+            "1.8 km",
+            "2.4 km",
+            "3.6 km"
+          ],
+          "answer": "3.6 km"
+        },
+        {
+          "id": 391,
+          "question": "Which of the following statements is not correct?",
+          "options": [
+            "log₁₀ 10 = 1",
+            "log (2 + 3) = log (2 × 3)",
+            "log₁₀ 1 = 0",
+            "log (1 + 2 + 3) = log 1 + log 2 + log 3"
+          ],
+          "answer": "log (2 + 3) = log (2 × 3)"
+        },
+        {
+          "id": 392,
+          "question": "If log 2 = 0.3010 and log 3 = 0.4771, the value of log₅ 512 is:",
+          "options": [
+            "2.870",
+            "2.967",
+            "3.876",
+            "3.912"
+          ],
+          "answer": "3.876"
+        },
+        {
+          "id": 393,
+          "question": "If log 27 = 1.431, then the value of log 9 is:",
+          "options": [
+            "0.934",
+            "0.945",
+            "0.954",
+            "0.958"
+          ],
+          "answer": "0.954"
+        },
+        {
+          "id": 394,
+          "question": "If log₁₀ 2 = 0.3010, the value of log₁₀ 80 is:",
+          "options": [
+            "1.6020",
+            "1.9030",
+            "3.9030",
+            "None of these"
+          ],
+          "answer": "1.9030"
+        },
+        {
+          "id": 395,
+          "question": "If log₁₀ 5 + log₁₀ (5x + 1) = log₁₀ (x + 5) + 1, then x is equal to:",
+          "options": [
+            "1",
+            "3",
+            "5",
+            "10"
+          ],
+          "answer": "5"
+        },
+        {
+          "id": 396,
+          "question": "In a 100 m race, A can give B 10 m and C 28 m. In the same race B can give C:",
+          "options": [
+            "18 m",
+            "20 m",
+            "27 m",
+            "9 m"
+          ],
+          "answer": "20 m"
+        },
+        {
+          "id": 397,
+          "question": "A and B take part in 100 m race. A runs at 5 kmph. A gives B a start of 8 m and still beats him by 8 seconds. The speed of B is:",
+          "options": [
+            "5.15 kmph",
+            "4.14 kmph",
+            "4.25 kmph",
+            "4.4 kmph"
+          ],
+          "answer": "4.14 kmph"
+        },
+        {
+          "id": 398,
+          "question": "In a 500 m race, the ratio of the speeds of two contestants A and B is 3 : 4. A has a start of 140 m. Then A wins by:",
+          "options": [
+            "60 m",
+            "40 m",
+            "20 m",
+            "10 m"
+          ],
+          "answer": "10 m"
+        },
+        {
+          "id": 399,
+          "question": "In a 100 m race, A beats B by 10 m and C by 13 m. In a race of 180 m, B will beat C by:",
+          "options": [
+            "5.4 m",
+            "4.5 m",
+            "5 m",
+            "6 m"
+          ],
+          "answer": "5.4 m"
+        },
+        {
+          "id": 400,
+          "question": "In a 100 m race, A covers the distance in 36 seconds and B in 45 seconds. In this race A beats B by:",
+          "options": [
+            "20 m",
+            "25 m",
+            "22.5 m",
+            "9 m"
+          ],
+          "answer": "20 m"
+        }
+      ]
+    },
+    {
+      "domain_id": 5,
+      "domain_name": "Logical Reasoning",
+      "questions": [
+        {
+          "id": 401,
+          "question": "Pointing to a photograph of a boy Suresh said, \"He is the son of the only son of my mother.\" How is Suresh related to that boy?",
+          "options": [
+            "Brother",
+            "Uncle",
+            "Cousin",
+            "Father"
+          ],
+          "answer": "Father"
+        },
+        {
+          "id": 402,
+          "question": "If A is the brother of B; B is the sister of C; and C is the father of D, how D is related to A?",
+          "options": [
+            "Brother",
+            "Sister",
+            "Nephew",
+            "Cannot be determined"
+          ],
+          "answer": "Nephew"
+        },
+        {
+          "id": 403,
+          "question": "If A + B means A is the brother of B; A - B means A is the sister of B and A x B means A is the father of B. Which of the following means that C is the son of M?",
+          "options": [
+            "M - N x C + F",
+            "F - C + N x M",
+            "N + M - F x C",
+            "M x N - C + F"
+          ],
+          "answer": "M - N x C + F"
+        },
+        {
+          "id": 404,
+          "question": "Introducing a boy, a girl said, \"He is the son of the daughter of the father of my uncle.\" How is the boy related to the girl?",
+          "options": [
+            "Brother",
+            "Nephew",
+            "Uncle",
+            "Son-in-law"
+          ],
+          "answer": "Brother"
+        },
+        {
+          "id": 405,
+          "question": "Pointing to a photograph Lata says, \"He is the son of the only son of my grandfather.\" How is the man in the photograph related to Lata?",
+          "options": [
+            "Brother",
+            "Uncle",
+            "Cousin",
+            "Data is inadequate"
+          ],
+          "answer": "Brother"
+        },
+        {
+          "id": 406,
+          "question": "If A + B means A is the brother of B; A x B means A is the son of B; and A % B means B is the daughter of A then which of the following means M is the maternal uncle of N?",
+          "options": [
+            "M + O x N",
+            "M % O x N + P",
+            "M + O % N",
+            "None of these"
+          ],
+          "answer": "M + O x N"
+        },
+        {
+          "id": 407,
+          "question": "Pointing to a photograph. Bajpai said, \"He is the son of the only daughter of the father of my brother.\" How Bajpai is related to the man in the photograph?",
+          "options": [
+            "Nephew",
+            "Brother",
+            "Father",
+            "Maternal Uncle"
+          ],
+          "answer": "Maternal Uncle"
+        },
+        {
+          "id": 408,
+          "question": "Deepak said to Nitin, \"That boy playing with the football is the younger of the two brothers of the daughter of my father's wife.\" How is the boy playing football related to Deepak?",
+          "options": [
+            "Son",
+            "Brother",
+            "Cousin",
+            "Brother-in-law"
+          ],
+          "answer": "Brother"
+        },
+        {
+          "id": 409,
+          "question": "Pointing a photograph X said to his friend Y, \"She is the only daughter of the father of my mother.\" How X is related to the person of photograph?",
+          "options": [
+            "Daughter",
+            "Son",
+            "Nephew",
+            "Cannot be decided"
+          ],
+          "answer": "Nephew"
+        },
+        {
+          "id": 410,
+          "question": "Pointing to a woman, Abhijit said, \"Her granddaughter is the only daughter of my brother.\" How is the woman related to Abhijit?",
+          "options": [
+            "Sister",
+            "Grandmother",
+            "Mother-in-law",
+            "Mother"
+          ],
+          "answer": "Mother"
+        },
+        {
+          "id": 411,
+          "question": "Amit said - \"This girl is the wife of the grandson of my mother\". How is Amit related to the girl?",
+          "options": [
+            "Brother",
+            "Grandfather",
+            "Husband",
+            "Father-in-law"
+          ],
+          "answer": "Father-in-law"
+        },
+        {
+          "id": 412,
+          "question": "Pointing towards a man, a woman said, \"His mother is the only daughter of my mother.\" How is the woman related to the man?",
+          "options": [
+            "Mother",
+            "Grandmother",
+            "Sister",
+            "Daughter"
+          ],
+          "answer": "Mother"
+        },
+        {
+          "id": 413,
+          "question": "If P $ Q means P is the brother of Q; P # Q means P is the mother of Q; P * Q means P is the daughter of Q. In A # B $ C * D, who is the father?",
+          "options": [
+            "D",
+            "B",
+            "C",
+            "Data is inadequate"
+          ],
+          "answer": "Data is inadequate"
+        },
+        {
+          "id": 414,
+          "question": "Introducing Sonia, Aamir says, \"She is the wife of only nephew of only brother of my mother.\" How Sonia is related to Aamir?",
+          "options": [
+            "Wife",
+            "Sister",
+            "Sister-in-law",
+            "Data is inadequate"
+          ],
+          "answer": "Sister-in-law"
+        },
+        {
+          "id": 415,
+          "question": "If A + B means A is the brother of B; A % B means A is the father of B and A x B means A is the sister of B. Which of the following means M is the uncle of P?",
+          "options": [
+            "M % N x P",
+            "N x P % M",
+            "M + S % R % P",
+            "M + K % T x P"
+          ],
+          "answer": "M + K % T x P"
+        },
+        {
+          "id": 416,
+          "question": "Pointing to Varman, Madhav said, \"I am the only son of one of the sons of his father.\" How is Varman related to Madhav?",
+          "options": [
+            "Nephew",
+            "Uncle",
+            "Father or Uncle",
+            "Father"
+          ],
+          "answer": "Father or Uncle"
+        },
+        {
+          "id": 417,
+          "question": "Introducing a woman, Shashank said, \"She is the mother of the only daughter of my son.\" How that woman is related to Shashank?",
+          "options": [
+            "Daughter",
+            "Sister-in-law",
+            "Wife",
+            "Daughter-in-law"
+          ],
+          "answer": "Daughter-in-law"
+        },
+        {
+          "id": 418,
+          "question": "Pointing to a photograph Anjali said, \"He is the son of the only son of my grandfather.\" How is the man in the photograph related to Anjali?",
+          "options": [
+            "Brother",
+            "Uncle",
+            "Son",
+            "Data is inadequate"
+          ],
+          "answer": "Brother"
+        },
+        {
+          "id": 419,
+          "question": "Pointing to a person, Deepak said, \"His only brother is the father of my daughter's father.\" How is the person related to Deepak?",
+          "options": [
+            "Father",
+            "Grandfather",
+            "Uncle",
+            "Brother-in-law"
+          ],
+          "answer": "Uncle"
+        },
+        {
+          "id": 420,
+          "question": "P is the mother of K; K is the sister of D; D is the father of J. How is P related to J?",
+          "options": [
+            "Mother",
+            "Grandmother",
+            "Aunt",
+            "Data inadequate"
+          ],
+          "answer": "Grandmother"
+        },
+        {
+          "id": 421,
+          "question": "120, 99, 80, 63, 48, ?",
+          "options": [
+            "35",
+            "38",
+            "39",
+            "40"
+          ],
+          "answer": "35"
+        },
+        {
+          "id": 422,
+          "question": "589654237, 89654237, 8965423, 965423, ?",
+          "options": [
+            "58965",
+            "65423",
+            "89654",
+            "96542"
+          ],
+          "answer": "96542"
+        },
+        {
+          "id": 423,
+          "question": "3, 10, 101, ?",
+          "options": [
+            "10101",
+            "10201",
+            "10202",
+            "11012"
+          ],
+          "answer": "10201"
+        },
+        {
+          "id": 424,
+          "question": "In the series 2, 6, 18, 54, ...... what will be the 8th term ?",
+          "options": [
+            "4370",
+            "4374",
+            "7443",
+            "7434"
+          ],
+          "answer": "4374"
+        },
+        {
+          "id": 425,
+          "question": "125, 80, 45, 20, ?",
+          "options": [
+            "5",
+            "8",
+            "10",
+            "12"
+          ],
+          "answer": "5"
+        },
+        {
+          "id": 426,
+          "question": "1, 1, 4, 8, 9, 27, 16, ?",
+          "options": [
+            "32",
+            "64",
+            "81",
+            "256"
+          ],
+          "answer": "64"
+        },
+        {
+          "id": 427,
+          "question": "1, 2, 3, 6, 9, 18, ?, 54",
+          "options": [
+            "18",
+            "27",
+            "36",
+            "81"
+          ],
+          "answer": "36"
+        },
+        {
+          "id": 428,
+          "question": "6, 13, 25, 51, 101, ?",
+          "options": [
+            "201",
+            "202",
+            "203",
+            "205"
+          ],
+          "answer": "203"
+        },
+        {
+          "id": 429,
+          "question": "5, 6, 9, 15, ?, 40",
+          "options": [
+            "21",
+            "25",
+            "27",
+            "33"
+          ],
+          "answer": "25"
+        },
+        {
+          "id": 430,
+          "question": "1, 3, 4, 8, 15, 27, ?",
+          "options": [
+            "37",
+            "44",
+            "50",
+            "55"
+          ],
+          "answer": "44"
+        },
+        {
+          "id": 431,
+          "question": "CUP : LIP :: BIRD : ?",
+          "options": [
+            "BUSH",
+            "GRASS",
+            "FOREST",
+            "BEAK"
+          ],
+          "answer": "BEAK"
+        },
+        {
+          "id": 432,
+          "question": "Flow : River :: Stagnant : ?",
+          "options": [
+            "Rain",
+            "Stream",
+            "Pool",
+            "Canal"
+          ],
+          "answer": "Pool"
+        },
+        {
+          "id": 433,
+          "question": "Paw : Cat :: Hoof : ?",
+          "options": [
+            "Lamb",
+            "Elephant",
+            "Lion",
+            "Horse"
+          ],
+          "answer": "Horse"
+        },
+        {
+          "id": 434,
+          "question": "Ornithologist : Bird :: Archaeologist : ?",
+          "options": [
+            "Islands",
+            "Mediators",
+            "Archaeology",
+            "Aquatic"
+          ],
+          "answer": "Archaeology"
+        },
+        {
+          "id": 435,
+          "question": "Peacock : India :: Bear : ?",
+          "options": [
+            "Australia",
+            "America",
+            "Russia",
+            "England"
+          ],
+          "answer": "Russia"
+        },
+        {
+          "id": 436,
+          "question": "REASON : SFBTPO :: THINK : ?",
+          "options": [
+            "SGHMJ",
+            "UIJOL",
+            "UHNKI",
+            "UJKPM"
+          ],
+          "answer": "UIJOL"
+        },
+        {
+          "id": 437,
+          "question": "Carbon : Diamond :: Corundum : ?",
+          "options": [
+            "Garnet",
+            "Ruby",
+            "Pukhraj",
+            "Pearl"
+          ],
+          "answer": "Ruby"
+        },
+        {
+          "id": 438,
+          "question": "NATION : ANTINO :: HUNGRY : ?",
+          "options": [
+            "HNUGRY",
+            "UHNGYR",
+            "YRNGUH",
+            "UNHGYR"
+          ],
+          "answer": "HNUGRY"
+        },
+        {
+          "id": 439,
+          "question": "Architect : Building :: Sculptor : ?",
+          "options": [
+            "Museum",
+            "Stone",
+            "Chisel",
+            "Statue"
+          ],
+          "answer": "Statue"
+        },
+        {
+          "id": 440,
+          "question": "Eye : Myopia :: Teeth : ?",
+          "options": [
+            "Pyorrhoea",
+            "Cataract",
+            "Trachoma",
+            "Eczema"
+          ],
+          "answer": "Pyorrhoea"
+        },
+        {
+          "id": 441,
+          "question": "Conference : Chairman :: Newspaper : ?",
+          "options": [
+            "Reporter",
+            "Distributor",
+            "Printer",
+            "Editor"
+          ],
+          "answer": "Editor"
+        },
+        {
+          "id": 442,
+          "question": "Safe : Secure :: Protect : ?",
+          "options": [
+            "Lock",
+            "Sure",
+            "Guard",
+            "Conserve"
+          ],
+          "answer": "Guard"
+        },
+        {
+          "id": 443,
+          "question": "Master : OCUVGT :: LABOUR : ?",
+          "options": [
+            "NCDQWT",
+            "NDERWT",
+            "NBERWT",
+            "NEDRWT"
+          ],
+          "answer": "NCDQWT"
+        },
+        {
+          "id": 444,
+          "question": "Microphone : Loud :: Microscope : ?",
+          "options": [
+            "Elongate",
+            "Investigate",
+            "Magnify",
+            "Examine"
+          ],
+          "answer": "Magnify"
+        },
+        {
+          "id": 445,
+          "question": "Melt : Liquid :: Freeze : ?",
+          "options": [
+            "Ice",
+            "Condense",
+            "Solid",
+            "Force"
+          ],
+          "answer": "Solid"
+        },
+        {
+          "id": 446,
+          "question": "College : Student :: Hospital : ?",
+          "options": [
+            "Nurse",
+            "Doctor",
+            "Treatment",
+            "Patient"
+          ],
+          "answer": "Patient"
+        },
+        {
+          "id": 447,
+          "question": "Tree : Forest :: Grass : ?",
+          "options": [
+            "Lawn",
+            "Garden",
+            "Park",
+            "Field"
+          ],
+          "answer": "Field"
+        },
+        {
+          "id": 448,
+          "question": "South : North-West :: West : ?",
+          "options": [
+            "North",
+            "South-West",
+            "North-East",
+            "East"
+          ],
+          "answer": "North-East"
+        },
+        {
+          "id": 449,
+          "question": "Cloth : Mill :: Newspaper : ?",
+          "options": [
+            "Editor",
+            "Reader",
+            "Paper",
+            "Press"
+          ],
+          "answer": "Press"
+        },
+        {
+          "id": 450,
+          "question": "Country : President :: State : ?",
+          "options": [
+            "Governor",
+            "M.P",
+            "Legislator",
+            "Minister"
+          ],
+          "answer": "Governor"
+        },
+        {
+          "id": 451,
+          "question": "One morning Udai and Vishal were talking face to face. Vishal's shadow was to the left of Udai. Which direction was Udai facing?",
+          "options": [
+            "East",
+            "West",
+            "North",
+            "South"
+          ],
+          "answer": "North"
+        },
+        {
+          "id": 452,
+          "question": "Y is East of X; X is North of Z; P is South of Z. Direction of P from Y?",
+          "options": [
+            "North",
+            "South",
+            "South-East",
+            "None of these"
+          ],
+          "answer": "South-East"
+        },
+        {
+          "id": 453,
+          "question": "If South-East becomes North, North-East becomes West, then West becomes?",
+          "options": [
+            "North-East",
+            "North-West",
+            "South-East",
+            "South-West"
+          ],
+          "answer": "South-West"
+        },
+        {
+          "id": 454,
+          "question": "A man walks 5 km South → right 3 km → left 5 km. Direction from start?",
+          "options": [
+            "West",
+            "South",
+            "North-East",
+            "South-West"
+          ],
+          "answer": "West"
+        },
+        {
+          "id": 455,
+          "question": "At 6 PM hour hand points North. Direction of minute hand at 9:15 PM?",
+          "options": [
+            "South-East",
+            "South",
+            "North",
+            "West"
+          ],
+          "answer": "South-East"
+        },
+        {
+          "id": 456,
+          "question": "Before sunset, Hema’s shadow was to her right. Direction Rekha faces?",
+          "options": [
+            "North",
+            "South",
+            "East",
+            "Data is inadequate"
+          ],
+          "answer": "North"
+        },
+        {
+          "id": 457,
+          "question": "Boy rides North → left 1 km → left 2 km. Ends 1 km West of start. How far first?",
+          "options": [
+            "1 km",
+            "2 km",
+            "3 km",
+            "5 km"
+          ],
+          "answer": "2 km"
+        },
+        {
+          "id": 458,
+          "question": "K is 40 m South-West of L. M is 40 m South-East of L. Direction of M from K?",
+          "options": [
+            "East",
+            "West",
+            "North-East",
+            "South"
+          ],
+          "answer": "East"
+        },
+        {
+          "id": 459,
+          "question": "Man walks N 2 km → E 10 km → N 3 km → E 2 km. Distance from start?",
+          "options": [
+            "10 km",
+            "13 km",
+            "15 km",
+            "None of these"
+          ],
+          "answer": "13 km"
+        },
+        {
+          "id": 460,
+          "question": "Room 8×6 m. Cat runs around all 4 walls then diagonal. Distance?",
+          "options": [
+            "10",
+            "14",
+            "38",
+            "48"
+          ],
+          "answer": "38"
+        },
+        {
+          "id": 461,
+          "question": "Golu walks 8 km North → 6 km West. Shortest distance to home?",
+          "options": [
+            "10 km",
+            "16 km",
+            "14 km",
+            "2 km"
+          ],
+          "answer": "10 km"
+        },
+        {
+          "id": 462,
+          "question": "One morning Suresh faces a pole. Pole’s shadow is to his right. Direction facing?",
+          "options": [
+            "East",
+            "South",
+            "West",
+            "Data is inadequate"
+          ],
+          "answer": "South"
+        },
+        {
+          "id": 463,
+          "question": "Shyam walks 5 km East → left 6 km → right 9 km → right 6 km. Distance?",
+          "options": [
+            "26 km",
+            "21 km",
+            "14 km",
+            "9 km"
+          ],
+          "answer": "14 km"
+        },
+        {
+          "id": 464,
+          "question": "Amit started walking with his back to sun → turned left → right → left. Final direction?",
+          "options": [
+            "North or South",
+            "East or West",
+            "North or West",
+            "South or West"
+          ],
+          "answer": "North or South"
+        },
+        {
+          "id": 465,
+          "question": "Village Q is North of P. R is East of Q. S is left of P. Direction of S from R?",
+          "options": [
+            "West",
+            "South-West",
+            "South",
+            "North-West"
+          ],
+          "answer": "South-West"
+        },
+        {
+          "id": 466,
+          "question": "Choose the word which is different from the rest.",
+          "options": [
+            "Chicken",
+            "Snake",
+            "Swan",
+            "Crocodile"
+          ],
+          "answer": "Snake"
+        },
+        {
+          "id": 467,
+          "question": "Choose the word which is different from the rest.",
+          "options": [
+            "Cap",
+            "Turban",
+            "Helmet",
+            "Veil"
+          ],
+          "answer": "Helmet"
+        },
+        {
+          "id": 468,
+          "question": "Choose the word which is different from the rest.",
+          "options": [
+            "Kiwi",
+            "Eagle",
+            "Emu",
+            "Ostrich"
+          ],
+          "answer": "Eagle"
+        },
+        {
+          "id": 469,
+          "question": "Choose the word which is different from the rest.",
+          "options": [
+            "Rigveda",
+            "Yajurveda",
+            "Atharvaveda",
+            "Ayurveda"
+          ],
+          "answer": "Ayurveda"
+        },
+        {
+          "id": 470,
+          "question": "Choose the word which is different from the rest.",
+          "options": [
+            "Curd",
+            "Butter",
+            "Oil",
+            "Cheese"
+          ],
+          "answer": "Oil"
+        },
+        {
+          "id": 471,
+          "question": "Choose the word which is different from the rest.",
+          "options": [
+            "Potassium",
+            "Silicon",
+            "Zirconium",
+            "Gallium"
+          ],
+          "answer": "Silicon"
+        },
+        {
+          "id": 472,
+          "question": "Choose the word which is different from the rest.",
+          "options": [
+            "Tea",
+            "Cinchona",
+            "Cardamom",
+            "Chalk"
+          ],
+          "answer": "Chalk"
+        },
+        {
+          "id": 473,
+          "question": "Choose the word which is different from the rest.",
+          "options": [
+            "Hangar",
+            "Platform",
+            "Dock",
+            "Park"
+          ],
+          "answer": "Park"
+        },
+        {
+          "id": 474,
+          "question": "Choose the word which is different from the rest.",
+          "options": [
+            "Sparrow",
+            "Swan",
+            "Parrot",
+            "Koel"
+          ],
+          "answer": "Swan"
+        },
+        {
+          "id": 475,
+          "question": "Choose the word which is different from the rest.",
+          "options": [
+            "Tall",
+            "Huge",
+            "Thin",
+            "Sharp"
+          ],
+          "answer": "Thin"
+        },
+        {
+          "id": 476,
+          "question": "Choose the word which is different from the rest.",
+          "options": [
+            "Pear",
+            "Apple",
+            "Guava",
+            "Orange"
+          ],
+          "answer": "Orange"
+        },
+        {
+          "id": 477,
+          "question": "Choose the word which is different from the rest.",
+          "options": [
+            "Dagger",
+            "Hammer",
+            "Knife",
+            "Sword"
+          ],
+          "answer": "Hammer"
+        },
+        {
+          "id": 478,
+          "question": "Choose the word which is different from the rest.",
+          "options": [
+            "Kanpur",
+            "Allahabad",
+            "Varanasi",
+            "Mathura"
+          ],
+          "answer": "Mathura"
+        },
+        {
+          "id": 479,
+          "question": "Choose the word which is different from the rest.",
+          "options": [
+            "Oyster",
+            "Clam",
+            "Scallop",
+            "Mussel"
+          ],
+          "answer": "Scallop"
+        },
+        {
+          "id": 480,
+          "question": "Choose the word which is different from the rest.",
+          "options": [
+            "Deck",
+            "Quay",
+            "Stern",
+            "Bow"
+          ],
+          "answer": "Quay"
+        },
+        {
+          "id": 481,
+          "question": "The total of the ages of Amar, Akbar and Anthony is 80 years. What was their total age 3 years ago?",
+          "options": [
+            "71",
+            "72",
+            "74",
+            "77"
+          ],
+          "answer": "72"
+        },
+        {
+          "id": 482,
+          "question": "Pineapple = ₹7, Watermelon = ₹5. X spends ₹38. Number of pineapples?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "Data inadequate"
+          ],
+          "answer": "Data inadequate"
+        },
+        {
+          "id": 483,
+          "question": "What is the product of all the numbers on a telephone dial?",
+          "options": [
+            "1,58,480",
+            "1,59,450",
+            "1,59,480",
+            "None of these"
+          ],
+          "answer": "None of these"
+        },
+        {
+          "id": 484,
+          "question": "A is 3 years older than B, 3 younger than C, B & D are twins. How many years older is C than D?",
+          "options": [
+            "2",
+            "3",
+            "6",
+            "12"
+          ],
+          "answer": "6"
+        },
+        {
+          "id": 485,
+          "question": "Manick is 12 and 3× Rahul. When will he be twice Rahul?",
+          "options": [
+            "14",
+            "16",
+            "18",
+            "20"
+          ],
+          "answer": "18"
+        },
+        {
+          "id": 486,
+          "question": "Heads = 80, Legs = 200. Deer (4 legs) & peacocks (2 legs). Peacocks?",
+          "options": [
+            "20",
+            "30",
+            "50",
+            "60"
+          ],
+          "answer": "50"
+        },
+        {
+          "id": 487,
+          "question": "Father is 3× son now; 5 years ago he was 4× son. Son's age?",
+          "options": [
+            "12",
+            "15",
+            "18",
+            "20"
+          ],
+          "answer": "12"
+        },
+        {
+          "id": 488,
+          "question": "Waiter's tips = 5/4 of salary. What fraction of income is from tips?",
+          "options": [
+            "4/9",
+            "5/4",
+            "5/8",
+            "5/9"
+          ],
+          "answer": "5/9"
+        },
+        {
+          "id": 489,
+          "question": "How many times does digit 3 appear from 1 to 100?",
+          "options": [
+            "11",
+            "18",
+            "20",
+            "21"
+          ],
+          "answer": "20"
+        },
+        {
+          "id": 490,
+          "question": "If 100 cats kill 100 mice in 100 days, 4 cats kill 4 mice in how many days?",
+          "options": [
+            "1",
+            "4",
+            "40",
+            "100"
+          ],
+          "answer": "100"
+        },
+        {
+          "id": 491,
+          "question": "Five bells ring at intervals 6,5,7,10,12 seconds. How many times together in 1 hour (excluding start)?",
+          "options": [
+            "7",
+            "8",
+            "9",
+            "11"
+          ],
+          "answer": "8"
+        },
+        {
+          "id": 492,
+          "question": "A square plot with 27 poles on each side. Total poles?",
+          "options": [
+            "100",
+            "104",
+            "108",
+            "None of these"
+          ],
+          "answer": "104"
+        },
+        {
+          "id": 493,
+          "question": "Adults : Children = 2 : 3. 40% adults illiterate, 85% children literate. Percentage of total population literate?",
+          "options": [
+            "20%",
+            "25%",
+            "50%",
+            "75%"
+          ],
+          "answer": "50%"
+        },
+        {
+          "id": 494,
+          "question": "A = 31 in 4 years; A = 27 now. A = 3B. C was twice A four years ago. Ages of B and C?",
+          "options": [
+            "9, 46",
+            "9, 50",
+            "10, 46",
+            "10, 50"
+          ],
+          "answer": "9, 46"
+        },
+        {
+          "id": 495,
+          "question": "Varun: One year from now he is twice age 12 years ago. Age today?",
+          "options": [
+            "20",
+            "22",
+            "25",
+            "27"
+          ],
+          "answer": "25"
+        },
+        {
+          "id": 496,
+          "question": "Smallest number of ducks: two in front, two behind, one between?",
+          "options": [
+            "3",
+            "5",
+            "7",
+            "9"
+          ],
+          "answer": "5"
+        },
+        {
+          "id": 497,
+          "question": "Boys = 3× girls. Which cannot be total strength?",
+          "options": [
+            "48",
+            "44",
+            "42",
+            "40"
+          ],
+          "answer": "44"
+        },
+        {
+          "id": 498,
+          "question": "Shepherd had 17 sheep. All but nine died. How many left?",
+          "options": [
+            "Nil",
+            "8",
+            "9",
+            "17"
+          ],
+          "answer": "9"
+        },
+        {
+          "id": 499,
+          "question": "Father took 1/4 cake = 3 times others. Total members?",
+          "options": [
+            "3",
+            "7",
+            "10",
+            "12"
+          ],
+          "answer": "7"
+        },
+        {
+          "id": 500,
+          "question": "Total digits used to number 366 pages?",
+          "options": [
+            "732",
+            "990",
+            "1098",
+            "1305"
+          ],
+          "answer": "1098"
+        }
+      ]
+    },
+    {
+      "domain_id": 6,
+      "domain_name": "Computer Fundamentals",
+      "questions": [
+        {
+          "id": 501,
+          "question": "What does UNIVAC stand for?",
+          "options": [
+            "Universal Automatic Computer",
+            "Universal Array Computer",
+            "Unique Automatic Computer",
+            "Unvalued Automatic Computer"
+          ],
+          "answer": "Universal Automatic Computer"
+        },
+        {
+          "id": 502,
+          "question": "The basic operations performed by a computer are?",
+          "options": [
+            "Arithmetic operation",
+            "Logical operation",
+            "Storage and retrieval",
+            "All of the above"
+          ],
+          "answer": "All of the above"
+        },
+        {
+          "id": 503,
+          "question": "The two major types of computer chips are?",
+          "options": [
+            "External memory chip",
+            "Primary memory chip",
+            "Microprocessor chip",
+            "Both primary memory and microprocessor chip"
+          ],
+          "answer": "Both primary memory and microprocessor chip"
+        },
+        {
+          "id": 504,
+          "question": "Microprocessors as switching devices are for which generation computers?",
+          "options": [
+            "First Generation",
+            "Second Generation",
+            "Third Generation",
+            "Fourth Generation"
+          ],
+          "answer": "Fourth Generation"
+        },
+        {
+          "id": 505,
+          "question": "What is the brain of any computer system?",
+          "options": [
+            "ALU",
+            "Memory",
+            "CPU",
+            "Control Unit"
+          ],
+          "answer": "CPU"
+        },
+        {
+          "id": 506,
+          "question": "Which memory is volatile?",
+          "options": [
+            "ROM",
+            "Hard Disk",
+            "RAM",
+            "SSD"
+          ],
+          "answer": "RAM"
+        },
+        {
+          "id": 507,
+          "question": "Storage capacity of magnetic disk depends on?",
+          "options": [
+            "Tracks per inch of surface",
+            "Bits per inch of tracks",
+            "Disk pack in disk surface",
+            "All of the above"
+          ],
+          "answer": "All of the above"
+        },
+        {
+          "id": 508,
+          "question": "The two kinds of main memory are?",
+          "options": [
+            "Primary and secondary",
+            "Random and sequential",
+            "ROM and RAM",
+            "All of the above"
+          ],
+          "answer": "ROM and RAM"
+        },
+        {
+          "id": 509,
+          "question": "Which device is an input device?",
+          "options": [
+            "Monitor",
+            "Printer",
+            "Keyboard",
+            "Speaker"
+          ],
+          "answer": "Keyboard"
+        },
+        {
+          "id": 510,
+          "question": "Which generation of computers used Integrated Circuits?",
+          "options": [
+            "First generation",
+            "Second generation",
+            "Third generation",
+            "Fourth generation"
+          ],
+          "answer": "Third generation"
+        },
+        {
+          "id": 511,
+          "question": "Which type of memory is used to store the BIOS program?",
+          "options": [
+            "RAM",
+            "ROM",
+            "Cache Memory",
+            "Virtual Memory"
+          ],
+          "answer": "ROM"
+        },
+        {
+          "id": 512,
+          "question": "Which of the following is not an input device?",
+          "options": [
+            "OCR",
+            "Optical scanner",
+            "Voice recognition device",
+            "COM (Computer Output to Microfilm)"
+          ],
+          "answer": "COM (Computer Output to Microfilm)"
+        },
+        {
+          "id": 513,
+          "question": "What is the output quality of a printer measured by?",
+          "options": [
+            "Dot per inch",
+            "Dot per character",
+            "Dots printed per unit time",
+            "All of the above"
+          ],
+          "answer": "Dot per inch"
+        },
+        {
+          "id": 514,
+          "question": "Which was the first electronic computer?",
+          "options": [
+            "ENIAC",
+            "EDVAC",
+            "ABC",
+            "Mark I"
+          ],
+          "answer": "ENIAC"
+        },
+        {
+          "id": 515,
+          "question": "Magnetic disks are the most popular medium for?",
+          "options": [
+            "Direct access",
+            "Sequential access",
+            "Both direct and sequential access",
+            "None of the above"
+          ],
+          "answer": "Direct access"
+        },
+        {
+          "id": 516,
+          "question": "A dumb terminal has?",
+          "options": [
+            "An embedded microprocessor",
+            "Extensive memory",
+            "Independent processing capability",
+            "A keyboard and screen"
+          ],
+          "answer": "A keyboard and screen"
+        },
+        {
+          "id": 517,
+          "question": "One millisecond is?",
+          "options": [
+            "1 second",
+            "10⁻³ of a second",
+            "1000th of a second",
+            "10000th of a second"
+          ],
+          "answer": "1000th of a second"
+        },
+        {
+          "id": 518,
+          "question": "Which storage device stores maximum amount of data?",
+          "options": [
+            "Floppy disk",
+            "Hard disk",
+            "Compact disk",
+            "Magneto optic disk"
+          ],
+          "answer": "Hard disk"
+        },
+        {
+          "id": 519,
+          "question": "Which bus connects the microprocessor with memory?",
+          "options": [
+            "Data bus",
+            "Address bus",
+            "Control bus",
+            "All of the above"
+          ],
+          "answer": "Address bus"
+        },
+        {
+          "id": 520,
+          "question": "Which computer language uses mnemonics?",
+          "options": [
+            "Machine language",
+            "Assembly language",
+            "High-level language",
+            "None of the above"
+          ],
+          "answer": "Assembly language"
+        },
+        {
+          "id": 521,
+          "question": "What does BCD stand for?",
+          "options": [
+            "Binary Coded Decimal",
+            "Bit Coded Decimal",
+            "Binary Coded Digit",
+            "Bit Coded Digit"
+          ],
+          "answer": "Binary Coded Decimal"
+        },
+        {
+          "id": 522,
+          "question": "Which is used as primary storage?",
+          "options": [
+            "Magnetic drum",
+            "Hard disk",
+            "Floppy disk",
+            "RAM"
+          ],
+          "answer": "RAM"
+        },
+        {
+          "id": 523,
+          "question": "Which unit performs arithmetic and logical operations?",
+          "options": [
+            "Control Unit",
+            "Memory Unit",
+            "ALU",
+            "Input Unit"
+          ],
+          "answer": "ALU"
+        },
+        {
+          "id": 524,
+          "question": "Which of the following is system software?",
+          "options": [
+            "Compiler",
+            "Text editor",
+            "Operating system",
+            "All of the above"
+          ],
+          "answer": "All of the above"
+        },
+        {
+          "id": 525,
+          "question": "What is the smallest unit of data?",
+          "options": [
+            "Bit",
+            "Byte",
+            "Word",
+            "Nibble"
+          ],
+          "answer": "Bit"
+        },
+        {
+          "id": 526,
+          "question": "Which generation of computers used vacuum tubes?",
+          "options": [
+            "First generation",
+            "Second generation",
+            "Third generation",
+            "Fourth generation"
+          ],
+          "answer": "First generation"
+        },
+        {
+          "id": 527,
+          "question": "Which of the following is a volatile memory?",
+          "options": [
+            "ROM",
+            "EPROM",
+            "RAM",
+            "Hard disk"
+          ],
+          "answer": "RAM"
+        },
+        {
+          "id": 528,
+          "question": "Which device converts analog signal into digital?",
+          "options": [
+            "Analog to digital converter",
+            "Pulse stretcher",
+            "Query processing",
+            "Queue management"
+          ],
+          "answer": "Analog to digital converter"
+        },
+        {
+          "id": 529,
+          "question": "Which of the following is a peripheral device?",
+          "options": [
+            "CPU",
+            "ALU",
+            "Monitor",
+            "Control Unit"
+          ],
+          "answer": "Monitor"
+        },
+        {
+          "id": 530,
+          "question": "Vacuum tube was invented in?",
+          "options": [
+            "1880",
+            "1900",
+            "1906",
+            "1910"
+          ],
+          "answer": "1906"
+        },
+        {
+          "id": 531,
+          "question": "Which printer produces best quality graphics?",
+          "options": [
+            "Dot matrix printer",
+            "Inkjet printer",
+            "Laser printer",
+            "Plotter"
+          ],
+          "answer": "Plotter"
+        },
+        {
+          "id": 532,
+          "question": "80286 microprocessor is used in?",
+          "options": [
+            "XT computer",
+            "AT computer",
+            "PS/2 computer",
+            "None of the above"
+          ],
+          "answer": "AT computer"
+        },
+        {
+          "id": 533,
+          "question": "Which of the following is not processing?",
+          "options": [
+            "Arranging",
+            "Manipulating",
+            "Calculating",
+            "Gathering"
+          ],
+          "answer": "Gathering"
+        },
+        {
+          "id": 534,
+          "question": "Digital computer was developed primarily in?",
+          "options": [
+            "USSR",
+            "Japan",
+            "USA",
+            "UK"
+          ],
+          "answer": "USA"
+        },
+        {
+          "id": 535,
+          "question": "Software is used to?",
+          "options": [
+            "Enhance hardware capability",
+            "Increase speed of CPU",
+            "Control hardware",
+            "All of the above"
+          ],
+          "answer": "All of the above"
+        },
+        {
+          "id": 536,
+          "question": "Before accessing any disk sector, what must be provided?",
+          "options": [
+            "Track number",
+            "Sector number",
+            "Surface number",
+            "All of the above"
+          ],
+          "answer": "All of the above"
+        },
+        {
+          "id": 537,
+          "question": "Arranging data in logical sequence is called?",
+          "options": [
+            "Sorting",
+            "Classifying",
+            "Summarizing",
+            "Reproducing"
+          ],
+          "answer": "Sorting"
+        },
+        {
+          "id": 538,
+          "question": "Logical unit of CPU is responsible for?",
+          "options": [
+            "Producing results",
+            "Comparing numbers",
+            "Control flow",
+            "Math operations"
+          ],
+          "answer": "Comparing numbers"
+        },
+        {
+          "id": 539,
+          "question": "Abacus was the first?",
+          "options": [
+            "Electronic computer",
+            "Mechanical computer",
+            "Electronic calculator",
+            "Mechanical calculator"
+          ],
+          "answer": "Mechanical calculator"
+        },
+        {
+          "id": 540,
+          "question": "16 bits address in RAM can specify how many locations?",
+          "options": [
+            "216",
+            "65,536",
+            "64K",
+            "Any of the above"
+          ],
+          "answer": "Any of the above"
+        },
+        {
+          "id": 541,
+          "question": "Instructions and memory addresses are represented by?",
+          "options": [
+            "Character code",
+            "Binary codes",
+            "Binary word",
+            "Parity bit"
+          ],
+          "answer": "Binary codes"
+        },
+        {
+          "id": 542,
+          "question": "POS terminal functions as?",
+          "options": [
+            "Data collection terminal",
+            "OCR terminal",
+            "Video display terminal",
+            "Cash register terminal"
+          ],
+          "answer": "Cash register terminal"
+        },
+        {
+          "id": 543,
+          "question": "Set of flip-flops integrated together is called?",
+          "options": [
+            "Counter",
+            "Adder",
+            "Register",
+            "None"
+          ],
+          "answer": "Register"
+        },
+        {
+          "id": 544,
+          "question": "People often call which as the brain of computer?",
+          "options": [
+            "Control unit",
+            "ALU",
+            "CPU",
+            "Storage unit"
+          ],
+          "answer": "CPU"
+        },
+        {
+          "id": 545,
+          "question": "Chips are manufactured using?",
+          "options": [
+            "Bus",
+            "Control unit",
+            "Semiconductors",
+            "Transistors"
+          ],
+          "answer": "Semiconductors"
+        },
+        {
+          "id": 546,
+          "question": "Mnemonic memory trick is used in?",
+          "options": [
+            "Machine language",
+            "Assembly language",
+            "High level language",
+            "None"
+          ],
+          "answer": "Assembly language"
+        },
+        {
+          "id": 547,
+          "question": "Instruction in computer language consists of?",
+          "options": [
+            "Opcode",
+            "Operand",
+            "Both opcode and operand",
+            "None"
+          ],
+          "answer": "Both opcode and operand"
+        },
+        {
+          "id": 548,
+          "question": "Which generation of computer is still under development?",
+          "options": [
+            "Fourth",
+            "Fifth",
+            "Sixth",
+            "Seventh"
+          ],
+          "answer": "Fifth"
+        },
+        {
+          "id": 549,
+          "question": "Register used for left or right shift is called?",
+          "options": [
+            "Counter",
+            "Loader",
+            "Adder",
+            "Shift register"
+          ],
+          "answer": "Shift register"
+        },
+        {
+          "id": 550,
+          "question": "Most popular first generation computer was?",
+          "options": [
+            "IBM 650",
+            "IBM 360",
+            "IBM 1130",
+            "IBM 2700"
+          ],
+          "answer": "IBM 650"
+        },
+        {
+          "id": 551,
+          "question": "Direct entry input device is?",
+          "options": [
+            "Optical scanner",
+            "Mouse",
+            "Light pen",
+            "All of the above"
+          ],
+          "answer": "All of the above"
+        },
+        {
+          "id": 552,
+          "question": "Process description defines?",
+          "options": [
+            "Process control",
+            "ALU",
+            "Register unit",
+            "Status of resources"
+          ],
+          "answer": "Status of resources"
+        },
+        {
+          "id": 553,
+          "question": "Napier’s bones consisted of how many rods?",
+          "options": [
+            "5",
+            "9",
+            "11",
+            "13"
+          ],
+          "answer": "9"
+        },
+        {
+          "id": 554,
+          "question": "World’s first laptop was introduced in?",
+          "options": [
+            "1980",
+            "1981",
+            "1982",
+            "1985"
+          ],
+          "answer": "1981"
+        },
+        {
+          "id": 555,
+          "question": "Operating systems were developed in which generation?",
+          "options": [
+            "First",
+            "Second",
+            "Third",
+            "Fourth"
+          ],
+          "answer": "Third"
+        },
+        {
+          "id": 556,
+          "question": "First firm to mass market personal computer?",
+          "options": [
+            "IBM",
+            "Super UNIVAC",
+            "Radio Shacks",
+            "Data General"
+          ],
+          "answer": "IBM"
+        },
+        {
+          "id": 557,
+          "question": "Properly arranged data is called?",
+          "options": [
+            "Field",
+            "Word",
+            "Information",
+            "File"
+          ],
+          "answer": "Information"
+        },
+        {
+          "id": 558,
+          "question": "A computer consists of?",
+          "options": [
+            "CPU",
+            "Memory",
+            "Input/output unit",
+            "All of the above"
+          ],
+          "answer": "All of the above"
+        },
+        {
+          "id": 559,
+          "question": "Vacuum tubes are also called valves because?",
+          "options": [
+            "Amplify weak signals",
+            "Control current flow",
+            "Both",
+            "None"
+          ],
+          "answer": "Both"
+        },
+        {
+          "id": 560,
+          "question": "In Which year were logarithms invented?",
+          "options": [
+            "1614",
+            "1617",
+            "1620",
+            "None"
+          ],
+          "answer": "1614"
+        },
+        {
+          "id": 561,
+          "question": "Integrated circuit is?",
+          "options": [
+            "Complicated circuit",
+            "Integrating device",
+            "Costlier than transistor",
+            "Fabricated on silicon chip"
+          ],
+          "answer": "Fabricated on silicon chip"
+        },
+        {
+          "id": 562,
+          "question": "Bus arbitration is used to?",
+          "options": [
+            "Control devices",
+            "Interrupt",
+            "Regulate traffic on bus",
+            "Status check"
+          ],
+          "answer": "Regulate traffic on bus"
+        },
+        {
+          "id": 563,
+          "question": "Trackball mouse movement is?",
+          "options": [
+            "Stationary",
+            "Difficult",
+            "Dragged",
+            "Moved in small steps"
+          ],
+          "answer": "Stationary"
+        },
+        {
+          "id": 564,
+          "question": "Primary storage device is?",
+          "options": [
+            "Magnetic drum",
+            "Hard disk",
+            "Floppy",
+            "RAM"
+          ],
+          "answer": "RAM"
+        },
+        {
+          "id": 565,
+          "question": "Multi-user systems reduce cost because they use?",
+          "options": [
+            "Single unit",
+            "Workstations",
+            "Dumb terminals",
+            "Mainframes"
+          ],
+          "answer": "Dumb terminals"
+        },
+        {
+          "id": 566,
+          "question": "ALU performs which decisions?",
+          "options": [
+            "Greater than",
+            "Less than",
+            "Equal to",
+            "All of the above"
+          ],
+          "answer": "All of the above"
+        },
+        {
+          "id": 567,
+          "question": "Changing document appearance is called?",
+          "options": [
+            "Editing",
+            "Writing",
+            "Formatting",
+            "All"
+          ],
+          "answer": "Formatting"
+        },
+        {
+          "id": 568,
+          "question": "Algorithm and flowchart help to?",
+          "options": [
+            "Know memory capacity",
+            "Identify base of number",
+            "Direct output",
+            "Specify problem clearly"
+          ],
+          "answer": "Specify problem clearly"
+        },
+        {
+          "id": 569,
+          "question": "Difference between memory and storage is?",
+          "options": [
+            "Temporary and permanent",
+            "Permanent and temporary",
+            "Slow and fast",
+            "All"
+          ],
+          "answer": "All"
+        },
+        {
+          "id": 570,
+          "question": "Pascaline was invented in?",
+          "options": [
+            "1617",
+            "1620",
+            "1642",
+            "1837"
+          ],
+          "answer": "1642"
+        },
+        {
+          "id": 571,
+          "question": "Compiler is a program which?",
+          "options": [
+            "Translates high-level language",
+            "Translates machine language",
+            "Executes program",
+            "None"
+          ],
+          "answer": "Translates high-level language"
+        },
+        {
+          "id": 572,
+          "question": "Device required for multiple users?",
+          "options": [
+            "Light pen",
+            "Mouse",
+            "Digitizer",
+            "Terminal"
+          ],
+          "answer": "Terminal"
+        },
+        {
+          "id": 573,
+          "question": "First stored program computer?",
+          "options": [
+            "UNIVAC",
+            "ENIAC",
+            "EDSAC",
+            "None"
+          ],
+          "answer": "EDSAC"
+        },
+        {
+          "id": 574,
+          "question": "Gigabyte refers to?",
+          "options": [
+            "1024 bytes",
+            "1024 kilobytes",
+            "1024 megabytes",
+            "1024 gigabytes"
+          ],
+          "answer": "1024 megabytes"
+        },
+        {
+          "id": 575,
+          "question": "Computer feature that works without intervention?",
+          "options": [
+            "Accuracy",
+            "Reliability",
+            "Versatility",
+            "Automatic"
+          ],
+          "answer": "Automatic"
+        },
+        {
+          "id": 576,
+          "question": "Brand means?",
+          "options": [
+            "Company name",
+            "Product identity",
+            "Product indication",
+            "All"
+          ],
+          "answer": "All"
+        },
+        {
+          "id": 577,
+          "question": "Machine language is?",
+          "options": [
+            "Machine dependent",
+            "Difficult",
+            "Error prone",
+            "All"
+          ],
+          "answer": "All"
+        },
+        {
+          "id": 578,
+          "question": "A byte consists of?",
+          "options": [
+            "One bit",
+            "Four bits",
+            "Eight bits",
+            "Sixteen bits"
+          ],
+          "answer": "Eight bits"
+        },
+        {
+          "id": 579,
+          "question": "Modern computers are reliable but not?",
+          "options": [
+            "Fast",
+            "Powerful",
+            "Infallible",
+            "Cheap"
+          ],
+          "answer": "Infallible"
+        },
+        {
+          "id": 580,
+          "question": "Babbage conceived analytical engine in?",
+          "options": [
+            "1642",
+            "1837",
+            "1880",
+            "1850"
+          ],
+          "answer": "1837"
+        },
+        {
+          "id": 581,
+          "question": "What was the expected feature of fifth generation computers when Japan started FGCS?",
+          "options": [
+            "Operating systems",
+            "Parallel processing",
+            "VLSI",
+            "None of the above"
+          ],
+          "answer": "Parallel processing"
+        },
+        {
+          "id": 582,
+          "question": "Which of the following memory medium is not used as main memory system?",
+          "options": [
+            "Magnetic core",
+            "Semiconductor",
+            "Magnetic tape",
+            "Both semiconductor and magnetic tape"
+          ],
+          "answer": "Magnetic tape"
+        },
+        {
+          "id": 583,
+          "question": "The storage subsystem in a microcomputer consists mainly of?",
+          "options": [
+            "Memory or video",
+            "Magnetic or optical",
+            "Optical or memory",
+            "Video or magnetic"
+          ],
+          "answer": "Magnetic or optical"
+        },
+        {
+          "id": 584,
+          "question": "Programs designed to perform specific tasks are known as?",
+          "options": [
+            "System software",
+            "Application software",
+            "Utility programs",
+            "Operating system"
+          ],
+          "answer": "Application software"
+        },
+        {
+          "id": 585,
+          "question": "Machine language is?",
+          "options": [
+            "Machine dependent",
+            "Difficult to program",
+            "Error prone",
+            "All of the above"
+          ],
+          "answer": "All of the above"
+        },
+        {
+          "id": 586,
+          "question": "Which generation of computer is associated with artificial intelligence?",
+          "options": [
+            "Third generation",
+            "Fourth generation",
+            "Fifth generation",
+            "Sixth generation"
+          ],
+          "answer": "Fifth generation"
+        },
+        {
+          "id": 587,
+          "question": "Which type of software controls the operations of a computer?",
+          "options": [
+            "Application software",
+            "System software",
+            "Utility software",
+            "Compiler"
+          ],
+          "answer": "System software"
+        },
+        {
+          "id": 588,
+          "question": "What is the main function of an operating system?",
+          "options": [
+            "Memory management",
+            "Process management",
+            "Device management",
+            "All of the above"
+          ],
+          "answer": "All of the above"
+        },
+        {
+          "id": 589,
+          "question": "Which of the following is not an operating system?",
+          "options": [
+            "Windows",
+            "Linux",
+            "Oracle",
+            "UNIX"
+          ],
+          "answer": "Oracle"
+        },
+        {
+          "id": 590,
+          "question": "Which memory is used to store BIOS?",
+          "options": [
+            "RAM",
+            "ROM",
+            "Cache",
+            "Register"
+          ],
+          "answer": "ROM"
+        },
+        {
+          "id": 591,
+          "question": "Which key combination is used to refresh a webpage?",
+          "options": [
+            "Ctrl + R",
+            "Ctrl + C",
+            "Ctrl + V",
+            "Ctrl + X"
+          ],
+          "answer": "Ctrl + R"
+        },
+        {
+          "id": 592,
+          "question": "Which device is used to connect a computer to a network?",
+          "options": [
+            "Scanner",
+            "Router",
+            "Printer",
+            "Monitor"
+          ],
+          "answer": "Router"
+        },
+        {
+          "id": 593,
+          "question": "Which protocol is used for web browsing?",
+          "options": [
+            "FTP",
+            "SMTP",
+            "HTTP",
+            "POP3"
+          ],
+          "answer": "HTTP"
+        },
+        {
+          "id": 594,
+          "question": "What does URL stand for?",
+          "options": [
+            "Uniform Resource Locator",
+            "Universal Resource Link",
+            "Uniform Record Link",
+            "Universal Record Locator"
+          ],
+          "answer": "Uniform Resource Locator"
+        },
+        {
+          "id": 595,
+          "question": "Which of the following is an example of application software?",
+          "options": [
+            "MS Word",
+            "Linux",
+            "Windows",
+            "Compiler"
+          ],
+          "answer": "MS Word"
+        },
+        {
+          "id": 596,
+          "question": "What does GUI stand for?",
+          "options": [
+            "Graphical User Interface",
+            "General User Interface",
+            "Graphical Utility Interface",
+            "Global User Interface"
+          ],
+          "answer": "Graphical User Interface"
+        },
+        {
+          "id": 597,
+          "question": "Which memory is fastest?",
+          "options": [
+            "RAM",
+            "Cache",
+            "ROM",
+            "Hard disk"
+          ],
+          "answer": "Cache"
+        },
+        {
+          "id": 598,
+          "question": "What is the full form of USB?",
+          "options": [
+            "Universal Serial Bus",
+            "Uniform System Bus",
+            "Universal System Board",
+            "Unified Serial Board"
+          ],
+          "answer": "Universal Serial Bus"
+        },
+        {
+          "id": 599,
+          "question": "Which device is used to permanently store data?",
+          "options": [
+            "RAM",
+            "Cache",
+            "Hard disk",
+            "Register"
+          ],
+          "answer": "Hard disk"
+        },
+        {
+          "id": 600,
+          "question": "What is the function of the control unit?",
+          "options": [
+            "Perform calculations",
+            "Store data",
+            "Control all operations",
+            "Display output"
+          ],
+          "answer": "Control all operations"
+        }
+      ]
+    }
+  ]
+}
